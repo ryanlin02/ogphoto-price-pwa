@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#173f3b">
+    <meta name="description" content="橙攝公開器材價目與品項詳情的個人手機查詢工具。">
+    <link rel="manifest" href="manifest.webmanifest">
+    <link rel="icon" href="icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="icon.svg">
+    <link rel="stylesheet" href="style.css">
+    <title>橙攝器材查價</title>
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">個人查價工具 · 資料以官方為準</p>
+          <h1>橙攝器材查價</h1>
+        </div>
+        <button id="favoritesButton" class="icon-button" type="button" aria-label="只顯示我的收藏" aria-pressed="false">
+          <span aria-hidden="true">★</span><small>收藏</small>
+        </button>
+      </header>
+
+      <main>
+        <section class="search-panel" aria-label="搜尋與篩選">
+          <label class="search-box" for="searchInput">
+            <span aria-hidden="true">⌕</span>
+            <input id="searchInput" type="search" autocomplete="off" placeholder="搜尋器材、型號、規格，例如 RF 24-70">
+            <button id="clearSearch" class="clear-search" type="button" aria-label="清除搜尋" hidden>×</button>
+          </label>
+          <div class="filter-row">
+            <label class="compact-select">排序
+              <select id="sortSelect">
+                <option value="category">依官方分類</option>
+                <option value="price-asc">每日租金：低至高</option>
+                <option value="price-desc">每日租金：高至低</option>
+                <option value="name">品名 A-Z</option>
+              </select>
+            </label>
+            <button id="updateButton" class="update-button" type="button">檢查更新</button>
+          </div>
+          <p id="dataStatus" class="data-status" aria-live="polite">正在載入公開價目資料…</p>
+        </section>
+
+        <section class="category-section" aria-label="器材分類">
+          <div id="groupTabs" class="group-tabs" role="tablist" aria-label="大分類"></div>
+          <div id="categoryChips" class="category-chips"></div>
+        </section>
+
+        <section class="results-section" aria-live="polite">
+          <div class="results-heading">
+            <p id="resultSummary">載入中</p>
+            <button id="resetFilters" class="text-button" type="button" hidden>清除篩選</button>
+          </div>
+          <div id="productList" class="product-list" aria-label="器材清單"></div>
+          <div id="emptyState" class="empty-state" hidden>
+            <strong>找不到符合的器材</strong>
+            <span>請換個關鍵字，或清除分類與收藏篩選。</span>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <dialog id="detailDialog" class="detail-dialog" aria-label="器材詳情">
+      <article id="detailContent"></article>
+    </dialog>
+
+    <template id="productCardTemplate">
+      <article class="product-card">
+        <button class="card-main" type="button">
+          <div class="card-image-wrap"><img class="card-image" alt="" loading="lazy"></div>
+          <div class="card-copy">
+            <p class="category-label"></p>
+            <h2></h2>
+            <p class="detail-preview"></p>
+          </div>
+          <div class="rate-block"><span>每日</span><strong></strong><small>元</small></div>
+        </button>
+        <button class="favorite-button" type="button" aria-label="加入收藏" aria-pressed="false">☆</button>
+      </article>
+    </template>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>

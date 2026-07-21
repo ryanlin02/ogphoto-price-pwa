@@ -1,0 +1,12 @@
+{
+  "name": "橙攝器材查價",
+  "short_name": "橙攝查價",
+  "description": "橙攝公開器材價目與品項詳情的個人手機查詢工具。",
+  "lang": "zh-Hant-TW",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f4ee",
+  "theme_color": "#173f3b",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

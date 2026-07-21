@@ -1,4 +1,4 @@
-const STATIC_CACHE = 'ogphoto-static-v1';
+const STATIC_CACHE = 'ogphoto-static-v2';
 const DATA_CACHE = 'ogphoto-data-v1';
 const STATIC_FILES = ['./', './index.html', './style.css', './app.js', './manifest.webmanifest', './icon.svg'];
 
@@ -6,7 +6,11 @@ self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(STATIC_CACHE).then((cache) => cache.addAll(STATIC_FILES)));
   self.skipWaiting();
 });
-self.addEventListener('activate', (event) => event.waitUntil(self.clients.claim()));
+self.addEventListener('activate', (event) => event.waitUntil(
+  caches.keys().then((keys) => Promise.all(
+    keys.filter((key) => ![STATIC_CACHE, DATA_CACHE].includes(key)).map((key) => caches.delete(key)),
+  )).then(() => self.clients.claim()),
+));
 self.addEventListener('fetch', (event) => {
   const request = event.request;
   const url = new URL(request.url);

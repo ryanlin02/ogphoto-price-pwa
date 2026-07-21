@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-07-21T12:46:26.245Z",
+  "generatedAt": "2026-07-21T12:52:42.083Z",
   "categoryCount": 67,
   "productCount": 412,
   "categories": [
@@ -518,7 +518,7 @@
       "dailyRate": "200",
       "deposit": "1000",
       "promissoryNote": "5000",
-      "imageUrl": "../files/zimg72布幕-1634702701.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg72%E5%B8%83%E5%B9%95-1634702701.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=356",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n------------------------------------\n\n長邊 : 177cm",
       "accessories": "布幕底扣 * 1\n\n支架 * 1"
@@ -546,7 +546,7 @@
       "dailyRate": "650",
       "deposit": "3000",
       "promissoryNote": "11000",
-      "imageUrl": "../files/zimg投影機-1634702408.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E6%8A%95%E5%BD%B1%E6%A9%9F-1634702408.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=355",
       "description": "‧亮：色彩亮度:2600lm\n\n‧對比度: 3000:1\n\n‧快速開機 / 0秒關機\n\n‧5000小時長效燈泡\n\n*\n\n環境規格-消耗電力\n\n約283W / 234W (Normal / Eco)",
       "accessories": "電源線 * 1\n\nAV影像線 * 1\n\nVGA影像線*1\n\nHDMI 轉 VGA 轉接線 * 1 (含電源線)\n\n遙控器 * 1\n收納包 * 1"
@@ -686,7 +686,7 @@
       "dailyRate": "450",
       "deposit": "3000",
       "promissoryNote": "25000",
-      "imageUrl": "../files/zimgcanon-ef-eos-m6-1606319998.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgcanon-ef-eos-m6-1606319998.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=273",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n------------------------------------\n\n■ 3250 萬畫素\n\n■ 觸控及拖曳 AF\n\n■ 對焦涵蓋率 88% x 100%\n\n■ 5481 個自動對焦位置\n\n■ 最快每秒 14 張連拍\n\n■ EV -5 的低光源對焦能力\n\n■ Digic 8 影像處理器\n\n■ 4K 攝錄",
       "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\nSD128G 記憶卡 * 1\n\n機身蓋*1\n\nEF-EOS M 轉接環\n相機包 * 1"
@@ -700,7 +700,7 @@
       "dailyRate": "600",
       "deposit": "4000",
       "promissoryNote": "42000",
-      "imageUrl": "../files/zimg6d2-1646904153.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg6d2-1646904153.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=168",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\n全新2,620萬像素全片幅尺寸CMOS 影像感應器\n\n配備雙像素CMOS自動對焦（DAF）技術\n\n標準ISO範圍100-40000.\n\n採用最新DIGIC 7數位影像處理器\n\n連續拍攝速度最高約每秒6.5張",
       "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\nSD128G 記憶卡 * 1\n\n機身蓋*1\n\n相機包 * 1"
@@ -728,7 +728,7 @@
       "dailyRate": "800",
       "deposit": "4000",
       "promissoryNote": "45000",
-      "imageUrl": "../files/zimgr7-1674029000.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgr7-1674029000.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=444",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\n■最高約30FPS連拍速度\n■3,250萬像素高速影像感測器\n■支援自動對焦及自動曝光追蹤\n■智能追蹤及辨識\n■數位鏡頭優化功能進行影像校正",
       "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\nSD128G 記憶卡 * 1\n\n機身蓋*1\n\nEF-RF 轉接環\n相機包 * 1"
@@ -770,7 +770,7 @@
       "dailyRate": "1200",
       "deposit": "8000",
       "promissoryNote": "90000",
-      "imageUrl": "../files/zimgr5-1645431263.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgr5-1645431263.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=369",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\nEOS R5具開創性，是Canon第一台可錄製8K高解析影片的機種。\n\n藉助全新的動物偵測自動對焦和強大機身內影像穩定功能，\n\nRF接環系統可實現高達八級防手震，從中央到邊緣一致的高品\n\n質影像照片和影片，從EOS R5體驗Canon全片幅無反光鏡相機的最佳表現。\n\n■約4,500萬像素全片幅 CMOS影像感測器\n\n■最高8級機身內影像穩定 X 光學影像穩定\n\n■最高100% 自動對焦覆蓋率 + 動物偵測自動對焦\n\n■8K DCI 影片及4K DCI 120 fps影片錄製能力",
       "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\nSD128G 記憶卡 * 1\n\n機身蓋*1\n\nEF-RF 轉接環\n相機包 * 1"
@@ -784,7 +784,7 @@
       "dailyRate": "100",
       "deposit": "0",
       "promissoryNote": "1000",
-      "imageUrl": "../files/zimg未命名-1659712078.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E6%9C%AA%E5%91%BD%E5%90%8D-1659712078.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=404",
       "description": "適用 M3、M5、M6",
       "accessories": "電池連接線*1"
@@ -798,7 +798,7 @@
       "dailyRate": "100",
       "deposit": "0",
       "promissoryNote": "1000",
-      "imageUrl": "../files/zimge6n-1649773865.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimge6n-1649773865.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=371",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "",
@@ -843,7 +843,7 @@
       "dailyRate": "850",
       "deposit": "6000",
       "promissoryNote": "98000",
-      "imageUrl": "../files/zimg850-1585659282.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg850-1585659282.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=172",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\n■4,575萬有效像素，全片幅CMOS 無低通濾鏡\n\n■ISO 64至25600，可擴展至32-102400\n\n■EXPEED 5影像處理引擎，優秀畫質表現\n\n■支援4K高畫質錄影與8K縮時攝影\n\n■153點自動對焦，捕捉關鍵畫面\n\n■最高每秒9張高速連拍，\n\n■全新靜音快門攝影\n\n■全新對焦移動拍攝功能\n\n■翻掀式觸控螢幕，XQD&SD雙卡插槽\n\n■0.75倍超大光學景觀窗",
       "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\nSD128G 記憶卡 * 1\n\n機身蓋*1\n\n相機包 * 1"
@@ -857,7 +857,7 @@
       "dailyRate": "700",
       "deposit": "5000",
       "promissoryNote": "66000",
-      "imageUrl": "../files/zimgz6-1588499207.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgz6-1588499207.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=197",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\n■ 2450萬像素全片幅CMOS\n\n■ 273點相位檢測對焦\n\n■ 14FPS高速連拍\n\n■ 可擴展至-3EV曝光補償\n\n■ 雙 EXPEED 6 影像處理引擎",
       "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\n機身蓋*1\n\nFTZ 轉接環\n\n讀卡機\n相機包 * 1\n\nXQD 64G * 1"
@@ -955,7 +955,7 @@
       "dailyRate": "1300",
       "deposit": "8000",
       "promissoryNote": "120000",
-      "imageUrl": "../files/zimgfx3-1653642163.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgfx3-1653642163.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=385",
       "description": "嘉義 租 SONY ILME - FX3 機身\n\n租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\n■ 全片幅 35mm 背照式感光元件\n\n■ 雙 Base ISO 800/12800\n\n■ 具 15+ 級廣域動態範圍\n\n■ 4K 120p FHD 240p，高畫質慢動作錄影\n\n■ 全新 Log 拍攝模式，具備 CineEI 模式錄製最高影像品質\n\n■ 可匯入自定義 LUT 進行成像監看\n\n■ 五軸防手震，並具備積極防手震\n\n■ 內建散熱風扇，錄製不中斷",
       "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\nSD 64G (V90) * 1\n\n機身蓋*1\n\n收音提把(含兩顆螺絲) * 1\n相機包 * 1"
@@ -1041,7 +1041,7 @@
       "dailyRate": "100",
       "deposit": "0",
       "promissoryNote": "2000",
-      "imageUrl": "../files/zimg6400兔籠-1616653991.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg6400%E5%85%94%E7%B1%A0-1616653991.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=298",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "",
@@ -1071,7 +1071,7 @@
       "dailyRate": "350",
       "deposit": "2000",
       "promissoryNote": "12000",
-      "imageUrl": "../files/zimgs__57770362-1652290582.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgs__57770362-1652290582.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=381",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------",
       "accessories": "木質握柄 * 2 、15mm標準底座 * 1 、 30CM導管(15mm) * 2 、 上提握把 * 1 、 V掛電池背板 * 1"
@@ -1085,7 +1085,7 @@
       "dailyRate": "100",
       "deposit": "0",
       "promissoryNote": "1500",
-      "imageUrl": "../files/zimgfz100-1659711740.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgfz100-1659711740.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=405",
       "description": "適用 A7系列，A7S、A7S2、A7M、A7M2、A7",
       "accessories": ""
@@ -1099,7 +1099,7 @@
       "dailyRate": "100",
       "deposit": "0",
       "promissoryNote": "1600",
-      "imageUrl": "../files/zimg希鐵-1634200402.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E5%B8%8C%E9%90%B5-1634200402.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=352",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n----------------------------------\n\n可用於 : A7M3，A7R3，A7S3，A9",
       "accessories": ""
@@ -1113,7 +1113,7 @@
       "dailyRate": "100",
       "deposit": "0",
       "promissoryNote": "1600",
-      "imageUrl": "../files/zimgfz100-1634200415.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgfz100-1634200415.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=354",
       "description": "適用 A9、A73、A7R3、A7S3、A74、FX3",
       "accessories": ""
@@ -1127,7 +1127,7 @@
       "dailyRate": "100",
       "deposit": "0",
       "promissoryNote": "1100",
-      "imageUrl": "../files/zimgnpfw50-1635330369.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgnpfw50-1635330369.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=360",
       "description": "適用 A6300、A6400、A6500 ( 限110V電源 )",
       "accessories": ""
@@ -1183,7 +1183,7 @@
       "dailyRate": "100",
       "deposit": "1000",
       "promissoryNote": "4000",
-      "imageUrl": "../files/zimgcanon-ef-m-15-45mm-is-stm-1606819757.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgcanon-ef-m-15-45mm-is-stm-1606819757.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=275",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價\n\n-----------------------------------------\n\n■EOS M數位相機專用EF-M標準變焦鏡頭\n\n■全新研發9組10片光學鏡片結構\n\n■光學影像穩定器提供約3.5級快門&sup1;防震",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -1253,7 +1253,7 @@
       "dailyRate": "450",
       "deposit": "3000",
       "promissoryNote": "26000",
-      "imageUrl": "../files/zimg12-24-1662006720.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg12-24-1662006720.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=408",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\n分類 : 超廣角變焦鏡頭\n\n對應最大片幅 : 35mm 全片幅\n\n焦距 : 12 - 24 mm\n\n光圈 : f/4.5 - f/5.6\n\n視角 : 84.1&deg; - 122&deg;（對角）\n\n光圈葉片數 : 6\n\n最小光圈 : 22\n\n最近對焦距離 : 0.28 米\n\n放大倍率 : 1:7.1\n\n對焦系統 : HSM (超聲波馬達) IF 內對焦\n\n變焦系統 : 轉鏡\n\n濾光鏡尺寸 : 後置式 mm\n\n直徑 x 鏡長 : 87 x 120.2 mm\n\n重量 : 670 克",
       "accessories": "遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -1267,7 +1267,7 @@
       "dailyRate": "500",
       "deposit": "3000",
       "promissoryNote": "35000",
-      "imageUrl": "../files/zimgcanon-16-35mm-ii-1587970072.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgcanon-16-35mm-ii-1587970072.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=14",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n------------------------------------\n\nEF 16-35mm f/2.8L II USM鏡頭採用全新12組16片鏡片光學設計，\n\n其中3種高精度非球面鏡片，能確保於廣角拍攝時邊緣影像保持最佳畫質；\n\n其f/2.8大光圈在身處陰暗環境下拍攝時，能配合較高速快門，有效避免主體震動模糊。\n\n此外，其圓型光圈葉更能營造柔和的散景效果。\n\nEF16-35mm f/2.8L II USM 的鏡片塗膜亦為數位相機作出優化，減少眩光及鬼影現像。\n\n鏡頭更備有防塵防水滴設計，能應付嚴峻的戶外拍攝場合。",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -1281,7 +1281,7 @@
       "dailyRate": "680",
       "deposit": "5000",
       "promissoryNote": "69000",
-      "imageUrl": "../files/zimgcanon-16-35mm-iii-1587970094.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgcanon-16-35mm-iii-1587970094.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=160",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-----------------------------------\n\n作為備受專業攝影師及高階攝影愛好者推崇及\n\n愛用的EF 16-35mm f/2.8L II USM的後繼型號，\n\n全新鏡頭集合多片特殊光學鏡片及防反光鍍膜等頂尖光學技術、\n\n經大幅改良的堅固鏡頭結構及f2.8大光圈的卓越低光源拍攝能力，\n\n將影像品質，及耐用性推向更高層次，完美駕馭各類型拍攝狀況。\n\nEF 16-35mm f/2.8L III USM與超高解析的全片幅相機配合使用，\n\n能盡情釋放拍攝威力，為風景、建築物以至天文等拍攝題材，締造更震撼、悅目、細緻的超廣角影像。",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -1295,7 +1295,7 @@
       "dailyRate": "700",
       "deposit": "5000",
       "promissoryNote": "65000",
-      "imageUrl": "../files/zimgcanon-24-70mm-ii-1669728891.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgcanon-24-70mm-ii-1669728891.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=102",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n------------------------------------\n\n■比前代減輕15%，機動性十足\n\n■內對焦設計，更高速、寧靜及精確的自動對焦\n\n■搭配3片非球面鏡片1片Super UD鏡片及2片UD鏡片",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -1309,7 +1309,7 @@
       "dailyRate": "700",
       "deposit": "5000",
       "promissoryNote": "65000",
-      "imageUrl": "../files/zimgcanon-24-70mm-ii-1669728850.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgcanon-24-70mm-ii-1669728850.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=438",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n------------------------------------\n\n■比前代減輕15%，機動性十足\n■內對焦設計，更高速、寧靜及精確的自動對焦\n■搭配3片非球面鏡片1片Super UD鏡片及2片UD鏡片",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -1337,7 +1337,7 @@
       "dailyRate": "400",
       "deposit": "4000",
       "promissoryNote": "32000",
-      "imageUrl": "../files/zimgcanon-24-105mm-ii-1587970473.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgcanon-24-105mm-ii-1587970473.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=170",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n----------------------------------\n\n■廣角變焦鏡頭\n\n■專業單眼相機專用\n\n■防震效應：快門速度約增加3格\n\n■防塵防水滴設計2以應付嚴峻拍攝環境",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -1351,7 +1351,7 @@
       "dailyRate": "800",
       "deposit": "6000",
       "promissoryNote": "67000",
-      "imageUrl": "../files/zimg000001_1538645030-1669728659.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg000001_1538645030-1669728659.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=437",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\n■大幅改善防眩光效能的專業f/2.8防手震望遠變焦鏡頭\n\n■保留優良的19組23片光學設計\n\n■採用1片螢石鏡片及5片UD超低色散鏡片，大大減低於遠攝鏡頭特別常見的色差，帶來極高影像畫質\n\n■重量 : 1480g",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1\n腳架環 * 1"
@@ -1365,7 +1365,7 @@
       "dailyRate": "400",
       "deposit": "3000",
       "promissoryNote": "32000",
-      "imageUrl": "../files/zimg小小白-1587971289.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E5%B0%8F%E5%B0%8F%E7%99%BD-1587971289.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=117",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -1407,7 +1407,7 @@
       "dailyRate": "500",
       "deposit": "3000",
       "promissoryNote": "30000",
-      "imageUrl": "../files/zimg150-600-1571480423.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg150-600-1571480423.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=176",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1\n腳架環 * 1",
@@ -1478,7 +1478,7 @@
       "dailyRate": "400",
       "deposit": "3000",
       "promissoryNote": "30000",
-      "imageUrl": "../files/zimgcanon-100mm-f2.8l-1588477467.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgcanon-100mm-f2.8l-1588477467.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=37",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -1506,7 +1506,7 @@
       "dailyRate": "250",
       "deposit": "2000",
       "promissoryNote": "15000",
-      "imageUrl": "../files/zimg18-150-1674029716.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg18-150-1674029716.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=445",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -1548,7 +1548,7 @@
       "dailyRate": "450",
       "deposit": "3000",
       "promissoryNote": "32000",
-      "imageUrl": "../files/zimgrf-24-105-1588477770.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgrf-24-105-1588477770.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=196",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n----------------------------------",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -1604,7 +1604,7 @@
       "dailyRate": "400",
       "deposit": "3000",
       "promissoryNote": "28000",
-      "imageUrl": "../files/zimg50mm-f1.4dg-1588501524.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg50mm-f1.4dg-1588501524.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=113",
       "description": "租期3~5天：租用總金額9折\n租期6~9天：租用總金額8.5折\n租期10~19天：租用總金額8折\n租期20天以上：個案報價。\n--------------------------------------",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -1618,7 +1618,7 @@
       "dailyRate": "500",
       "deposit": "5000",
       "promissoryNote": "54000",
-      "imageUrl": "../files/zimg14-24mm-1588502457.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg14-24mm-1588502457.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=35",
       "description": "租期3~5天：租用總金額9折\n租期6~9天：租用總金額8.5折\n租期10~19天：租用總金額8折\n租期20天以上：個案報價。\n--------------------------------------",
       "accessories": "鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -1632,7 +1632,7 @@
       "dailyRate": "400",
       "deposit": "3000",
       "promissoryNote": "32000",
-      "imageUrl": "../files/zimg24-120mm-1588502486.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg24-120mm-1588502486.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=129",
       "description": "租期3~5天：租用總金額9折\n租期6~9天：租用總金額8.5折\n租期10~19天：租用總金額8折\n租期20天以上：個案報價。\n--------------------------------------",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -1646,7 +1646,7 @@
       "dailyRate": "500",
       "deposit": "3000",
       "promissoryNote": "40000",
-      "imageUrl": "../files/zimg24-70mm-1588502528.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg24-70mm-1588502528.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=26",
       "description": "租期3~5天：租用總金額9折\n租期6~9天：租用總金額8.5折\n租期10~19天：租用總金額8折\n租期20天以上：個案報價。\n--------------------------------------",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -1688,7 +1688,7 @@
       "dailyRate": "400",
       "deposit": "3000",
       "promissoryNote": "32000",
-      "imageUrl": "../files/zimgz-24-70mm-1588502729.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgz-24-70mm-1588502729.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=198",
       "description": "租期3~5天：租用總金額9折\n租期6~9天：租用總金額8.5折\n租期10~19天：租用總金額8折\n租期20天以上：個案報價。\n--------------------------------------",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -1758,7 +1758,7 @@
       "dailyRate": "450",
       "deposit": "2000",
       "promissoryNote": "21000",
-      "imageUrl": "../files/zimg35-1.4-1617015455.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg35-1.4-1617015455.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=307",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1\nMC-11轉接環"
@@ -1842,7 +1842,7 @@
       "dailyRate": "250",
       "deposit": "2000",
       "promissoryNote": "19000",
-      "imageUrl": "../files/zimgsel18135_a-large_201d5-1616485341.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgsel18135_a-large_201d5-1616485341.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=295",
       "description": "■APS-C 高倍率標準變焦鏡頭\n\n■內建光學影像穩定系統\n\n■近距離拍攝時美麗散景功能\n\n■快速、精準、安靜的自動對焦",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -1856,7 +1856,7 @@
       "dailyRate": "600",
       "deposit": "5000",
       "promissoryNote": "47000",
-      "imageUrl": "../files/zimgsony-1224g-1607434094.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgsony-1224g-1607434094.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=277",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------",
       "accessories": "鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -1870,7 +1870,7 @@
       "dailyRate": "700",
       "deposit": "4000",
       "promissoryNote": "59000",
-      "imageUrl": "../files/zimg16-35-1674117463.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg16-35-1674117463.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=211",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -1898,7 +1898,7 @@
       "dailyRate": "800",
       "deposit": "5000",
       "promissoryNote": "55000",
-      "imageUrl": "../files/zimg24-70gm2-1674117348.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg24-70gm2-1674117348.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=446",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\n頂級 G Master 標準變焦鏡頭\n\n四個原創高動力 XD (極高動態) 線性馬達確保優異自動對焦性能\n\n五枚非球面鏡片 (包含兩枚XA鏡片)、2 枚 ED 鏡片和 2 枚超級低色散 (Super ED) 鏡片) 締造高解析度\n\n全焦段均能拍攝出深邃柔美的 F2.8 景深拍照，並提供絕佳近拍性能\n\n防塵防滴設計*6 在任何情況中都能確保最佳可靠性和性能",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -1912,7 +1912,7 @@
       "dailyRate": "500",
       "deposit": "3000",
       "promissoryNote": "35000",
-      "imageUrl": "../files/zimg24-70mm-1588504433.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg24-70mm-1588504433.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=251",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1",
@@ -1927,7 +1927,7 @@
       "dailyRate": "400",
       "deposit": "3000",
       "promissoryNote": "28000",
-      "imageUrl": "../files/zimga036-1588504548.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimga036-1588504548.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=229",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -1941,7 +1941,7 @@
       "dailyRate": "450",
       "deposit": "3000",
       "promissoryNote": "35000",
-      "imageUrl": "../files/zimg24105-1677255640.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg24105-1677255640.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=451",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -1969,7 +1969,7 @@
       "dailyRate": "800",
       "deposit": "4000",
       "promissoryNote": "58000",
-      "imageUrl": "../files/zimg70-200mm-1588504524.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg70-200mm-1588504524.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=212",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\n■頂級 G Master 系列望遠變焦鏡頭\n\n■極限非球面鏡片(XA)，呈現精湛解析度\n\n■雙對焦組-環形超音波馬達(SSM)和雙線性馬達傳達更快，更精準的對焦\n\n■11 葉片圓形光圈可營造美麗的散景效果\n\n■Sony 奈米 AR 鍍膜抑制鬼影與耀光\n\n■防滴防塵最佳化設計",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1\n腳架環底座 * 1"
@@ -2039,7 +2039,7 @@
       "dailyRate": "700",
       "deposit": "4000",
       "promissoryNote": "58000",
-      "imageUrl": "../files/zimg200600-1671601990.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg200600-1671601990.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=439",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\n■ 防塵防滴設計\n\n■ 快速精準的自動對焦\n\n■ 三向可自訂對焦鎖定按鈕\n\n■ 奈米 AR鍍膜可杜絕耀光與鬼影\n\n■ 約2115 g",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1\n腳架環底座 * 1"
@@ -2109,7 +2109,7 @@
       "dailyRate": "600",
       "deposit": "4000",
       "promissoryNote": "50000",
-      "imageUrl": "../files/zimgsirui-50mm-t2.9-1.6x-1637053683.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgsirui-50mm-t2.9-1.6x-1637053683.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=362",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "",
@@ -2166,7 +2166,7 @@
       "dailyRate": "200",
       "deposit": "2000",
       "promissoryNote": "14000",
-      "imageUrl": "../files/zimgcanon-extender-ef-1.4x-iii-1592378498.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgcanon-extender-ef-1.4x-iii-1592378498.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=119",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n------------------------------------\n\n相容鏡頭:\n\nhttps://tw.canon/zh_TW/consumer/extender-ef-1-4xiii/specification?category=&subCategory=",
       "accessories": "鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
@@ -2208,7 +2208,7 @@
       "dailyRate": "150",
       "deposit": "1000",
       "promissoryNote": "3900",
-      "imageUrl": "../files/zimgcanon-mount-adapter-600x666-1606320247.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgcanon-mount-adapter-600x666-1606320247.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=274",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1",
@@ -2223,7 +2223,7 @@
       "dailyRate": "150",
       "deposit": "1000",
       "promissoryNote": "3000",
-      "imageUrl": "../files/zimgsigma-ud-01-1580370788.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgsigma-ud-01-1580370788.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=250",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "傳輸線 * 1\n\n收納盒*1",
@@ -2253,7 +2253,7 @@
       "dailyRate": "2300",
       "deposit": "20000",
       "promissoryNote": "200000",
-      "imageUrl": "../files/zimg0t4a3493-1-1664364835.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg0t4a3493-1-1664364835.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=417",
       "description": "嘉義 租 SONY ILME - FX6 機身\n\n租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\n■全片幅性能，具高感光度和預設電影畫面風格\n\n■走在尖端的電影功能，包含即時人眼追蹤對焦和面孔偵測\n\n■4K (QFHD) 高影格率 120 fps 錄製\n\n■內建電子可調式 ND 濾鏡\n\n■以 S-Cineton 實現電影級色彩科學\n\n■感光元件規格: 35 mm 全片幅單晶片 CMOS 感光元件\n\n■像素: 約 1,290 萬像素 (總共)，約 1,020 萬像素 (有效)\n\n■內建光學濾鏡 清晰的線性可調式 ND (1/4 ND 至 1/128 ND)\n\n■16 位元 RAW 資料輸出\n\n■感度: ISO 800/12,800\n\n■快門速度: 64F 至 1/8000 秒",
       "accessories": "充電器(含電源線) * 1\n\nSD128G 記憶卡 * 1\n\n機身蓋*1\n\n原廠提手收音模組 * 1\n\n原廠側扶手 * 1\n相機包 * 1"
@@ -2267,7 +2267,7 @@
       "dailyRate": "1300",
       "deposit": "7000",
       "promissoryNote": "100000",
-      "imageUrl": "../files/zimgx70-1620500203.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgx70-1620500203.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=324",
       "description": "-攝影機規格-\n\n感光元件：ExmorR 1.0type CMOS (13.2 x 8.8mm)\n\n​有效畫素：約 2000 萬 (16:9)\n\n使用鏡頭：Carl Zeiss Vario-Sonnar T* 鏡頭\n\n換算焦距：29-348mm (相當於35mm片幅時)\n\n光圈數值：廣角端 F2.8 / 望遠端 F4.5\n\n內建濾鏡：1/4ND、1/16ND、1/64ND\n\n近拍距離：廣角端約 1cm / 望遠端約 100cm\n\n濾鏡口徑：62mm\n\n聲音紀錄：杜比數位 5.1 / 2 聲道變焦麥克風\n\n錄音調整：可，手動 31 階\n\n觀景窗：0.99cm 4:3 OLED 電子觀景窗 (144萬點)\n\n液晶尺寸：3.5吋 16:9 觸控式螢幕 (156萬點)\n\n可動角度：上下翻轉 270 度\n\n亮度調整：可\n\n視野率：100%\n\n快門速度：1/8 - 1/10000秒\n\n錄影格式：\n\nXAVC QFHD Long422 / 3840x2160 / 30p(100m), 30p(60m), 24p(100m), 24p(60m),\n\nXAVC HD Long422 / 1920x1080 / 60p, 60i, 30p, 24p\n\nXAVC HD Long422 / 1280x720 / 60p\n\nAVCHD / 1920x1080 / 60p, 60i, 30p, 24p\n\nAVCHD / 1280x720 / 60p\n\nDV / 720x480 / 60i\n\n錄製時間：\n\nXAVC Long422：120分鐘\n\nAVCHD：290分鐘\n\nDV：280分鐘\n\n(以上時間以 SDXC 64GB 記憶卡為準)\n\nhttps://reurl.cc/gG23Zb (PlayMemories Home下載)",
       "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\nSD128G 記憶卡 * 1\n\n指向 MIC * 1\n\n收音提把(含兩顆螺絲) * 1\n相機包 * 1\n\n保護鏡*1\n\n遮光罩*1\n\n鏡頭前蓋*1\n\n變壓器 * 1"
@@ -2465,7 +2465,7 @@
       "dailyRate": "380",
       "deposit": "2000",
       "promissoryNote": "16000",
-      "imageUrl": "../files/zimgbrinno-工程縮時攝影機-1638630250.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgbrinno-%E5%B7%A5%E7%A8%8B%E7%B8%AE%E6%99%82%E6%94%9D%E5%BD%B1%E6%A9%9F-1638630250.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=366",
       "description": "長期租借租金\n\n2~7天 $300 /天\n\n8~20天 $250 /天\n\n21~45天 $160 /天\n\n46天以上 $140 /天\n\n------------------------------\n\n*請勿使用一般電池，最低需求須\"鹼性電池*\n\n■型號: TLC2020\n\n■搭載鏡頭: BCS019\n\n■解析度: 1080P\n\n■鏡頭光圈: F2.0\n\n■焦距 : 2.8 mm (Actual)\n\n19 mm (35mm 等效焦長)\n\n■鏡頭視角: 118&deg;\n\n■拍攝模式: 縮時攝影, 璉拍模式, 定格動畫及靜態影像\n\n■LCD 取景窗: 2\" TFT LCD\n\n■儲存媒介: microSD/ microSDHC/ microSDXC\n\n(最高支援128GB, 建議使用 Class 10等級以上)*2\n\n■電源供應: 4顆AA電池(請用大品牌較穩定的鹼性電池)\n\n■直流電 DC IN： 5V 1A ( USB-C 接頭)\n\n■電池壽命*4 : 請使用下方連結查詢\n\n■操作溫度: 32&deg;F &sim; 113&deg;F(0&deg;C &sim; 45&deg;C)\n\n■尺寸(WxHxD): 60 x 70.6 x 46.6 mm\n\n■重量: 97.5克 (不包含電池)\n\nhttps://www.brinno.com/tw/support/time_setting_calculator",
       "accessories": "64G記憶卡、防水殼、鏡頭蓋、大力夾、傳輸線、收納包"
@@ -2521,7 +2521,7 @@
       "dailyRate": "350",
       "deposit": "2000",
       "promissoryNote": "19000",
-      "imageUrl": "../files/zimg111-1664109517.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg111-1664109517.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=370",
       "description": "*本店家GoPro主機禁止裸機下水，如需下水請裝上防水殼*\n\n租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n----------------------------------------\n\n商品特色\n\n■HERO11 Black重磅登場\n\n■GP2晶片-穩定、高效能\n\n■10位元色彩-更加栩栩如生\n\n■8:7長寬比-方便裁切、上傳IG\n\n■ENDURO高續航電池-抗寒、持久\n\n■HyperSmooth 5.0-鎖定水平線、影像更穩定\n\n■散熱功能更佳、夜拍功能再次進化-星軌、光繪輕鬆拍攝\n\n■防水10M、可拍攝5.3K影片和2,700萬像素相片\n\n■充電時，同時將影片自動上傳到雲端\n\n【128G記憶卡，可錄影時間】\n\nGopro 11、12- 4k 30p 約可錄5H:14分\n\nGopro 11、12- 4k 60p 約可錄4H:05分\n\nGopro11、12- 5.3k 30p 約可錄4H\n\nGopro11、12- 5.3k 60p 約可錄3H:54分\n\n【原廠電池充飽電，實測使用時間】\n\nGopro11：5.3K 30p 可錄影時間，約60-70分鐘左右(僅供參考)\n\nGopro12：5.3K 30p 可錄影時間，約70-80分鐘左右(僅供參考)",
       "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\nSD轉卡*1\n\nMicro SD 128G 記憶卡 * 1\n\n防水盒*1\n漂浮自拍棒*1\n\n三向自拍桿 * 1\n\n保護殼 * 1\n\n原廠連接座*1\n\n1/4 轉接座 * 1\n螺絲 * 1\n\n攜行包*1"
@@ -2690,7 +2690,7 @@
       "dailyRate": "50",
       "deposit": "0",
       "promissoryNote": "1200",
-      "imageUrl": "../files/zimg未命名-1664176980.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E6%9C%AA%E5%91%BD%E5%90%8D-1664176980.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=415",
       "description": "* 無開放單獨租借，須搭機加購 *\n\n租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。",
       "accessories": ""
@@ -2873,7 +2873,7 @@
       "dailyRate": "50",
       "deposit": "0",
       "promissoryNote": "1000",
-      "imageUrl": "../files/zimg未命名-1664176786.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E6%9C%AA%E5%91%BD%E5%90%8D-1664176786.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=414",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。",
       "accessories": "快扣底座 * 1"
@@ -2943,7 +2943,7 @@
       "dailyRate": "80",
       "deposit": "0",
       "promissoryNote": "800",
-      "imageUrl": "../files/zimg1-1658295811.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg1-1658295811.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=393",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\n請注意：\n\n*不建議在衝浪、滑雪或其他高衝擊性運動中使用吸盤，該產品僅適用於非衝擊性活動。\n\n*請勿長時間使用。\n\n*請勿在高溫或長時間太陽曝曬下使用。",
       "accessories": "三腳架轉接座*1\n\n螺絲 * 5 、 支架 * 2"
@@ -2972,7 +2972,7 @@
       "dailyRate": "30",
       "deposit": "0",
       "promissoryNote": "500",
-      "imageUrl": "../files/zimg未命名-1664177275.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E6%9C%AA%E5%91%BD%E5%90%8D-1664177275.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=272",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。",
       "accessories": "延長支架 * 1\n\n螺絲 * 2"
@@ -3014,7 +3014,7 @@
       "dailyRate": "120",
       "deposit": "500",
       "promissoryNote": "1600",
-      "imageUrl": "../files/zimg未命名-1660583296.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E6%9C%AA%E5%91%BD%E5%90%8D-1660583296.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=406",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------",
       "accessories": "防水盒*1\n\n漂浮自拍棒*1\n\n螺絲 * 2"
@@ -3169,7 +3169,7 @@
       "dailyRate": "50",
       "deposit": "0",
       "promissoryNote": "1500",
-      "imageUrl": "../files/zimgxlr-1678020625.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgxlr-1678020625.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=456",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "",
@@ -3184,7 +3184,7 @@
       "dailyRate": "50",
       "deposit": "0",
       "promissoryNote": "1000",
-      "imageUrl": "../files/zimgxlr+-1678020105.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgxlr+-1678020105.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=455",
       "description": "■ 型號:C-XLR+\n\n■ 3.5mm TRS轉3-Pin 標準XLR公頭\n\n■ 適用於混音器、相機和其他3-PinXLR 接孔設備\n\n■ 通用主動式麥克風(動圈式)和被動式麥克風(電容式)",
       "accessories": ""
@@ -3212,7 +3212,7 @@
       "dailyRate": "100",
       "deposit": "0",
       "promissoryNote": "2000",
-      "imageUrl": "../files/zimg6454898_r-1617451709.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg6454898_r-1617451709.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=314",
       "description": "* 可搭配 \"手機線材套件\" 在手機上使用 *",
       "accessories": "防風毛套 * 1\n\n支架 * 1\n\n訊號線 * 1\n\n收納盒*1"
@@ -3240,7 +3240,7 @@
       "dailyRate": "200",
       "deposit": "0",
       "promissoryNote": "4000",
-      "imageUrl": "../files/zimg000001_1644829082-1653393949.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg000001_1644829082-1653393949.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=384",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價\n\n------------------\n\n■ 適相機、智慧型手機、電腦並有效提升收音品質\n■ 適合從事電影製作/直播/TikTok 等自媒體使用\n■ 兼容R&Oslash;DE應用程序，可在各種設備上提供專業級的錄音品質\n■ 重量僅89g，小巧輕便，可隨身攜帶",
       "accessories": "防風棉 * 1\n\n支架 * 1\n\n訊號線 * 1\n\n收納盒*1"
@@ -3254,7 +3254,7 @@
       "dailyRate": "300",
       "deposit": "1000",
       "promissoryNote": "9000",
-      "imageUrl": "../files/zimgrode-videomic-ntg-1599136677.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgrode-videomic-ntg-1599136677.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=205",
       "description": "■頻率範圍:20-20k Hz\n\n■頻率響應:35 Hz-18 kHz&plusmn;3dB\n\n■輸出阻抗:10 &Omega;\n\n■信噪比:79 dB\n\n■動態範圍:105 dB SPL (A-weighted, as per IEC651)\n\n■等效噪聲:15 dB SPL (A-weighted, as per IEC651)\n\n■輸入SPL @ 1％THD:120 dB SPL (1kHz @ 1% THD, 600 &Omega; load)\n\n■電源:充電式350mAh鋰電池，可用30多個小時\n\n■靈敏度:-26 dB\n\n■尺寸:171 x &oslash;21.6 mm\n\n■重量:94 g",
       "accessories": "防風棉 * 1\n\n支架 * 1\n\n訊號線 * 1\n\n充電線 * 1\n\n收納盒*1"
@@ -3268,7 +3268,7 @@
       "dailyRate": "180",
       "deposit": "0",
       "promissoryNote": "5800",
-      "imageUrl": "../files/zimgm1-1664456528.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgm1-1664456528.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=419",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "防風棉 * 1\n\n止滑膠墊片 * 1",
@@ -3283,7 +3283,7 @@
       "dailyRate": "350",
       "deposit": "2000",
       "promissoryNote": "23000",
-      "imageUrl": "../files/zimgxm1-1664444629.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgxm1-1664444629.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=418",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\n■XLR 轉接器可直接裝接 MI 熱靴\n\n■配備兩個 XLR/TRS 雙重插孔與一個 3.5 mm 立體聲迷你麥克風插孔\n\n■提供錄製音量控制與連結、衰減器與低頻濾波器等控制功能\n\n※ 購買前請務必先確認配件相容性資訊再購買",
       "accessories": "指向 MIC * 1\n\n熱靴延長線 * 1\n\n收納包 * 1"
@@ -3297,7 +3297,7 @@
       "dailyRate": "800",
       "deposit": "3000",
       "promissoryNote": "27000",
-      "imageUrl": "../files/zimgf6-1616229269.png",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgf6-1616229269.png",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=293",
       "description": "■錄音介面：6 x 14多軌SD錄音機/介面\n\n■A / D分辨率：24bit/ 192kHz（固定），32bit（浮動）\n\n■同步錄音軌道：6（WAV），2（MP3）\n\n■類比輸入：6 x XLR（麥克風/線路）\n\n■類比輸出：1 x 1/8&ldquo;（輸出）\n\n■耳機：1 x 1/8&ldquo;\n\n■內存（可移動）：SD，SDHC，SDXC（最大512GB）\n\n■檔案格式：WAV，MP3\n\n■EQ：低切濾波器，高通濾波器\n\n■效果：延遲，限制器\n\n■USB：1 x USB-C類型（6 x 4）\n\n■藍牙：可選的BTA-1適配器插槽\n\n■時序I / O：1 x 1/8&ldquo;（輸入/輸出時間碼）\n\n■軟體：Zoom AutoMix軟體，選購的F Control App（需要iOS，BTA-1）\n\n■電源：4節AA電池/ Sony L系列電池/ USB AC適配器",
       "accessories": "充電線 * 1\n\nF970電池 * 1\n\nXLR轉3.5mm\n\n公對母 XLR延長線 (5米) * 1\n\n收納盒*1"
@@ -3382,7 +3382,7 @@
       "dailyRate": "350",
       "deposit": "3000",
       "promissoryNote": "20000",
-      "imageUrl": "../files/zimg600ex-rt-1588485734.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg600ex-rt-1588485734.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=163",
       "description": "租期3~5天：租用總金額9折\n租期6~9天：租用總金額8.5折\n租期10~19天：租用總金額8折\n租期20天以上：個案報價。\n--------------------------------------",
       "accessories": "電池 * 2組\n\n充電器*1\n\n專用套*1"
@@ -3396,7 +3396,7 @@
       "dailyRate": "300",
       "deposit": "2000",
       "promissoryNote": "16000",
-      "imageUrl": "../files/zimg580ex-1588485709.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg580ex-1588485709.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=20",
       "description": "租期3~5天：租用總金額9折\n租期6~9天：租用總金額8.5折\n租期10~19天：租用總金額8折\n租期20天以上：個案報價。\n--------------------------------------",
       "accessories": "電池 * 2組\n\n充電器*1\n\n專用套*1"
@@ -3410,7 +3410,7 @@
       "dailyRate": "200",
       "deposit": "1000",
       "promissoryNote": "3500",
-      "imageUrl": "../files/zimg876984-1657449905.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg876984-1657449905.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=389",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------",
       "accessories": "電池 * 2組\n\n充電器*1\n\n專用套*1"
@@ -3424,7 +3424,7 @@
       "dailyRate": "200",
       "deposit": "1000",
       "promissoryNote": "3500",
-      "imageUrl": "../files/zimg600-1657451900.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg600-1657451900.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=391",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------",
       "accessories": "電池 * 2組\n\n充電器*1\n\n專用套*1"
@@ -3438,7 +3438,7 @@
       "dailyRate": "350",
       "deposit": "4000",
       "promissoryNote": "16000",
-      "imageUrl": "../files/zimgsb5000-1588502952.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgsb5000-1588502952.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=91",
       "description": "租期3~5天：租用總金額9折\n租期6~9天：租用總金額8.5折\n租期10~19天：租用總金額8折\n租期20天以上：個案報價。\n--------------------------------------\n\n‧無線電控制的先進無線閃光功能\n‧配備冷卻系統有效縮短閃光間隔時間\n‧全功率輸出連續閃動達100次\n‧閃光指數 34.5/113；(ISO 100、m/ft)\n‧標準/平均與偏重中央閃光 3種照明模式\n‧人性化操控介面 操作更省時\n‧搭載LCD螢幕",
       "accessories": "電池 * 2組\n\n充電器*1\n\n專用套*1"
@@ -3452,7 +3452,7 @@
       "dailyRate": "300",
       "deposit": "3000",
       "promissoryNote": "16000",
-      "imageUrl": "../files/zimg60rm2-1673544040.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg60rm2-1673544040.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=443",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\n「快速轉向擺頭」增加光線\n\n支援快速回電及高速連拍\n\n內建無線電遙控控制",
       "accessories": "電池 * 2組\n\n充電器*1\n\n專用套*1"
@@ -3466,7 +3466,7 @@
       "dailyRate": "270",
       "deposit": "0",
       "promissoryNote": "3000",
-      "imageUrl": "../files/zimgphottix-strato-ii-離閃觸發器-1578997070.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgphottix-strato-ii-%E9%9B%A2%E9%96%83%E8%A7%B8%E7%99%BC%E5%99%A8-1578997070.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=216",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "電池 * 2組\n\n充電器*1",
@@ -3481,7 +3481,7 @@
       "dailyRate": "270",
       "deposit": "0",
       "promissoryNote": "3000",
-      "imageUrl": "../files/zimg螢幕快照-2020-05-03-下午8.01.35-1588507397.png",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7-2020-05-03-%E4%B8%8B%E5%8D%888.01.35-1588507397.png",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=244",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "電池 * 3組",
@@ -3496,7 +3496,7 @@
       "dailyRate": "200",
       "deposit": "0",
       "promissoryNote": "5000",
-      "imageUrl": "../files/zimgpixel-1620728634.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgpixel-1620728634.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=326",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "電池 * 3組",
@@ -3525,7 +3525,7 @@
       "dailyRate": "500",
       "deposit": "2000",
       "promissoryNote": "10000",
-      "imageUrl": "../files/zimg21639790235287_190-1580791305.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg21639790235287_190-1580791305.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=182",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "燈架*1\n\n電源線*1\n\n觸發器*1組\n\n燈袋*1",
@@ -3540,7 +3540,7 @@
       "dailyRate": "900",
       "deposit": "3000",
       "promissoryNote": "20000",
-      "imageUrl": "../files/zimg21639790235287_190拷貝-1580791385.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg21639790235287_190%E6%8B%B7%E8%B2%9D-1580791385.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=183",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "燈架*2\n\n電源線*2\n\n觸發器*1組\n\n燈袋*1",
@@ -3569,7 +3569,7 @@
       "dailyRate": "400",
       "deposit": "2000",
       "promissoryNote": "12000",
-      "imageUrl": "../files/zimg200x-1637902321.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg200x-1637902321.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=364",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\nAmaran 200X 雙色溫LED燈\n\n■驚人亮度，使用標準罩亮度高達@1m, 51600 lux\n\n■色溫：2700K-6500K\n\n■輸出功率：200w, 功耗：250w\n\n■工作電壓：輸出/48V 輸入/AC100~240V 50/60hz\n\n■顯色性：CRI/TLCI 95/96\n\n■8種特效模式\n\n■靜音風扇\n\n■支援Sidus Link手機App控制\n\n■雙色溫2700-6500K，高顯色性CRI/TLCI: 95/96\n\n■輕巧便攜，200D/200X燈體僅1.56kg\n\n規格參數",
       "accessories": "燈架*1\n\n電源控制盒*1\n\n電源線*1\n\n標準罩*1\n\n燈箱*1"
@@ -3583,7 +3583,7 @@
       "dailyRate": "400",
       "deposit": "2000",
       "promissoryNote": "12000",
-      "imageUrl": "../files/zimg200x-1652176570.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg200x-1652176570.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=380",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\nAmaran 200X 雙色溫LED燈\n\n■驚人亮度，使用標準罩亮度高達@1m, 51600 lux\n\n■色溫：2700K-6500K\n\n■輸出功率：200w, 功耗：250w\n\n■工作電壓：輸出/48V 輸入/AC100~240V 50/60hz\n\n■顯色性：CRI/TLCI 95/96\n\n■8種特效模式\n\n■靜音風扇\n\n■支援Sidus Link手機App控制\n\n■雙色溫2700-6500K，高顯色性CRI/TLCI: 95/96\n\n■輕巧便攜，200D/200X燈體僅1.56kg\n\n規格參數",
       "accessories": "燈架*1\n\n電源控制盒*1\n\n電源線*1\n\n標準罩*1\n\n燈箱*1"
@@ -3625,7 +3625,7 @@
       "dailyRate": "1200",
       "deposit": "4000",
       "promissoryNote": "60000",
-      "imageUrl": "../files/zimg600d-pro-1614844773.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg600d-pro-1614844773.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=279",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------",
       "accessories": "燈架*1\n\n電源控制盒*1\n\n電源線*1\n\n5-pin 防水連接線*1\n\n標準罩*1\n遙控器*1\n\n控制盒快裝夾*1\n\n燈箱*1"
@@ -3639,7 +3639,7 @@
       "dailyRate": "300",
       "deposit": "1000",
       "promissoryNote": "6500",
-      "imageUrl": "../files/zimgt2c-1679662137.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgt2c-1679662137.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=460",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\n20W輸出RGBWW LED日光燈\n\n25W 最大功耗\n\n479 勒克斯@1 米 (7500K)\n\n從 2,500K 到 7,500K 的可調 CCT\n\n可調綠色-洋紅色調整（全正/負綠色）\n\n超準確的顯色性，CRI：&ge;95，TLCI：&ge;98，\n\nCQS：&ge;96 SSI（鎢）：&ge;83，SSI（D56）：&ge;73\n\n從 0 到 100% 的無級調光\n\n46 種顏色凝膠預設",
       "accessories": "電池 * 1\n\n電源控制盒*1\n\n電源線*1\n\n3/8 扣環鎖 * 1\n\n燈袋*1"
@@ -3653,7 +3653,7 @@
       "dailyRate": "300",
       "deposit": "1000",
       "promissoryNote": "6500",
-      "imageUrl": "../files/zimgt2c-1679666398.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgt2c-1679666398.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=461",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\n20W輸出RGBWW LED日光燈\n\n25W 最大功耗\n\n479 勒克斯@1 米 (7500K)\n\n從 2,500K 到 7,500K 的可調 CCT\n\n可調綠色-洋紅色調整（全正/負綠色）\n\n超準確的顯色性，CRI：&ge;95，TLCI：&ge;98，\n\nCQS：&ge;96 SSI（鎢）：&ge;83，SSI（D56）：&ge;73\n\n從 0 到 100% 的無級調光\n\n46 種顏色凝膠預設",
       "accessories": "電池 * 1\n\n電源控制盒*1\n\n電源線*1\n\n3/8 扣環鎖 * 1\n\n燈袋*1"
@@ -3667,7 +3667,7 @@
       "dailyRate": "550",
       "deposit": "2000",
       "promissoryNote": "11000",
-      "imageUrl": "../files/zimg30c1-1635163455.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg30c1-1635163455.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=358",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\n特點 :\n\n■隨心調整色相HSI與飽合度SAT，總計能變化出多達36,000種顏色\n\n■魔光棒發散的光線質感柔和\n\n■CCT模式：控制色溫2700K- 6500K的範圍。\n\n■HIS 模式：自由調出多種色彩光。\n\n■特效模式：可模擬SOS、閃電、燭光、警車並自訂閃爍頻率。\n\n■燈光循環：內建4秒、12秒循環，可自訂時間。\n\n規格 :\n\n■功率：32W\n\n■色溫：2700K-6500K\n\n■CRI: 98\n\n■TLCI: 95\n\n■亮度調節：0-100%無段調整 電\n\n■源類型：內建鋰電池\n\n■使用時間 : 實測約2小時 (全亮、4800K色溫測試)\n\n■尺寸 : 117*4.8*4.8 cm\n\n■重量 : 1.2 公斤",
       "accessories": "充電器(含電源線) * 1\n\n燈架*1\n\n透明燈夾 *1\n\n球檯"
@@ -3681,7 +3681,7 @@
       "dailyRate": "550",
       "deposit": "2000",
       "promissoryNote": "11000",
-      "imageUrl": "../files/zimg30c1-1635163713.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg30c1-1635163713.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=359",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n特點 :\n■隨心調整色相HSI與飽合度SAT，總計能變化出多達36,000種顏色\n■魔光棒發散的光線質感柔和\n■CCT模式：控制色溫2700K- 6500K的範圍。\n■HIS 模式：自由調出多種色彩光。\n■特效模式：可模擬SOS、閃電、燭光、警車並自訂閃爍頻率。\n■燈光循環：內建4秒、12秒循環，可自訂時間。\n\n規格 :\n■功率：32W\n■色溫：2700K-6500K\n■CRI: 98\n■TLCI: 95\n■亮度調節：0-100%無段調整 電\n■源類型：內建鋰電池\n■使用時間 : 實測約2小時 (全亮、4800K色溫測試)\n■尺寸 : 117*4.8*4.8 cm\n■重量 : 1.2 公斤",
       "accessories": "充電器(含電源線) * 1\n\n燈架*1\n\n透明燈夾 *1\n\n球檯"
@@ -3695,7 +3695,7 @@
       "dailyRate": "400",
       "deposit": "2000",
       "promissoryNote": "10000",
-      "imageUrl": "../files/zimgad200-1618478001.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgad200-1618478001.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=317",
       "description": "■200Ws大功率閃光\n\n■全光500次輸出\n\n■相容多品牌TTL系統\n\n■0.01 ~ 1.8秒極速回電\n\n■內建神牛2.4G無線X接收系統",
       "accessories": "電池 * 1組\n\n充電器*1\n\n觸發器*1組\n\n支架 * 1\n\n燈泡 * 1 、燈泡轉換座 * 1 、收納包 * 1"
@@ -3709,7 +3709,7 @@
       "dailyRate": "600",
       "deposit": "2000",
       "promissoryNote": "12000",
-      "imageUrl": "../files/zimgjinbei-hd-600-600w-1602764494.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgjinbei-hd-600-600w-1602764494.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=268",
       "description": "卡口規格：保榮( Bowens )\n\n閃光指數：80\n\n回電時間：慢：0/3至4.5S、快速：0.3～3.5秒(慢速、快速可以設定)\n\n功率變化：1/1到1/128功率範圍變量\n\n閃光持續時間為T = 0.5：1/15000s\n\n色溫：5500 +/- 200\n\n造型燈：5W LED\n\n型號燈的變化：全時間/ 60秒關\n\n觸發方式：單次觸發/延遲閃光/頻閃\n\n同步電壓：DC3.3V",
       "accessories": "燈架*1\n\n電源線*1\n\n標準罩*1\n\n遙控器*1\n\n外拍燈手把*1\n背帶*1\n\n燈箱*1"
@@ -3723,7 +3723,7 @@
       "dailyRate": "800",
       "deposit": "3000",
       "promissoryNote": "36000",
-      "imageUrl": "../files/zimgelinchrom-400w-1575207539.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgelinchrom-400w-1575207539.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=51",
       "description": "D-Lite RX 4 SOFTBOX TO GO 套組\n\n規格\n\n閃光出力 (Ws/J)４00\n\n光圈值 (1m, 100 ISO, 48&deg;反射罩)64.3\n\n出力調整範圍(格)5\n\n閃燈凝結時間 t0.5 秒最大出力: 1/800\n\n回電時間 230 V 秒0.35 &ndash; 1.2\n\n回電時間 110 V 秒0.35 &ndash; 1.6\n\n色溫 K&deg;5500\n\n自動斷電系統Yes\n\n功率穩定性+/- 0.5%\n\n電壓適用電壓範圍 90 &ndash; 265 V\n\n模擬燈模式比例式、最亮、最弱、關\n\n模擬燈泡 110 V100 W / E 27 - 23006\n\nEL-Skyport介面內建接收器、4組8個頻道\n\n冷卻風扇Yes\n\n反射傘接座7mm反射傘專用中央接座及 8mm外接反射傘接座\n\n最大電力消耗 (230 V / 50 Hz)370 W",
       "accessories": "燈架*2\n\n電源線*2\n\n四方柔光罩*1\n\n八方柔光罩*1\n\n觸發器*1組\n燈袋*1"
@@ -3737,7 +3737,7 @@
       "dailyRate": "50",
       "deposit": "0",
       "promissoryNote": "1000",
-      "imageUrl": "../files/zimg保榮口-閃燈支架-1570611433.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E4%BF%9D%E6%A6%AE%E5%8F%A3-%E9%96%83%E7%87%88%E6%94%AF%E6%9E%B6-1570611433.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=231",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "",
@@ -3752,7 +3752,7 @@
       "dailyRate": "50",
       "deposit": "0",
       "promissoryNote": "1000",
-      "imageUrl": "../files/zimg保榮口-閃燈支架-1578998463.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E4%BF%9D%E6%A6%AE%E5%8F%A3-%E9%96%83%E7%87%88%E6%94%AF%E6%9E%B6-1578998463.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=247",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "",
@@ -3809,7 +3809,7 @@
       "dailyRate": "100",
       "deposit": "0",
       "promissoryNote": "2000",
-      "imageUrl": "../files/zimg柔光-1677662087.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E6%9F%94%E5%85%89-1677662087.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=452",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "柔光布*1\n\n蜂巢網 * 1",
@@ -3824,7 +3824,7 @@
       "dailyRate": "150",
       "deposit": "0",
       "promissoryNote": "2000",
-      "imageUrl": "../files/zimg6090-1617265744.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg6090-1617265744.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=309",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------",
       "accessories": "柔光布*1\n\n蜂巢網 * 1"
@@ -3838,7 +3838,7 @@
       "dailyRate": "150",
       "deposit": "0",
       "promissoryNote": "2000",
-      "imageUrl": "../files/zimg6090-1617265868.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg6090-1617265868.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=310",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。",
       "accessories": "柔光布*1\n\n蜂巢網 * 1"
@@ -3950,7 +3950,7 @@
       "dailyRate": "150",
       "deposit": "0",
       "promissoryNote": "3000",
-      "imageUrl": "../files/zimg120-1639631978.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg120-1639631978.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=367",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n----------------------------------",
       "accessories": "柔光布*1\n\n蜂巢網 * 1\n\n收納包 * 1"
@@ -3964,7 +3964,7 @@
       "dailyRate": "250",
       "deposit": "0",
       "promissoryNote": "3500",
-      "imageUrl": "../files/zimg120-1617872257.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg120-1617872257.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=315",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n----------------------------------",
       "accessories": "柔光布*1\n\n蜂巢網 * 1\n\n收納包 * 1"
@@ -3992,7 +3992,7 @@
       "dailyRate": "400",
       "deposit": "1000",
       "promissoryNote": "12000",
-      "imageUrl": "../files/zimg未命名-1658378300.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E6%9C%AA%E5%91%BD%E5%90%8D-1658378300.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=394",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\n適用於 600d pro / 600x 燈型使用",
       "accessories": "收納包 * 1"
@@ -4006,7 +4006,7 @@
       "dailyRate": "500",
       "deposit": "2000",
       "promissoryNote": "20000",
-      "imageUrl": "../files/zimg愛圖仕--專用聚光筒-1615114207.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E6%84%9B%E5%9C%96%E4%BB%95--%E5%B0%88%E7%94%A8%E8%81%9A%E5%85%89%E7%AD%92-1615114207.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=281",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------",
       "accessories": "圖案片 x 3\n\n色紙夾*1\n\n專用箱*1\n\n燈架*1"
@@ -4034,7 +4034,7 @@
       "dailyRate": "150",
       "deposit": "1000",
       "promissoryNote": "3000",
-      "imageUrl": "../files/zimg濾色-1652342260.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E6%BF%BE%E8%89%B2-1652342260.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=382",
       "description": "*適用於7吋標準罩。(罩口直徑約18公分)\n\n*如使用在持續燈上，請使用於200W以內的LED持續燈\n\n*使用時請注意溫度，請避免高溫造成濾片變形",
       "accessories": "濾色片 * 4 、 蜂巢 * 1"
@@ -4093,7 +4093,7 @@
       "dailyRate": "50",
       "deposit": "0",
       "promissoryNote": "1000",
-      "imageUrl": "../files/zimg反光板-1587203185.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E5%8F%8D%E5%85%89%E6%9D%BF-1587203185.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=252",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "",
@@ -4138,7 +4138,7 @@
       "dailyRate": "100",
       "deposit": "0",
       "promissoryNote": "1200",
-      "imageUrl": "../files/zimg2米燈架-1570612184.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg2%E7%B1%B3%E7%87%88%E6%9E%B6-1570612184.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=232",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------",
       "accessories": ""
@@ -4152,7 +4152,7 @@
       "dailyRate": "100",
       "deposit": "0",
       "promissoryNote": "1200",
-      "imageUrl": "../files/zimg2米燈架-1578997766.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg2%E7%B1%B3%E7%87%88%E6%9E%B6-1578997766.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=246",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------",
       "accessories": ""
@@ -4166,7 +4166,7 @@
       "dailyRate": "150",
       "deposit": "0",
       "promissoryNote": "1500",
-      "imageUrl": "../files/zimg2米燈架-1570612271.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg2%E7%B1%B3%E7%87%88%E6%9E%B6-1570612271.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=233",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------",
       "accessories": ""
@@ -4180,7 +4180,7 @@
       "dailyRate": "150",
       "deposit": "0",
       "promissoryNote": "1500",
-      "imageUrl": "../files/zimg2米燈架-1574395819.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg2%E7%B1%B3%E7%87%88%E6%9E%B6-1574395819.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=239",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------",
       "accessories": ""
@@ -4222,7 +4222,7 @@
       "dailyRate": "500",
       "deposit": "2000",
       "promissoryNote": "8500",
-      "imageUrl": "../files/zimgs__45826129-1588151937.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgs__45826129-1588151937.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=257",
       "description": "■管徑：最粗 4CM，最細 2.5CM\n\n■燈架伸縮：最低149CM / 最高 408CM\n\n■K架使用時 : 最高 310CM / 橫桿長度 190CM\n\n■附配重袋 (配重物需自備)\n\n■全不鏽鋼材質總重：約 13.8KG\n\n■載重約 : 15公斤以上\n\n■全金屬固定關節",
       "accessories": "沙袋 *1"
@@ -4236,7 +4236,7 @@
       "dailyRate": "1000",
       "deposit": "3000",
       "promissoryNote": "26500",
-      "imageUrl": "../files/zimgrs3pro-1675680409.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgrs3pro-1675680409.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=450",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\n■加長版碳纖維軸臂。\n\n■最大 4.5 公斤負載。\n\n■自動軸鎖，迅速開拍。\n\n■RS第3代增穩演算法。\n\n■無線藍牙快門。\n\n■1.8英吋觸控式彩色螢幕。\n\n■多場景拍攝解決方案。\n\n■最高12小時續航。\n\nDJI RS 3 Pro 的藍牙快門功能適用於哪些相機\n\nhttps://www.dji.com/tw/support/compatibility",
       "accessories": "電池 * 1\n\n快拆板(2片)*1\n\nY型鏡頭支撐架(含螺絲)*1\n\n原廠三腳架握把*1\n\n電源線*1\n傳輸線 * 1\n\n收納箱*1\n\n提壺手把*1"
@@ -4278,7 +4278,7 @@
       "dailyRate": "200",
       "deposit": "1000",
       "promissoryNote": "4500",
-      "imageUrl": "../files/zimg圖片-1-1675264611.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E5%9C%96%E7%89%87-1-1675264611.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=449",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。",
       "accessories": "跟焦膠條*1\n\n六角板手 * 1\n\n25cm導管*1\n\nM4螺絲*3\n\nUSB-C控制線*1\n安裝支架*2\n\n收納盒*1"
@@ -4351,7 +4351,7 @@
       "dailyRate": "300",
       "deposit": "1000",
       "promissoryNote": "9000",
-      "imageUrl": "../files/zimgsmallrig-斯莫格-1615714867.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgsmallrig-%E6%96%AF%E8%8E%AB%E6%A0%BC-1615714867.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=286",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "",
@@ -4366,7 +4366,7 @@
       "dailyRate": "800",
       "deposit": "2000",
       "promissoryNote": "16000",
-      "imageUrl": "../files/zimg1.5d-1616086927.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg1.5d-1616086927.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=291",
       "description": "■尺寸: 130 x 20 x 9 CM\n\n■重量: 2Kg\n\n■承重: 水平/20KG 、 傾斜/2.5\n\n■材質: 航空鋁合金",
       "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\n遙控器*1\n\n球檯\n\n訊號延長線 * 1\n相機連接線 * 2\n\n變壓器 * 1\n\n專用箱 * 1\n\n、說明書"
@@ -4380,7 +4380,7 @@
       "dailyRate": "1100",
       "deposit": "2000",
       "promissoryNote": "23000",
-      "imageUrl": "../files/zimgbx200-1616080938.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgbx200-1616080938.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=289",
       "description": "■承重50kg，適用於更大的攝像機\n\n■2米拼接組合滑軌，更方便\n\n■防側翻安全設計，增強射擊安全性\n\n■可安裝在不同的三腳架或燈架上\n\n■隨附拉桿式便攜袋\n\n■它是碗形設計，適用於標准直徑75mm / 100mm",
       "accessories": "腳架鋼管*4\n\n軌道桿*6\n\n軌道架*2\n\n滑輪座*1\n\n腳架收納袋*2\n攜行硬箱*1"
@@ -4394,7 +4394,7 @@
       "dailyRate": "800",
       "deposit": "3000",
       "promissoryNote": "20000",
-      "imageUrl": "../files/zimg777-1616092381.png",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg777-1616092381.png",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=292",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "遙控器*1\n\n充電器*1\n\n5200mAh V掛電池 * 1\n\n動力馬達 * 1\n\n同步帶 * 1\n固定螺絲 * 3\n\n固定片 * 2\n\n外盒 * 1",
@@ -4409,7 +4409,7 @@
       "dailyRate": "300",
       "deposit": "2000",
       "promissoryNote": "10000",
-      "imageUrl": "../files/zimgmicro2-1616082273.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgmicro2-1616082273.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=290",
       "description": "■尺寸: 412.5 x 102 x 61.5 mm\n\n■重量: 1.8Kg\n\n■承重: 4.5Kg\n\n■材質: 航空鋁合金",
       "accessories": "低拍架*1\n\n收納包 * 1"
@@ -4608,7 +4608,7 @@
       "dailyRate": "150",
       "deposit": "0",
       "promissoryNote": "3500",
-      "imageUrl": "../files/zimg滑輪-1630319756.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E6%BB%91%E8%BC%AA-1630319756.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=338",
       "description": "承重：20 kg\n\n展開寬度：82 cm\n\n折收長度：50 cm\n\n重量：1.57 kg\n\n--------------------------------------\n\n租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。",
       "accessories": "收納包 * 1"
@@ -4622,7 +4622,7 @@
       "dailyRate": "100",
       "deposit": "0",
       "promissoryNote": "3000",
-      "imageUrl": "../files/zimg128-1664959457.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg128-1664959457.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=424",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "",
@@ -4682,7 +4682,7 @@
       "dailyRate": "120",
       "deposit": "0",
       "promissoryNote": "3200",
-      "imageUrl": "../files/zimg128-1664965171.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg128-1664965171.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=427",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "",
@@ -4711,7 +4711,7 @@
       "dailyRate": "360",
       "deposit": "1000",
       "promissoryNote": "11000",
-      "imageUrl": "../files/zimg128-1664956182.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg128-1664956182.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=421",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n----------------------------------\n\n■ 高達每秒 700 MB的超高寫入速度，適合連拍和拍攝高解析度影像；VPG (影片性能保證) 400\n\n■ 以高達每秒 800 MB 的超高讀取速度提升工作效率\n\n■ TOUGH 規格、IP57 等級提供專業級的可靠性",
       "accessories": "讀卡機\n\nSONY G2 讀卡機(含線) * 1"
@@ -4739,7 +4739,7 @@
       "dailyRate": "150",
       "deposit": "1000",
       "promissoryNote": "5000",
-      "imageUrl": "../files/zimg128-1664955917.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg128-1664955917.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=420",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n----------------------------------\n\n■型號 CFX-B128\n\n■容量 128GB\n\n■最大讀取速度 1700 MB/秒 1700 MB/秒 1700 MB/秒\n\n■最大寫入速度 1050 MB/秒 1550 MB/秒 1550 MB/秒\n\n■最小持續寫入速度 140 MB/秒 230 MB/秒 400 MB/秒\n\n■格式 CFexpress&trade; B 型\n\n■尺寸(毫米) 29.6*38.5*3.8\n\n■重量 10g\n\n■工作溫度 -10 &deg;C～70 &deg;C\n\n■儲存溫度 -20 &deg;C",
       "accessories": "讀卡機"
@@ -4753,7 +4753,7 @@
       "dailyRate": "450",
       "deposit": "2000",
       "promissoryNote": "13000",
-      "imageUrl": "../files/zimgatomos-1668748205.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgatomos-1668748205.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=436",
       "description": "尺寸(cm) 15.1寬 x 9.15高 x 3.15深 公分\n\n重量 226g (不含電池及儲存媒體)\n\n操作電源 4-7w\n\n相容電池 NP-F系列及配套配件。AtomX 或其他\n\n輸入電壓 (電池) 6.2V to 16.8V\n\n電持續航力 based on 7.4V 待機\n\n2600mAh - 達3小時\n\n5200mAh - 達6小時\n\n7800mAh - 達12小時\n\n監視\n\n2600mAh - 達1.5小時\n\n5200mAh - 達3小時\n\n7800mAh - 達6小時\n\n直流電源輸入孔 via Battery Eliminator\n\n觸控式螢幕尺寸 5.2吋\n\n觸控螢幕解析度 1920 x 1200\n\n觸控螢幕像素密度 427\n\n觸控螢幕長寬比例 16:9 native\n\n觸控螢幕色域 REC709 HDTV\n\n觸控螢幕LUT支援 3D LUT (.cube 文件格式)\n\n觸控螢幕Anamorphic變形還原擠壓 2x，1.5x，1.33x\n\n觸控螢幕技術 IPS 面板 (電容觸控式)、可搭配其他校準工具校正Rec.709\n\n亮度 1000nit\n\n螢幕翻轉 水平翻轉 (自拍模式)，垂直翻轉\n\n影像輸入 SDI 1x HD-SDI 1.3G / 1.5G\n\n影像輸入 HDMI 1 x HDMI (1.4)\n\n影像輸入訊號源 無壓縮真10 bit或8 bit 422 (視相機而定)\n\n支援的輸入格式\n\n2K DCI 2048 x 1080:23.98p, 24p, 25p, 29.97p, 50p, 59.97p /\n\nUHD 3840 x 2160: 23.98p, 24p, 25p, 29.97p /\n\nHD 1920 x 1080: 23.98p, 24p, 25p, 29.97p, 50p, 59.94p /\n\nHD 1280 x 720: 50p, 59.94p\n\n音效輸入/輸出 (48kHz PCM 音 SDI: 8ch 24-bit 48kHz / HDMI: 2ch 24-bit 48kHz\n\n耳機音頻輸出 3.5mm\n\nSD 插槽 SD插槽允許將LUT加載到設備，並在更新AtomOS韌體時使用",
       "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\n六角板手 * 1\n\n熱靴座支架 * 1\n\nHDMI線 * 1\n收納包 * 1"
@@ -4767,7 +4767,7 @@
       "dailyRate": "600",
       "deposit": "3000",
       "promissoryNote": "28000",
-      "imageUrl": "../files/zimgatomos-ninja-v-1595577513.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgatomos-ninja-v-1595577513.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=261",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\n■不含電池及儲存媒體:320g / 11.28oz\n\n■尺寸 (寬x高x深):151 x 91.5 x 31mm\n\n■相容電池: NP-F系列及其配件\n\n■輸入電壓 (電池):6.2V to 16.8V\n\n■電持續航力(based on 7.4V):\n\n5200mAh &ndash; 高達2小時(監視及4K錄製)\n\n7800mAh &ndash; 高達3小時(監視及4K錄製)\n\n■觸控式螢幕\n\n■解析度:1920 x 1200\n\n■像素密度 : 427\n\n■AtomHDR: Yes\n\n■色彩深度:10-bit (8+2 FRC)\n\n■亮度:1000nit (+/- 10%)\n\n■長寬比例:16:9 native\n\n■色域: REC709 HDTV\n\n■影像輸入、循環輸出:\n\n■HDMI x HDMI (2.0)\n\n■監控和記錄 4K 60p\n\n■訊號源:無壓縮真10 bit或8 bit 422 (視相機而定)\n\n■支援循環輸出格式:\n\n■HDMI至HDMI\n\n720p 50/60, 1080i 50/60,\n\n1080p 24/25/30/50/60/120*, 2160p 24/25/30/50/60",
       "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\n六角板手 * 1\n\n變壓器 * 1\n\n110V轉接座 * 1\n熱靴座支架 * 1\n\nHDMI線 * 1\n\n收納包 * 1"
@@ -4781,7 +4781,7 @@
       "dailyRate": "900",
       "deposit": "3000",
       "promissoryNote": "50000",
-      "imageUrl": "../files/zimgi010001_1499326252-(1)-1615619739.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgi010001_1499326252-(1)-1615619739.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=284",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\n■7吋高亮度螢幕\n\n■AtomHDR\n\n■4K ＆ RAW 檔錄製\n\n■ProRes/Avid DNxHR\n\n■Quad SDI\n\n■支援3D LUT\n\n重量\n不含電池及儲存媒體 709g / 25oz\n\n觸控式螢幕\n尺寸 7.1吋\n解析度 1920 x 1200\n像素密度 325\nAtomHDR Yes\n色彩深度 10-bit (8+2 FRC)\n亮度 1500nit (+/- 10%)\n長寬比例 16:9 native\n色域 REC709 HDTV\nLUT支援 3D LUT(.cube文件格式)\n技術 SuperAtom IPS 面板(電容觸控式)、可搭配其他校準工具校正Rec.709\n\n影像輸入\nHDMI 1 x HDMI (2.0)\nSDI Quad link 4 x 3G SDI 或最高可達 12G single link SDI\n訊號源 無壓縮真10 bit或8 bit 422 (視相機而定)\n\n影像輸出\nHDMI 1 x HDMI (2.0)\nSDI 1x 4K-SDI 12G/6G 或 HD-SDI 3G/1.5G\n訊號源 無壓縮真10 bit或8 bit 422 (視回放檔案而定)\n\n支援循環\n輸出格式\nHDMI至HDMI 720p 50/60, 1080i 50/60,\n1080p 24/25/30/50/60/120*, 2160p 24/25/30\nSDI至SDI 720p 50/60, 1080i 50/60\n1080pSF 24/25/30\n1080p 24/25/30/50/60/120*, 2160p 24/25/30\n\n影像訊號轉換\nHDMI至SDI 720p 50/60, 1080i 50/60\n1080p 24/25/30/50/60/100/120/200*/240*\n2160p 24/25/30/50/60\nSDI至HDMI 720p 50/60, 1080i 50/60,\n1080pSF 24/25/30\n1080p 24/25/30/50/60/100/120/200*/240*\n2160p 24/25/30/50/60",
       "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\n變壓器 * 1\n\n熱靴座支架 * 1\n\nSDI線 * 1\nHDMI線 * 1\n\n專用箱 * 1"
@@ -4795,7 +4795,7 @@
       "dailyRate": "1500",
       "deposit": "5000",
       "promissoryNote": "42000",
-      "imageUrl": "../files/zimgsp17-1662121799.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgsp17-1662121799.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=308",
       "description": "Desview 百視悅 SP17-HDR\n\n■17英吋便攜式\n\n■配備 4K HDMI 和 3G-SDI 輸入和輸出\n\n■4K HDMI 4路輸入\n\n■3G-SDI 2路輸入\n\n■4K超高清LED螢幕\n\n■多畫面模式\n\n■內置LUT多彩空間\n\n■構圖功能及圖像設定\n\n■可上腳架外出",
       "accessories": "變壓器 * 1\n\nHDMI線 * 1\n\n專用箱 * 1"
@@ -4809,7 +4809,7 @@
       "dailyRate": "100",
       "deposit": "0",
       "promissoryNote": "3000",
-      "imageUrl": "../files/zimgtb2gr-1617450173.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgtb2gr-1617450173.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=313",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\n■讀 : 550MB/S\n\n■寫 : 525MB/S",
       "accessories": "硬碟傳輸線"
@@ -4823,7 +4823,7 @@
       "dailyRate": "150",
       "deposit": "0",
       "promissoryNote": "3000",
-      "imageUrl": "../files/zimgtb2gr-1627356271.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgtb2gr-1627356271.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=330",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------",
       "accessories": "硬碟傳輸線"
@@ -4977,7 +4977,7 @@
       "dailyRate": "150",
       "deposit": "0",
       "promissoryNote": "1500",
-      "imageUrl": "../files/zimgt型背景架組-1605363622.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgt%E5%9E%8B%E8%83%8C%E6%99%AF%E6%9E%B6%E7%B5%84-1605363622.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=270",
       "description": "寬 : 150cm\n\n高 : 180cm",
       "accessories": "燈架*1\n\n橫桿*1 、 夾子*2"
@@ -5198,7 +5198,7 @@
       "dailyRate": "280",
       "deposit": "1000",
       "promissoryNote": "2000",
-      "imageUrl": "../files/zimg500-1662302354.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg500-1662302354.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=410",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\n* 遙控器請勿遺失，此配件無法訂購，如遺失須整台買回 *\n\n* 煙霧機搬運過程中請勿斜倒，避免煙油溢出造成機體損壞 *\n\n■ 亮度高、光源穩定、功耗低\n\n■ 強力散熱系統\n\n■ 進口芯片超強功率",
       "accessories": "電源線*1\n\n遙控器*1\n\n煙油 300cc *1"
@@ -5212,7 +5212,7 @@
       "dailyRate": "380",
       "deposit": "1000",
       "promissoryNote": "3500",
-      "imageUrl": "../files/zimg煙霧-1667085107.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E7%85%99%E9%9C%A7-1667085107.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=433",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\n* 遙控器請勿遺失，此配件無法訂購，如遺失須整台買回 *\n\n* 煙霧機搬運過程中請勿斜倒，避免煙油溢出造成機體損壞 *\n\n■持續噴煙不斷電\n\n■ 進口芯片超強功率",
       "accessories": "電源線*1\n\n遙控器*1\n\n煙油 250cc *1"
@@ -5240,7 +5240,7 @@
       "dailyRate": "50",
       "deposit": "0",
       "promissoryNote": "300",
-      "imageUrl": "../files/zimg場記-1662367205.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E5%A0%B4%E8%A8%98-1662367205.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=411",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "",
@@ -5327,7 +5327,7 @@
       "dailyRate": "700",
       "deposit": "2000",
       "promissoryNote": "30000",
-      "imageUrl": "../files/zimgbmd-atem-mini-pro-iso-1623915861.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgbmd-atem-mini-pro-iso-1623915861.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=328",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\n■將 USB 驅動器連接到 ATEM Mini Pro ISO 的 USB 端口，即可捕捉切換的節目流，以及最多四路隔離 (ISO) 的輸入視頻錄製，以及嵌入式音頻、模擬輸入音頻、圖形和 DaVinci Resolve切換程序的項目文件\n■該設備具有與 ATEM Mini Pro 相同的尺寸、佈局和連接\n■流式傳輸高達 1080p 的高清視頻\n■快速流、直播和錄製按鈕\n■硬件編碼器，因此無需額外的流媒體軟件\n■控制和配置時間碼、流狀態\n■BMPCC 6K/4K 攝像機的全面支持和控制功能\n■USB 同步錄音\n■與 MultiDock 集成以實現實時硬盤驅動器切換\n■使用 XML 文件自定義高級設置\n■具有節目預覽、圖形、錄製狀態、播出狀態和音頻表的軟件多視圖\n■節目預覽輸入輸出按鈕\n■BMPCC 6K/4K 攝像機的 Tally 燈光控制\n■所有攝像機的自動時間碼同步",
       "accessories": "USB傳輸線 * 1\n\n變壓器 * 1\n\nHDMI線 * 1\n\n收納包 * 1"
@@ -5341,7 +5341,7 @@
       "dailyRate": "200",
       "deposit": "0",
       "promissoryNote": "4500",
-      "imageUrl": "../files/zimgt3題詞機-1633414202.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgt3%E9%A1%8C%E8%A9%9E%E6%A9%9F-1633414202.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=349",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\n■相容多種組合方式，可依使用需求彈性調整\n\n■頂部有雙冷靴座，可安裝補光燈與麥克風等直播設備\n\n■單面高反射鏡面，提詞清晰明瞭\n\n■手機與平板皆可使用，可支援11寸以內的平板\n\n■相機和手機都支持直拍和橫拍，依據情境場合使用\n\n■提詞器採用可伸縮式的底部設計，上下調節底座的位置\n\n■有多段式提詞支架，不同尺寸提詞設備輕鬆安裝\n\n■配備4種手機拍攝遮光圈，可以根據手機鏡頭位置選擇適當的遮光圈\n\n■提供52/55/58/62/67/72/77/82mm豐富的鏡頭轉接環\n\n■提詞器蓋(保護提詞器反射鏡面)採用滑蓋設計，支援更大的廣角",
       "accessories": "腳架*1、大力夾*1、魔術手支架*1、手機夾*1、平板夾*1、遙控器*1、遮光棉*4、轉接環*9、說明書*1、包包*1"
@@ -5383,7 +5383,7 @@
       "dailyRate": "200",
       "deposit": "0",
       "promissoryNote": "5000",
-      "imageUrl": "../files/zimggc553-1616689421.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimggc553-1616689421.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=304",
       "description": "■享受4Kp60 HDR 錄下4Kp30\n\n■支援120FPS 高更新率錄影 影像極致順暢\n\n■免安裝驅動 簡易使用\n\n■採未壓縮影像擷取 Preview超低延遲\n\n■介面：USB 3.1 Gen1 Type C\n\n■影像輸入/輸出（Pass-Through）：HDMI 2.0\n\n■最高 Pass-Through 解析度：2160p60 HDR /1440p144/ 1080p240\n\n■最高擷取解析度：2160p30 /1440p60/ 1080p120 /1080p60 HDR\n\n■支援解析度：2160p, 1440p, 1080p, 1080i, 720p, 576p, 480p\n\n■錄影格式：MPEG 4 (H.264+AAC) 或 (H.265+AAC)*\n\n■內建主動風扇冷卻：噪音級別於 25.7~29.7 dB",
       "accessories": "傳輸線*1\n\n收納盒*1"
@@ -5439,7 +5439,7 @@
       "dailyRate": "280",
       "deposit": "1000",
       "promissoryNote": "6000",
-      "imageUrl": "../files/zimg鷹眼-1675265320.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E9%B7%B9%E7%9C%BC-1675265320.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=448",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-----------------------------\n\n連接 Ronin APP 即可使用。",
       "accessories": "HDMI C to C * 1\n\nHDMI A to C * 1\n\nHDMI D to C * 1\n\nUSB C to Sony Multi * 1\n\nUSB C to C * 1\n手機夾(含轉接座) * 1\n\n收納包 * 1"
@@ -5453,7 +5453,7 @@
       "dailyRate": "650",
       "deposit": "2000",
       "promissoryNote": "13000",
-      "imageUrl": "../files/zimg1132ebb00a0242ac110005-1616686457.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg1132ebb00a0242ac110005-1616686457.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=302",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------",
       "accessories": "電池 * 1\n\n充電器*1\n\n天線 * 4\n\n熱靴轉接頭 * 1\n\nHDMI線 * 1\n變壓器 * 1\n\n專用箱 * 1"
@@ -5467,7 +5467,7 @@
       "dailyRate": "750",
       "deposit": "2000",
       "promissoryNote": "16000",
-      "imageUrl": "../files/zimg400s-pro-1679595144.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg400s-pro-1679595144.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=459",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\n● 支援1個發射器連接2個接收器\n● 僅連接1個接收器時，支持最多2個移動設備監視。\n● 支援多達4個移動設備監控，無需連接接收器\n● 400英尺傳輸距離\n● 最低延遲為0.08s\n● HDMI和SDI連接選項\n● USB韌體升級\n● 集成冷靴，快速安裝\n● 支持DC供電、TYPE-C供電和電池供電",
       "accessories": "電池 * 1\n\n充電器*1\n\n天線 * 4\n\n熱靴轉接頭 * 1\n\nHDMI線 * 1\n變壓器 * 1\n\n專用箱 * 1"
@@ -5481,7 +5481,7 @@
       "dailyRate": "850",
       "deposit": "2000",
       "promissoryNote": "18000",
-      "imageUrl": "../files/zimghe-1672902324.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimghe-1672902324.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=440",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價\n\n--------------------\n\n■無線視頻發射器/接收器套裝\n\n■最多可混合 4 個接收器、平板電腦和手機\n\n■1080p60 HDMI 傳輸高達 1200'\n\n■350M 傳輸距離\n\n■300M>60ms 延遲\n\n■用於計算機流媒體的 USB/UVC 輸出\n\n■支持 Zebra 和 LUT 的 iOS/Android 應用程序\n\n■2.4 和 5 GHz 雙頻段頻率\n\n■1.3\" OLED 顯示屏\n\n■DC/USB 電源，L 系列電池支持\n\n■自動頻道選擇，組配對\n\n■無風扇設計，鋁製結構",
       "accessories": "電池 * 1\n\n充電器*1\n\n天線 * 8\n\n熱靴轉接頭 * 1\n\nHDMI線 * 1\n變壓器 * 1\n\n專用箱 * 1"
@@ -5495,7 +5495,7 @@
       "dailyRate": "850",
       "deposit": "2000",
       "promissoryNote": "18000",
-      "imageUrl": "../files/zimghe-1672902644.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimghe-1672902644.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=441",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價\n\n--------------------\n\n■無線視頻發射器/接收器套裝\n\n■最多可混合 4 個接收器、平板電腦和手機\n\n■1080p60 HDMI 傳輸高達 1200'\n\n■350M 傳輸距離\n\n■300M>60ms 延遲\n\n■用於計算機流媒體的 USB/UVC 輸出\n\n■支持 Zebra 和 LUT 的 iOS/Android 應用程序\n\n■2.4 和 5 GHz 雙頻段頻率\n\n■1.3\" OLED 顯示屏\n\n■DC/USB 電源，L 系列電池支持\n\n■自動頻道選擇，組配對\n\n■無風扇設計，鋁製結構",
       "accessories": "電池 * 1\n\n充電器*1\n\n天線 * 8\n\n熱靴轉接頭 * 1\n\nHDMI線 * 1\n變壓器 * 1\n\n專用箱 * 1"
@@ -5509,7 +5509,7 @@
       "dailyRate": "1000",
       "deposit": "3000",
       "promissoryNote": "30000",
-      "imageUrl": "../files/zimgc1圖傳-1679594366.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgc1%E5%9C%96%E5%82%B3-1679594366.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=457",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\n■ 傳輸延遲低至 40ms\n■ 1000ft 無線傳輸範圍 (LOS)\n■ 自動跳頻\n■ 5.1~5.8GHz 頻段優化，無卡頓，無黑屏\n■ 無縫切頻\n■ UVC推流\n■ 發射器支持SDI輸入、HDMI輸入和SDI環出\n■ 接收器支持SDI輸出x2 和 HDMI輸出\n■ 支持DC供電、電池供電、USB Type-C供電",
       "accessories": "電池 * 1\n\n指向天線 * 4\n\n蘑菇天線 * 2\n\n熱靴轉接頭 * 1\n\nHDMI線 * 1\n變壓器 * 1\n\n專用箱 * 1"
@@ -5523,7 +5523,7 @@
       "dailyRate": "1000",
       "deposit": "3000",
       "promissoryNote": "30000",
-      "imageUrl": "../files/zimgc1圖傳-1679594550.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgc1%E5%9C%96%E5%82%B3-1679594550.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=458",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\n■ 傳輸延遲低至 40ms\n■ 1000ft 無線傳輸範圍 (LOS)\n■ 自動跳頻\n■ 5.1~5.8GHz 頻段優化，無卡頓，無黑屏\n■ 無縫切頻\n■ UVC推流\n■ 發射器支持SDI輸入、HDMI輸入和SDI環出\n■ 接收器支持SDI輸出x2 和 HDMI輸出\n■ 支持DC供電、電池供電、USB Type-C供電",
       "accessories": "電池 * 1\n\n指向天線 * 4\n\n蘑菇天線 * 2\n\n熱靴轉接頭 * 1\n\nHDMI線 * 1\n變壓器 * 1\n\n專用箱 * 1"
@@ -5567,7 +5567,7 @@
       "dailyRate": "300",
       "deposit": "1000",
       "promissoryNote": "5000",
-      "imageUrl": "../files/zimg無線電1-1630322792.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E7%84%A1%E7%B7%9A%E9%9B%BB1-1630322792.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=339",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\n種類 無線電對講機主機\n\n尺寸 110x58x32mm(不含天線)\n\n重量 約210 g\n\n頻率範圍 44-146MHz / UHF 430-432MHz\n\n記憶頻道 101-150組\n\n通話距離 5KM以下\n\n電源輸入 7.4V\n\n電池 1800mAh(充電式鋰電池)\n\n工作方式 同頻單工或異頻單工",
       "accessories": "充電器 * 3\n\n天線 * 3\n\n收納包 * 1"
@@ -5665,7 +5665,7 @@
       "dailyRate": "1000",
       "deposit": "3000",
       "promissoryNote": "43000",
-      "imageUrl": "../files/zimgsolidcom-c1-1677729659.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgsolidcom-c1-1677729659.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=453",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\nSolidcom C1 全雙工無線耳機通話設備，\n是 Hollyland 第一款全無線和獨立耳機通訊設備，\n採用先進的DECT 6.0技術，聲音擁有卓越的清晰度。\n設備在1.9GHz頻段工作，提供可靠的傳輸範圍。\n\n■傳輸範圍可達1000FT (350m)半徑(LOS)\n\n■1對3耳機系統\n■350公尺工作範圍 (空曠無遮蔽)\n■DECT 6.0 加密技術\n■100Hz 至 7KHz 的寬帶音頻質量\n■便攜和免提",
       "accessories": "電池 * 8\n\n充電器(含電源線) * 1\n\n收納袋 * 4\n\n專用箱 * 1"
@@ -5679,7 +5679,7 @@
       "dailyRate": "200",
       "deposit": "1000",
       "promissoryNote": "10000",
-      "imageUrl": "../files/zimgc1-1677734966.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgc1-1677734966.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=454",
       "description": "■傳輸範圍可達1000FT (350m)半徑(LOS)\n\n■1對3耳機系統\n■350公尺工作範圍 (空曠無遮蔽)\n■DECT 6.0 加密技術\n■100Hz 至 7KHz 的寬帶音頻質量\n■便攜和免提",
       "accessories": "電池 * 2\n\n收納袋 * 1"
@@ -5750,7 +5750,7 @@
       "dailyRate": "100",
       "deposit": "0",
       "promissoryNote": "2800",
-      "imageUrl": "../files/zimgsdi-1629205424.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgsdi-1629205424.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=332",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。",
       "accessories": ""
@@ -5764,7 +5764,7 @@
       "dailyRate": "100",
       "deposit": "0",
       "promissoryNote": "2800",
-      "imageUrl": "../files/zimgsdi-1629205538.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgsdi-1629205538.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=333",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。",
       "accessories": ""
@@ -5792,7 +5792,7 @@
       "dailyRate": "150",
       "deposit": "0",
       "promissoryNote": "3800",
-      "imageUrl": "../files/zimghdmi-1661012634.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimghdmi-1661012634.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=341",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------",
       "accessories": ""
@@ -5806,7 +5806,7 @@
       "dailyRate": "300",
       "deposit": "0",
       "promissoryNote": "5000",
-      "imageUrl": "../files/zimghdmi-1661012645.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimghdmi-1661012645.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=342",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------",
       "accessories": ""
@@ -5848,7 +5848,7 @@
       "dailyRate": "100",
       "deposit": "0",
       "promissoryNote": "3500",
-      "imageUrl": "../files/zimgs__79732740-1661085139.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgs__79732740-1661085139.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=407",
       "description": "■ 線長 4.6M\n\n■ USB C to USB C\n\n■僅限數據傳輸\n\n■無法用於充電",
       "accessories": ""
@@ -5862,7 +5862,7 @@
       "dailyRate": "150",
       "deposit": "0",
       "promissoryNote": "2500",
-      "imageUrl": "../files/zimgs__79732740-1664268646.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgs__79732740-1664268646.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=416",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "D-TAP 轉 DC * 2\n\nD-TAP 四分一",
@@ -5891,7 +5891,7 @@
       "dailyRate": "100",
       "deposit": "0",
       "promissoryNote": "2000",
-      "imageUrl": "../files/zimg15-1683884705.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg15-1683884705.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=468",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價\n\n-------------------------------\n\n■最大負載 : 1650w",
       "accessories": ""
@@ -5905,7 +5905,7 @@
       "dailyRate": "120",
       "deposit": "0",
       "promissoryNote": "2000",
-      "imageUrl": "../files/zimg20-1683884741.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg20-1683884741.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=336",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價\n\n-------------------------------\n\n■最大負載 : 1210w",
       "accessories": ""
@@ -6116,7 +6116,7 @@
       "dailyRate": "150",
       "deposit": "1000",
       "promissoryNote": "6500",
-      "imageUrl": "../files/zimgv掛-1668504707.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgv%E6%8E%9B-1668504707.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=435",
       "description": "■電容量為98wh\n\n■ D-tap輸出：14.8V\n\n■ USB A輸出：5V / 2.4A，9V / 2A，12V / 1.5A\n\n■ USB C輸出/輸入：5V / 2.4A，9V / 2A，12V / 2A，15V / 2A ，15V / 2A，20V / 2.2A\n\n■ Micro USB輸入：5V / 3A\n\n■ 兼容V型鎖充電器和手機USB充電器\n\n■ 尺寸：101 * 72 * 54,5mm\n\n■ 重量：520g",
       "accessories": "電源線*1"
@@ -6130,7 +6130,7 @@
       "dailyRate": "150",
       "deposit": "1000",
       "promissoryNote": "5000",
-      "imageUrl": "../files/zimgfs-bp130-1569995490.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgfs-bp130-1569995490.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=184",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價",
       "accessories": "充電器(含電源線) * 1\n\n收納包 * 1"
@@ -6144,7 +6144,7 @@
       "dailyRate": "200",
       "deposit": "1000",
       "promissoryNote": "6500",
-      "imageUrl": "../files/zimgfs-bp150-1588505210.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgfs-bp150-1588505210.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=185",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價",
       "accessories": "充電器(含電源線) * 1\n\n收納包 * 1"
@@ -6172,7 +6172,7 @@
       "dailyRate": "200",
       "deposit": "1000",
       "promissoryNote": "7000",
-      "imageUrl": "../files/zimg灃標-1651312097.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E7%81%83%E6%A8%99-1651312097.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=374",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價",
       "accessories": "充電器(含電源線) * 1\n\n收納包 * 1"
@@ -6200,7 +6200,7 @@
       "dailyRate": "700",
       "deposit": "2000",
       "promissoryNote": "25000",
-      "imageUrl": "../files/zimg77-1658903230.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg77-1658903230.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=403",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價\n\n--------------------------------\n\n* 露營、劇組戶外拍攝均可使用\n\n■537Wh (168,000mAh) 超大電芯容量\n\n■搭載13個供電孔，支援6種供電類型\n\n■支援 700W 高瓦數電器\n\n■選用磷酸鐵鋰電池，高效輸出更安全\n\n■內置BSM電池管理系統｜可以自我保護，防止出現過度充電、放電",
       "accessories": "AC電源變壓器 x1\n\n車載點菸充電線 x1\n\n線材收納包 x 1\n\n電箱收納包 x 1"
@@ -6228,7 +6228,7 @@
       "dailyRate": "550",
       "deposit": "2000",
       "promissoryNote": "11000",
-      "imageUrl": "../files/zimgweb-54k-1616654606.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgweb-54k-1616654606.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=299",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價\n\n--------------------------------\n\n■容量：53600 mAh (3.6V) / 鋰電池\n\n■產品尺寸：220x160x53mm\n\n■產品重量：1420g(&plusmn;5g)\n\n■電池功率：192.96W\n\n■工作溫度：0度~40度\n\nType-C輸出\n\n■直流輸出電壓：5VDC\n\n■直流輸出電流：3.1A\n\nAC電源輸出(兩孔合計)\n\n■輸出電壓波形：模擬正弦波\n\n■交流輸出電壓(額定值)：120VAC\n\n■交流輸出頻率：60Hz\n\n■連續輸出功率：200W\n\n■最大輸出功率：250W\n\nUSB輸出(兩孔合計)\n\n■直流輸出電壓：5VDC\n\n■直流輸出電流：3.4A\n\n■額定輸出：30500mAh",
       "accessories": "電源線*1\n\n變壓器 * 1\n\n收納包 * 1"
@@ -6242,7 +6242,7 @@
       "dailyRate": "5500",
       "deposit": "5000",
       "promissoryNote": "0",
-      "imageUrl": "../files/zimg發電機-1662789659.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E7%99%BC%E9%9B%BB%E6%A9%9F-1662789659.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=413",
       "description": "* 發電機無法搭配任何優惠方案\n\n* 發電機租賃價格不包含運費",
       "accessories": "20米電源線 * 2"

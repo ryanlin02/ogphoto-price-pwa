@@ -101,7 +101,7 @@ function parseCategoryProducts(html, category) {
     if (cells.length < 4) continue;
     const title = normalise(cells[0].match(/title="([^"]+)"/i)?.[1] || cells[0]);
     if (!title) continue;
-    const imageUrl = cells[0].match(/<img[^>]+src="([^"]+)"/i)?.[1] || null;
+    const rawImageUrl = cells[0].match(/<img[^>]+src="([^"]+)"/i)?.[1] || null;
     products.push({
       id: mid,
       name: title,
@@ -111,7 +111,7 @@ function parseCategoryProducts(html, category) {
       dailyRate: normalise(cells[1]),
       deposit: normalise(cells[2]),
       promissoryNote: normalise(cells[3]),
-      imageUrl,
+      imageUrl: rawImageUrl ? absoluteUrl(rawImageUrl) : null,
       sourceUrl: absoluteUrl(`rent/11_rent_product.php?mid=${mid}`),
     });
   }
@@ -122,11 +122,11 @@ function parseProductDetail(html, fallbackImageUrl) {
   const lists = [...html.matchAll(/<ul class="product-list">([\s\S]*?)<\/ul>/gi)].map((match) => textFromHtml(match[1]));
   const description = lists.shift() || '';
   const accessories = lists.filter(Boolean).join('\n');
-  const imageUrl = html.match(/class="ms-brd"[^>]+data-src="([^"]+)"/i)?.[1]
+  const rawImageUrl = html.match(/class="ms-brd"[^>]+data-src="([^"]+)"/i)?.[1]
     || html.match(/class="ms-thumb"[^>]+src="([^"]+)"/i)?.[1]
     || fallbackImageUrl
     || null;
-  return { description, accessories, imageUrl };
+  return { description, accessories, imageUrl: rawImageUrl ? absoluteUrl(rawImageUrl) : null };
 }
 
 async function atomicWrite(path, content) {

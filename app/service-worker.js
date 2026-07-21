@@ -1,4 +1,4 @@
-const STATIC_CACHE = 'ogphoto-static-v3';
+const STATIC_CACHE = 'ogphoto-static-v4';
 const DATA_CACHE = 'ogphoto-data-v1';
 const STATIC_FILES = ['./', './index.html', './style.css', './app.js', './manifest.webmanifest', './icon.svg'];
 

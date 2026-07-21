@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-    <meta name="theme-color" content="#b85f31">
+    <meta name="theme-color" content="#ffffff">
     <meta name="description" content="橙攝公開器材價目與品項詳情的個人手機查詢工具。">
     <link rel="manifest" href="manifest.webmanifest">
     <link rel="icon" href="icon.svg" type="image/svg+xml">
@@ -23,7 +23,7 @@
             <span aria-hidden="true">★</span><small>收藏</small>
           </button>
           <button id="cartButton" class="icon-button cart-header-button" type="button" aria-label="開啟租借清單">
-            <span aria-hidden="true">▣</span><small>清單 <b id="cartCount">0</b></small>
+            <span aria-hidden="true">▣</span><small>清單</small><b id="cartCount" class="cart-count">0</b>
           </button>
         </div>
       </header>
@@ -67,6 +67,11 @@
         </section>
       </main>
     </div>
+
+    <button id="floatingCartButton" class="floating-cart" type="button" aria-label="開啟租借清單" hidden>
+      <span aria-hidden="true">▣</span><strong>查看租借清單</strong><b id="floatingCartCount">0</b>
+    </button>
+    <div id="cartNotice" class="cart-notice" role="status" aria-live="polite" hidden></div>
 
     <dialog id="detailDialog" class="detail-dialog" aria-label="器材詳情">
       <article id="detailContent"></article>

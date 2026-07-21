@@ -9,6 +9,10 @@ function storedJson(key, fallback) {
 }
 
 const savedCart = storedJson(CART_KEY, {});
+const savedCartItems = Array.isArray(savedCart.items) ? savedCart.items : [];
+const uniqueSavedCartItems = [...new Map(
+  savedCartItems.filter((item) => item?.id).map((item) => [item.id, { id: item.id }]),
+).values()];
 
 const state = {
   catalog: null,
@@ -19,10 +23,9 @@ const state = {
   favoritesOnly: false,
   favorites: new Set(storedJson(FAVORITES_KEY, [])),
   cart: {
-    title: savedCart.title || '器材租借清單',
     note: savedCart.note || '',
     days: Math.max(1, Number(savedCart.days) || 1),
-    items: Array.isArray(savedCart.items) ? savedCart.items : [],
+    items: uniqueSavedCartItems,
   },
 };
 
@@ -56,15 +59,11 @@ function saveCart() {
 }
 
 function cartItemCount() {
-  return state.cart.items.reduce((total, item) => total + positiveInteger(item.quantity), 0);
+  return state.cart.items.length;
 }
 
 function cartProduct(item) {
   return state.catalog?.products.find((product) => product.id === item.id) || null;
-}
-
-function effectiveDays(item) {
-  return item.days ? positiveInteger(item.days) : state.cart.days;
 }
 
 function cartEntries() {
@@ -72,14 +71,34 @@ function cartEntries() {
 }
 
 function cartTotals() {
-  return cartEntries().reduce((totals, { item, product }) => {
-    const quantity = positiveInteger(item.quantity);
-    const days = effectiveDays(item);
-    totals.rental += priceNumber(product.dailyRate) * quantity * days;
-    totals.deposit += priceNumber(product.deposit) * quantity;
-    totals.promissoryNote += priceNumber(product.promissoryNote) * quantity;
+  return cartEntries().reduce((totals, { product }) => {
+    totals.rental += priceNumber(product.dailyRate) * state.cart.days;
+    totals.deposit += priceNumber(product.deposit);
+    totals.promissoryNote += priceNumber(product.promissoryNote);
     return totals;
   }, { rental: 0, deposit: 0, promissoryNote: 0 });
+}
+
+let noticeTimer;
+
+function updateCartIndicators() {
+  const count = cartItemCount();
+  element('cartCount').textContent = String(count);
+  element('floatingCartCount').textContent = String(count);
+  element('floatingCartButton').hidden = count === 0;
+}
+
+function showCartNotice(message) {
+  const notice = element('cartNotice');
+  notice.textContent = message;
+  notice.hidden = false;
+  notice.classList.remove('is-visible');
+  requestAnimationFrame(() => notice.classList.add('is-visible'));
+  clearTimeout(noticeTimer);
+  noticeTimer = setTimeout(() => {
+    notice.classList.remove('is-visible');
+    setTimeout(() => { notice.hidden = true; }, 180);
+  }, 2200);
 }
 
 function dateText(iso) {
@@ -190,7 +209,7 @@ function render() {
   element('resetFilters').hidden = !(state.group !== '全部' || state.category !== '全部' || state.search || state.favoritesOnly);
   element('favoritesButton').setAttribute('aria-pressed', String(state.favoritesOnly));
   element('favoritesButton').classList.toggle('active', state.favoritesOnly);
-  element('cartCount').textContent = String(cartItemCount());
+  updateCartIndicators();
   element('clearSearch').hidden = !state.search;
 }
 
@@ -213,10 +232,15 @@ function detailText(text, heading) {
 
 function addToCart(id) {
   const existing = state.cart.items.find((item) => item.id === id);
-  if (existing) existing.quantity = positiveInteger(existing.quantity) + 1;
-  else state.cart.items.push({ id, quantity: 1, days: null });
+  const product = state.catalog?.products.find((entry) => entry.id === id);
+  if (existing) {
+    showCartNotice(`「${product?.name || '此器材'}」已在清單中`);
+    return;
+  }
+  state.cart.items.push({ id });
   saveCart();
   render();
+  showCartNotice(`已加入：${product?.name || '器材'}`);
 }
 
 function removeFromCart(id) {
@@ -226,28 +250,17 @@ function removeFromCart(id) {
   renderCart();
 }
 
-function setCartItem(id, updates) {
-  const item = state.cart.items.find((entry) => entry.id === id);
-  if (!item) return;
-  Object.assign(item, updates);
-  saveCart();
-  render();
-  renderCart();
-}
-
 function cartText() {
   const totals = cartTotals();
   const lines = [
-    state.cart.title.trim() || '器材租借清單',
+    '器材租借清單',
     `建立日期：${new Intl.DateTimeFormat('zh-TW').format(new Date())}`,
     `全體預設租期：${state.cart.days} 天`,
     '',
   ];
-  cartEntries().forEach(({ item, product }, index) => {
-    const quantity = positiveInteger(item.quantity);
-    const days = effectiveDays(item);
+  cartEntries().forEach(({ product }, index) => {
     lines.push(`${index + 1}. ${product.name}`);
-    lines.push(`   每日租金：${formatNumber(product.dailyRate)} 元 × ${days} 天 × ${quantity} 件 = ${formatNumber(priceNumber(product.dailyRate) * days * quantity)} 元`);
+    lines.push(`   每日租金：${formatNumber(product.dailyRate)} 元 × ${state.cart.days} 天 = ${formatNumber(priceNumber(product.dailyRate) * state.cart.days)} 元`);
     lines.push(`   押金：${formatNumber(product.deposit)} 元；本票金額：${formatNumber(product.promissoryNote)} 元`);
     lines.push(`   官方頁面：${product.sourceUrl}`);
   });
@@ -269,14 +282,10 @@ function downloadCartText() {
   URL.revokeObjectURL(link.href);
 }
 
-function inputField(type, value, label, onChange, options = {}) {
-  const input = document.createElement('input');
-  input.type = type;
-  input.value = value;
-  input.setAttribute('aria-label', label);
-  Object.entries(options).forEach(([key, optionValue]) => input.setAttribute(key, optionValue));
-  input.addEventListener('change', (event) => onChange(event.target.value));
-  return input;
+function changeCartDays(change) {
+  state.cart.days = Math.max(1, Math.min(365, state.cart.days + change));
+  saveCart();
+  renderCart();
 }
 
 function renderCart() {
@@ -284,31 +293,44 @@ function renderCart() {
   content.replaceChildren();
   const header = document.createElement('header');
   header.className = 'cart-header';
-  const headingWrap = document.createElement('div');
-  const titleInput = inputField('text', state.cart.title, '清單標題', (value) => { state.cart.title = value; saveCart(); });
-  titleInput.className = 'cart-title-input';
+  const heading = document.createElement('div');
   const label = document.createElement('p');
   label.textContent = '個人租借準備 · 非官方訂單';
-  headingWrap.append(label, titleInput);
+  const title = document.createElement('h2');
+  title.textContent = '器材租借清單';
+  heading.append(label, title);
   const close = document.createElement('button');
   close.className = 'dialog-close';
   close.type = 'button';
   close.textContent = '×';
   close.setAttribute('aria-label', '關閉租借清單');
   close.addEventListener('click', () => cartDialog.close());
-  header.append(headingWrap, close);
+  header.append(heading, close);
   content.append(header);
 
   const controls = document.createElement('section');
   controls.className = 'cart-controls';
-  const daysLabel = document.createElement('label');
-  daysLabel.textContent = '全體預設租期';
-  const days = inputField('number', String(state.cart.days), '全體預設租期（天）', (value) => {
-    state.cart.days = positiveInteger(value);
-    saveCart();
-    renderCart();
-  }, { min: '1', max: '365', inputmode: 'numeric' });
-  daysLabel.append(days, document.createTextNode(' 天'));
+  const daysWrap = document.createElement('div');
+  daysWrap.className = 'rental-days';
+  const daysLabel = document.createElement('span');
+  daysLabel.textContent = '統一租期';
+  const stepper = document.createElement('div');
+  stepper.className = 'days-stepper';
+  const decrease = document.createElement('button');
+  decrease.type = 'button';
+  decrease.textContent = '−';
+  decrease.disabled = state.cart.days <= 1;
+  decrease.setAttribute('aria-label', '減少租期一天');
+  decrease.addEventListener('click', () => changeCartDays(-1));
+  const value = document.createElement('strong');
+  value.textContent = `${state.cart.days} 天`;
+  const increase = document.createElement('button');
+  increase.type = 'button';
+  increase.textContent = '＋';
+  increase.setAttribute('aria-label', '增加租期一天');
+  increase.addEventListener('click', () => changeCartDays(1));
+  stepper.append(decrease, value, increase);
+  daysWrap.append(daysLabel, stepper);
   const clear = document.createElement('button');
   clear.className = 'cart-clear-button';
   clear.type = 'button';
@@ -321,7 +343,7 @@ function renderCart() {
     render();
     renderCart();
   });
-  controls.append(daysLabel, clear);
+  controls.append(daysWrap, clear);
   content.append(controls);
 
   const entries = cartEntries();
@@ -333,58 +355,42 @@ function renderCart() {
   } else {
     const list = document.createElement('section');
     list.className = 'cart-list';
-    entries.forEach(({ item, product }) => {
-      const quantity = positiveInteger(item.quantity);
-      const days = effectiveDays(item);
+    entries.forEach(({ product }) => {
       const row = document.createElement('article');
       row.className = 'cart-row';
-      const top = document.createElement('div');
-      top.className = 'cart-row-top';
+      const head = document.createElement('div');
+      head.className = 'cart-row-head';
       const copy = document.createElement('div');
+      copy.className = 'cart-row-copy';
       const category = document.createElement('p');
       category.className = 'category-label';
       category.textContent = product.category;
       const name = document.createElement('h3');
       name.textContent = product.name;
-      const official = document.createElement('a');
-      official.href = product.sourceUrl;
-      official.target = '_blank';
-      official.rel = 'noopener noreferrer';
-      official.textContent = '官方頁面 ↗';
-      copy.append(category, name, official);
+      copy.append(category, name);
       const remove = document.createElement('button');
       remove.className = 'cart-remove-button';
       remove.type = 'button';
       remove.textContent = '移除';
+      remove.setAttribute('aria-label', `從清單移除 ${product.name}`);
       remove.addEventListener('click', () => removeFromCart(product.id));
-      top.append(copy, remove);
-      const fields = document.createElement('div');
-      fields.className = 'cart-row-fields';
-      const dayLabel = document.createElement('label');
-      dayLabel.textContent = '天數';
-      const dayInput = inputField('number', String(days), `${product.name} 租借天數`, (value) => {
-        const nextDays = positiveInteger(value);
-        setCartItem(product.id, { days: nextDays === state.cart.days ? null : nextDays });
-      }, { min: '1', max: '365', inputmode: 'numeric' });
-      dayLabel.append(dayInput);
-      const resetDays = document.createElement('button');
-      resetDays.className = 'cart-reset-days';
-      resetDays.type = 'button';
-      resetDays.textContent = item.days ? '套用全體' : '全體預設';
-      resetDays.disabled = !item.days;
-      resetDays.addEventListener('click', () => setCartItem(product.id, { days: null }));
-      dayLabel.append(resetDays);
-      const quantityLabel = document.createElement('label');
-      quantityLabel.textContent = '數量';
-      quantityLabel.append(inputField('number', String(quantity), `${product.name} 數量`, (value) => setCartItem(product.id, { quantity: positiveInteger(value) }), { min: '1', max: '99', inputmode: 'numeric' }));
-      const subtotal = document.createElement('div');
-      subtotal.className = 'cart-subtotal';
-      subtotal.innerHTML = `<span>基本日租小計</span><strong>${formatNumber(priceNumber(product.dailyRate) * days * quantity)} 元</strong>`;
-      fields.append(dayLabel, quantityLabel, subtotal);
-      const detail = document.createElement('p');
-      detail.className = 'cart-row-pricing';
-      detail.textContent = `每日 ${formatNumber(product.dailyRate)} 元 · 押金 ${formatNumber(product.deposit)} 元 · 本票 ${formatNumber(product.promissoryNote)} 元`;
-      row.append(top, fields, detail);
+      head.append(copy, remove);
+      const prices = document.createElement('div');
+      prices.className = 'cart-row-prices';
+      const official = document.createElement('a');
+      official.href = product.sourceUrl;
+      official.target = '_blank';
+      official.rel = 'noopener noreferrer';
+      official.textContent = '官方 ↗';
+      const daily = document.createElement('span');
+      daily.textContent = `每日 ${formatNumber(product.dailyRate)} 元 × ${state.cart.days} 天`;
+      const subtotal = document.createElement('strong');
+      subtotal.textContent = `${formatNumber(priceNumber(product.dailyRate) * state.cart.days)} 元`;
+      prices.append(official, daily, subtotal);
+      const security = document.createElement('p');
+      security.className = 'cart-row-security';
+      security.textContent = `押金 ${formatNumber(product.deposit)} 元 · 本票 ${formatNumber(product.promissoryNote)} 元`;
+      row.append(head, prices, security);
       list.append(row);
     });
     content.append(list);
@@ -394,7 +400,7 @@ function renderCart() {
   noteLabel.className = 'cart-note';
   noteLabel.textContent = '清單備註（選填）';
   const note = document.createElement('textarea');
-  note.rows = 3;
+  note.rows = 2;
   note.placeholder = '例如：活動名稱、取件時間、需要再確認的器材…';
   note.value = state.cart.note;
   note.addEventListener('input', (event) => { state.cart.note = event.target.value; saveCart(); });
@@ -404,12 +410,12 @@ function renderCart() {
   const totals = cartTotals();
   const summary = document.createElement('section');
   summary.className = 'cart-summary';
-  [['基本日租預估', `${formatNumber(totals.rental)} 元`], ['押金合計', `${formatNumber(totals.deposit)} 元`], ['本票金額合計', `${formatNumber(totals.promissoryNote)} 元`]].forEach(([labelText, value]) => {
+  [['基本日租預估', `${formatNumber(totals.rental)} 元`], ['押金合計', `${formatNumber(totals.deposit)} 元`], ['本票金額合計', `${formatNumber(totals.promissoryNote)} 元`]].forEach(([labelText, summaryValue]) => {
     const line = document.createElement('div');
     const labelTextNode = document.createElement('span');
     const valueNode = document.createElement('strong');
     labelTextNode.textContent = labelText;
-    valueNode.textContent = value;
+    valueNode.textContent = summaryValue;
     line.append(labelTextNode, valueNode);
     summary.append(line);
   });
@@ -487,7 +493,7 @@ function showDetail(product) {
   const addCart = document.createElement('button');
   addCart.className = 'cart-action';
   addCart.type = 'button';
-  addCart.textContent = '＋ 加入租借清單';
+  addCart.textContent = state.cart.items.some((item) => item.id === product.id) ? '✓ 已加入清單' : '＋ 加入租借清單';
   addCart.addEventListener('click', () => {
     addToCart(product.id);
     addCart.textContent = '✓ 已加入清單';
@@ -540,6 +546,7 @@ element('clearSearch').addEventListener('click', () => { searchInput.value = '';
 element('sortSelect').addEventListener('change', (event) => { state.sort = event.target.value; render(); });
 element('favoritesButton').addEventListener('click', () => { state.favoritesOnly = !state.favoritesOnly; render(); });
 element('cartButton').addEventListener('click', openCart);
+element('floatingCartButton').addEventListener('click', openCart);
 element('resetFilters').addEventListener('click', () => {
   state.group = '全部'; state.category = '全部'; state.search = ''; state.favoritesOnly = false; searchInput.value = ''; render();
 });

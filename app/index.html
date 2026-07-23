@@ -12,12 +12,65 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <meta name="theme-color" content="#ffffff">
-    <meta name="description" content="橙攝公開器材價目與品項詳情的個人手機查詢工具。">
+    <meta name="description" content="快速搜尋橙攝公開攝影器材租借價目，包含相機、鏡頭、燈光、收音與穩定器等分類的每日租金、押金、本票及公開規格。資料每日更新，以官方網站為準。">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <link rel="canonical" href="https://ryanlin02.github.io/ogphoto-price-pwa/app/">
+    <link rel="alternate" hreflang="zh-Hant-TW" href="https://ryanlin02.github.io/ogphoto-price-pwa/app/">
+    <link rel="alternate" hreflang="x-default" href="https://ryanlin02.github.io/ogphoto-price-pwa/app/">
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="preconnect" href="https://www.google-analytics.com">
+    <meta property="og:locale" content="zh_TW">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="橙攝器材查價">
+    <meta property="og:title" content="橙攝器材查價｜攝影器材租借價格與規格快速查詢">
+    <meta property="og:description" content="快速查詢相機、鏡頭、燈光、收音與穩定器等公開租借價格、押金及規格，資料每日更新。">
+    <meta property="og:url" content="https://ryanlin02.github.io/ogphoto-price-pwa/app/">
+    <meta property="og:image" content="https://ryanlin02.github.io/ogphoto-price-pwa/app/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="橙攝器材查價，快速搜尋攝影器材租借價格與規格">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="橙攝器材查價｜攝影器材租借價格與規格快速查詢">
+    <meta name="twitter:description" content="快速查詢公開攝影器材租借價格、押金與規格，資料每日更新。">
+    <meta name="twitter:image" content="https://ryanlin02.github.io/ogphoto-price-pwa/app/og-image.png">
     <link rel="manifest" href="manifest.webmanifest">
     <link rel="icon" href="icon.svg" type="image/svg+xml">
     <link rel="apple-touch-icon" href="icon.svg">
     <link rel="stylesheet" href="style.css">
-    <title>橙攝器材查價</title>
+    <title>橙攝器材查價｜攝影器材租借價格與規格快速查詢</title>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://ryanlin02.github.io/ogphoto-price-pwa/app/#website",
+            "url": "https://ryanlin02.github.io/ogphoto-price-pwa/app/",
+            "name": "橙攝器材查價",
+            "description": "橙攝公開攝影器材租借價目與規格的手機快速查詢工具。",
+            "inLanguage": "zh-Hant-TW"
+          },
+          {
+            "@type": "WebApplication",
+            "@id": "https://ryanlin02.github.io/ogphoto-price-pwa/app/#application",
+            "url": "https://ryanlin02.github.io/ogphoto-price-pwa/app/",
+            "name": "橙攝器材查價",
+            "description": "快速查詢相機、鏡頭、燈光、收音與穩定器等公開租借價格、押金及規格。",
+            "applicationCategory": "BusinessApplication",
+            "operatingSystem": "任何支援現代瀏覽器的裝置",
+            "browserRequirements": "需要支援 JavaScript",
+            "inLanguage": "zh-Hant-TW",
+            "isAccessibleForFree": true,
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "TWD"
+            }
+          }
+        ]
+      }
+    </script>
   </head>
   <body>
     <div class="app-shell">
@@ -74,6 +127,10 @@
           </div>
         </section>
       </main>
+      <footer class="site-footer">
+        <p>資料每日同步，價格與租借條件以官方網站為準。</p>
+        <p><a href="catalog.html">瀏覽完整器材目錄</a> · <a href="https://www.ogphoto.com.tw/price.php?act=init" rel="noopener external">查看官方價目表</a></p>
+      </footer>
     </div>
 
     <button id="floatingCartButton" class="floating-cart" type="button" aria-label="開啟租借清單" hidden>

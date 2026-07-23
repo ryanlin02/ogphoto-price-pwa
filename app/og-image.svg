@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <rect width="1200" height="1200" fill="#f8fafc"/>
+  <g transform="translate(0 285)">
+    <circle cx="1030" cy="92" r="270" fill="#fff7ed"/>
+    <circle cx="1040" cy="570" r="300" fill="#ffedd5"/>
+    <rect x="72" y="76" width="1056" height="478" rx="42" fill="#ffffff" stroke="#fed7aa" stroke-width="4"/>
+    <g transform="translate(116 159)">
+      <rect width="238" height="166" rx="30" fill="#173f3b"/>
+      <path d="M50 0l28-42h82l28 42" fill="#ea580c"/>
+      <circle cx="119" cy="83" r="58" fill="#f6f4ee"/>
+      <circle cx="119" cy="83" r="37" fill="#75a7a0"/>
+      <circle cx="119" cy="83" r="17" fill="#173f3b"/>
+      <circle cx="198" cy="38" r="11" fill="#ea580c"/>
+    </g>
+    <text x="410" y="222" fill="#1e293b" font-size="74" font-weight="800" font-family="-apple-system, BlinkMacSystemFont, 'PingFang TC', 'Noto Sans TC', sans-serif">橙攝器材查價</text>
+    <text x="414" y="298" fill="#c2410c" font-size="34" font-weight="700" font-family="-apple-system, BlinkMacSystemFont, 'PingFang TC', 'Noto Sans TC', sans-serif">攝影器材租借價格與規格快速查詢</text>
+    <g fill="#64748b" font-size="28" font-family="-apple-system, BlinkMacSystemFont, 'PingFang TC', 'Noto Sans TC', sans-serif">
+      <text x="116" y="418">相機 · 鏡頭 · 燈光 · 收音 · 穩定設備</text>
+      <text x="116" y="466">每日租金、押金、本票與公開規格一次查詢</text>
+    </g>
+    <rect x="877" y="438" width="207" height="68" rx="34" fill="#ea580c"/>
+    <text x="980" y="482" text-anchor="middle" fill="#ffffff" font-size="29" font-weight="800" font-family="-apple-system, BlinkMacSystemFont, 'PingFang TC', 'Noto Sans TC', sans-serif">每日更新</text>
+  </g>
+</svg>

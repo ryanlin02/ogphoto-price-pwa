@@ -1,7 +1,7 @@
 {
   "name": "橙攝器材查價",
   "short_name": "橙攝查價",
-  "description": "橙攝公開器材價目與品項詳情的個人手機查詢工具。",
+  "description": "快速查詢橙攝公開攝影器材租借價格、押金、本票與品項規格，資料每日更新。",
   "lang": "zh-Hant-TW",
   "start_url": "./",
   "scope": "./",

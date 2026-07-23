@@ -1,6 +1,6 @@
-const STATIC_CACHE = 'ogphoto-static-v5';
+const STATIC_CACHE = 'ogphoto-static-v6';
 const DATA_CACHE = 'ogphoto-data-v1';
-const STATIC_FILES = ['./', './index.html', './style.css', './app.js', './manifest.webmanifest', './icon.svg'];
+const STATIC_FILES = ['./', './index.html', './catalog.html', './style.css', './app.js', './manifest.webmanifest', './icon.svg', './og-image.png'];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(STATIC_CACHE).then((cache) => cache.addAll(STATIC_FILES)));

@@ -29,13 +29,21 @@ jobs:
       - name: 更新公開價目資料
         run: node scripts/update-catalog.mjs
 
+      - name: 產生搜尋引擎器材目錄與網站地圖
+        run: node scripts/generate-seo.mjs
+
       - name: 檢查資料完整性
-        run: node scripts/check-catalog.mjs
+        run: |
+          node scripts/check-catalog.mjs
+          node scripts/check-seo.mjs
 
       - name: 寫回更新資料
         run: |
           git config user.name "ogphoto-price-bot"
           git config user.email "ogphoto-price-bot@users.noreply.github.com"
-          git add app/data/catalog.json app/data/version.json
+          git add app/data/catalog.json app/data/version.json app/catalog.html sitemap.xml
           git diff --cached --quiet || git commit -m "chore: 更新橙攝公開價目資料"
           git push
+
+      - name: 通知 IndexNow 搜尋引擎
+        run: node scripts/submit-indexnow.mjs

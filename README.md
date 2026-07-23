@@ -15,14 +15,20 @@
 ## 網站結構
 
 - `app/`：GitHub Pages 實際發布的 PWA 網站。
+- `app/catalog.html`：每日產生、可供各搜尋引擎直接讀取的靜態器材目錄。
+- `sitemap.xml`：提交給搜尋引擎的網站地圖。
 - `app/data/catalog.json`：目前完整的公開價目與品項詳情。
 - `scripts/update-catalog.mjs`：低頻率取得公開分類與詳情頁，並建立資料檔。
+- `scripts/generate-seo.mjs`：由價目資料產生靜態目錄與 Sitemap。
+- `scripts/submit-indexnow.mjs`：價目更新後通知支援 IndexNow 的搜尋引擎。
 - `.github/workflows/update-catalog.yml`：每天台灣時間約 11:17 執行更新；也可在 GitHub Actions 手動執行。
 
 ## 本機檢查
 
 ```bash
 node scripts/check-catalog.mjs
+node scripts/generate-seo.mjs
+node scripts/check-seo.mjs
 python3 -m http.server 4173 --directory app
 ```
 

@@ -35,8 +35,11 @@
     <meta name="twitter:description" content="快速查詢公開攝影器材租借價格、押金與規格，資料每日更新。">
     <meta name="twitter:image" content="https://ryanlin02.github.io/ogphoto-price-pwa/app/og-image.png">
     <link rel="manifest" href="manifest.webmanifest">
+    <link rel="icon" href="favicon.ico" sizes="48x48">
+    <link rel="icon" href="favicon-48x48.png" type="image/png" sizes="48x48">
+    <link rel="icon" href="icon-192.png" type="image/png" sizes="192x192">
     <link rel="icon" href="icon.svg" type="image/svg+xml">
-    <link rel="apple-touch-icon" href="icon.svg">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
     <link rel="stylesheet" href="style.css">
     <title>橙攝器材查價｜攝影器材租借價格與規格快速查詢</title>
     <script type="application/ld+json">
@@ -44,12 +47,37 @@
         "@context": "https://schema.org",
         "@graph": [
           {
+            "@type": "Organization",
+            "@id": "https://ryanlin02.github.io/ogphoto-price-pwa/app/#organization",
+            "name": "橙攝器材查價",
+            "url": "https://ryanlin02.github.io/ogphoto-price-pwa/app/",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://ryanlin02.github.io/ogphoto-price-pwa/app/icon-512.png",
+              "width": 512,
+              "height": 512
+            },
+            "image": "https://ryanlin02.github.io/ogphoto-price-pwa/app/icon-512.png",
+            "sameAs": [
+              "https://www.ogphoto.com.tw/"
+            ]
+          },
+          {
             "@type": "WebSite",
             "@id": "https://ryanlin02.github.io/ogphoto-price-pwa/app/#website",
             "url": "https://ryanlin02.github.io/ogphoto-price-pwa/app/",
             "name": "橙攝器材查價",
             "description": "橙攝公開攝影器材租借價目與規格的手機快速查詢工具。",
-            "inLanguage": "zh-Hant-TW"
+            "inLanguage": "zh-Hant-TW",
+            "publisher": { "@id": "https://ryanlin02.github.io/ogphoto-price-pwa/app/#organization" },
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://ryanlin02.github.io/ogphoto-price-pwa/app/catalog.html?q={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
           },
           {
             "@type": "WebApplication",

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ryanlin02.github.io/ogphoto-price-pwa/sitemap.xml

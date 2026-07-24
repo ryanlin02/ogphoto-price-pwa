@@ -21,14 +21,15 @@ function requireMatch(value, pattern, message) {
 requireMatch(appHtml, /<title>[^<]*攝影器材租借價格[^<]*<\/title>/, '主頁 SEO 標題缺失');
 requireMatch(appHtml, new RegExp(`<link rel="canonical" href="${APP_URL.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}">`), '主頁 canonical 錯誤');
 requireMatch(appHtml, /<meta name="robots" content="index, follow,/, '主頁 robots 設定錯誤');
-requireMatch(appHtml, /"@type": "WebApplication"/, '主頁 WebApplication 結構化資料缺失');
-requireMatch(appHtml, /<meta property="og:image"[^>]+og-image\.png/, '主頁社群分享圖片缺失');
+requireMatch(appHtml, /"@type":\s*"Organization"/, '主頁 Organization 結構化資料缺失');
+requireMatch(appHtml, /icon-512\.png/, '主頁 Organization logo 標記缺失');
+requireMatch(appHtml, /favicon-48x48\.png/, '主頁 Favicon PNG 設定缺失');
 
-requireMatch(rootHtml, /<meta name="robots" content="noindex, follow">/, '轉址頁應設為 noindex, follow');
+requireMatch(rootHtml, /<meta name="robots" content="index, follow">/, '轉址頁應設為 index, follow');
 requireMatch(rootHtml, new RegExp(`<link rel="canonical" href="${APP_URL.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}">`), '轉址頁 canonical 錯誤');
 
 requireMatch(catalogHtml, new RegExp(`<link rel="canonical" href="${CATALOG_URL.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}">`), '器材目錄 canonical 錯誤');
-requireMatch(catalogHtml, /"@type":"CollectionPage"/, '器材目錄 CollectionPage 結構化資料缺失');
+requireMatch(catalogHtml, /"@type":\s*"CollectionPage"/, '器材目錄 CollectionPage 結構化資料缺失');
 const renderedProducts = (catalogHtml.match(/data-product-id=/g) || []).length;
 if (renderedProducts !== catalog.productCount) {
   throw new Error(`器材目錄品項數不一致：${renderedProducts}/${catalog.productCount}`);

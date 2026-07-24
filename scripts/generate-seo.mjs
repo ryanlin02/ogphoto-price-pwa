@@ -78,23 +78,42 @@ const sections = catalog.categories
 
 const itemList = {
   '@context': 'https://schema.org',
-  '@type': 'CollectionPage',
-  '@id': `${CATALOG_URL}#page`,
-  url: CATALOG_URL,
-  name: '橙攝攝影器材完整租借價目目錄',
-  description: '橙攝公開攝影器材租借品項、每日租金、押金、本票與規格的靜態索引。',
-  inLanguage: 'zh-Hant-TW',
-  isPartOf: { '@id': `${APP_URL}#website` },
-  mainEntity: {
-    '@type': 'ItemList',
-    numberOfItems: catalog.products.length,
-    itemListElement: catalog.products.map((product, index) => ({
-      '@type': 'ListItem',
-      position: index + 1,
-      name: compact(product.name),
-      url: `${CATALOG_URL}#product-${product.id}`,
-    })),
-  },
+  '@graph': [
+    {
+      '@type': 'Organization',
+      '@id': `${SITE_ROOT}#organization`,
+      name: '橙攝器材查價',
+      url: APP_URL,
+      logo: {
+        '@type': 'ImageObject',
+        url: `${APP_URL}icon-512.png`,
+        width: 512,
+        height: 512,
+      },
+      image: `${APP_URL}icon-512.png`,
+      sameAs: ['https://www.ogphoto.com.tw/'],
+    },
+    {
+      '@type': 'CollectionPage',
+      '@id': `${CATALOG_URL}#page`,
+      url: CATALOG_URL,
+      name: '橙攝攝影器材完整租借價目目錄',
+      description: '橙攝公開攝影器材租借品項、每日租金、押金、本票與規格的靜態索引。',
+      inLanguage: 'zh-Hant-TW',
+      isPartOf: { '@id': `${APP_URL}#website` },
+      publisher: { '@id': `${SITE_ROOT}#organization` },
+      mainEntity: {
+        '@type': 'ItemList',
+        numberOfItems: catalog.products.length,
+        itemListElement: catalog.products.map((product, index) => ({
+          '@type': 'ListItem',
+          position: index + 1,
+          name: compact(product.name),
+          url: `${CATALOG_URL}#product-${product.id}`,
+        })),
+      },
+    },
+  ],
 };
 
 const generatedDate = new Date(catalog.generatedAt);
@@ -114,6 +133,11 @@ const catalogHtml = `<!doctype html>
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <link rel="canonical" href="${CATALOG_URL}">
     <link rel="alternate" hreflang="zh-Hant-TW" href="${CATALOG_URL}">
+    <link rel="icon" href="favicon.ico" sizes="48x48">
+    <link rel="icon" href="favicon-48x48.png" type="image/png" sizes="48x48">
+    <link rel="icon" href="icon-192.png" type="image/png" sizes="192x192">
+    <link rel="icon" href="icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
     <meta property="og:locale" content="zh_TW">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="橙攝器材查價">

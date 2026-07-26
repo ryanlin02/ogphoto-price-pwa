@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-07-25T06:02:03.912Z",
+  "generatedAt": "2026-07-26T06:18:27.752Z",
   "categoryCount": 67,
-  "productCount": 414,
+  "productCount": 417,
   "categories": [
     {
       "id": "56",
@@ -5260,6 +5260,51 @@
       "accessories": "電源線*1\n\n遙控器*1\n\n煙油 250cc *1"
     },
     {
+      "id": "716",
+      "name": "250cc 高密度煙霧油 (購買) -【不單賣】",
+      "categoryId": "37",
+      "category": "道 具",
+      "group": "週 邊 器 材",
+      "dailyRate": "65",
+      "deposit": "0",
+      "promissoryNote": "0",
+      "imageUrl": null,
+      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=716",
+      "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
+      "accessories": "",
+      "detailUnavailable": true
+    },
+    {
+      "id": "717",
+      "name": "250cc 高密度煙霧油 (購買) -【不單賣】",
+      "categoryId": "37",
+      "category": "道 具",
+      "group": "週 邊 器 材",
+      "dailyRate": "65",
+      "deposit": "0",
+      "promissoryNote": "0",
+      "imageUrl": null,
+      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=717",
+      "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
+      "accessories": "",
+      "detailUnavailable": true
+    },
+    {
+      "id": "718",
+      "name": "250cc 高密度煙霧油 (購買) -【不單賣】",
+      "categoryId": "37",
+      "category": "道 具",
+      "group": "週 邊 器 材",
+      "dailyRate": "65",
+      "deposit": "0",
+      "promissoryNote": "0",
+      "imageUrl": null,
+      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=718",
+      "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
+      "accessories": "",
+      "detailUnavailable": true
+    },
+    {
       "id": "411",
       "name": "場記版 大號 (黑) - A",
       "categoryId": "37",
@@ -6277,8 +6322,8 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-07-24T06:08:09.236Z",
+    "previousGeneratedAt": "2026-07-25T06:02:03.912Z",
     "previousProductCount": 414,
-    "productCountChange": 0
+    "productCountChange": 3
   }
 }

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-08-02T06:15:50.113Z",
+  "generatedAt": "2026-08-03T06:39:02.783Z",
   "categoryCount": 67,
   "productCount": 420,
   "categories": [
@@ -4576,8 +4576,8 @@
       "category": "腳 架",
       "group": "穩 定 設 備",
       "dailyRate": "400",
-      "deposit": "1000",
-      "promissoryNote": "10000",
+      "deposit": "2000",
+      "promissoryNote": "12000",
       "imageUrl": "https://ogphoto.gglisten.com/files/zimgs-1711302856.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=568",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-----------------------------------\n\n荷重範圍1-6kg\n\n水準阻尼1-4\n\n俯仰阻尼1-4\n\n動態平衡1-8\n\n最大高度172cm",
@@ -4590,7 +4590,7 @@
       "category": "腳 架",
       "group": "穩 定 設 備",
       "dailyRate": "600",
-      "deposit": "2000",
+      "deposit": "3000",
       "promissoryNote": "23000",
       "imageUrl": "https://ogphoto.gglisten.com/files/zimgts-n6cf-1704716686.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=524",
@@ -6364,7 +6364,7 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-08-01T06:12:19.637Z",
+    "previousGeneratedAt": "2026-08-02T06:15:50.113Z",
     "previousProductCount": 420,
     "productCountChange": 0
   }

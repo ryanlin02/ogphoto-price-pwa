@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-08-05T06:04:55.460Z",
+  "generatedAt": "2026-08-06T06:10:09.529Z",
   "categoryCount": 67,
   "productCount": 420,
   "categories": [
@@ -3782,7 +3782,7 @@
       "imageUrl": "https://www.ogphoto.com.tw/files/zimgjinbei-hd-600-600w-1602764494.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=268",
       "description": "卡口規格：保榮( Bowens )\n\n閃光指數：80\n\n回電時間：慢：0/3至4.5S、快速：0.3～3.5秒(慢速、快速可以設定)\n\n功率變化：1/1到1/128功率範圍變量\n\n閃光持續時間為T = 0.5：1/15000s\n\n色溫：5500 +/- 200\n\n造型燈：5W LED\n\n型號燈的變化：全時間/ 60秒關\n\n觸發方式：單次觸發/延遲閃光/頻閃\n\n同步電壓：DC3.3V",
-      "accessories": "燈架*1\n\n電源線*1\n\n燈頭保護蓋 * 1\n\n標準罩*1\n\n遙控器*1\n外拍燈手把*1\n\n背帶*1\n\n燈箱*1"
+      "accessories": "燈架*1\n\n電源線*1\n\n燈頭保護蓋 * 1\n\n標準罩*1\n\n遙控器*1\n燈架轉接座 * 1\n\n外拍燈手把*1\n\n燈箱*1"
     },
     {
       "id": "51",
@@ -6364,7 +6364,7 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-08-04T06:07:52.993Z",
+    "previousGeneratedAt": "2026-08-05T06:04:55.460Z",
     "previousProductCount": 420,
     "productCountChange": 0
   }

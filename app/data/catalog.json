@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-08-21T04:05:56.291Z",
+  "generatedAt": "2026-08-22T04:00:18.225Z",
   "categoryCount": 67,
   "productCount": 420,
   "categories": [
@@ -3546,7 +3546,7 @@
     },
     {
       "id": "182",
-      "name": "Godox LED1000C 神牛LED持續燈 (80W) -A-",
+      "name": "Godox LED1000C 神牛LED持續燈 (80W) - A",
       "categoryId": "43",
       "category": "持 續 燈",
       "group": "燈 光",
@@ -3561,7 +3561,7 @@
     },
     {
       "id": "183",
-      "name": "Godox LED1000C 神牛LED持續燈 (80W) -B-",
+      "name": "Godox LED1000C 神牛LED持續燈 (80W) - B",
       "categoryId": "43",
       "category": "持 續 燈",
       "group": "燈 光",
@@ -5887,11 +5887,11 @@
     },
     {
       "id": "666",
-      "name": "HDMI - 4K 高畫質影視線 (8米)",
+      "name": "HDMI - 4K 2.0 高畫質影視線 (8米)",
       "categoryId": "66",
       "category": "線 材",
       "group": "場 務 器 材",
-      "dailyRate": "90",
+      "dailyRate": "80",
       "deposit": "0",
       "promissoryNote": "1000",
       "imageUrl": "https://ogphoto.gglisten.com/files/zimghdmi-1762163345.jpg",
@@ -5901,35 +5901,35 @@
     },
     {
       "id": "341",
-      "name": "HDMI - 4K 高畫質影視線 (10米)",
+      "name": "HDMI - 4K 2.0 高畫質影視線 (15米)",
       "categoryId": "66",
       "category": "線 材",
       "group": "場 務 器 材",
-      "dailyRate": "150",
+      "dailyRate": "130",
       "deposit": "0",
-      "promissoryNote": "3800",
+      "promissoryNote": "2000",
       "imageUrl": "https://www.ogphoto.com.tw/files/zimghdmi-1661012634.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=341",
-      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------",
+      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\nHDMI 2.0 (4K, 3840x2160 @ 60Hz)",
       "accessories": ""
     },
     {
       "id": "342",
-      "name": "HDMI - 4K 高畫質影視線 (20米)",
+      "name": "HDMI - 4K 2.0 高畫質影視線 (20米)",
       "categoryId": "66",
       "category": "線 材",
       "group": "場 務 器 材",
-      "dailyRate": "300",
+      "dailyRate": "280",
       "deposit": "0",
-      "promissoryNote": "5000",
+      "promissoryNote": "4000",
       "imageUrl": "https://www.ogphoto.com.tw/files/zimghdmi-1661012645.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=342",
-      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------",
+      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\nHDMI 2.0 (4K, 4090x2160 @ 60Hz)",
       "accessories": ""
     },
     {
       "id": "616",
-      "name": "HDMI光纖 - 4K UHD 2.0 / 2.1 高畫質影視線 (100米)",
+      "name": "HDMI光纖 - 4K UHD 2.1 高畫質影視線 (100米)",
       "categoryId": "66",
       "category": "線 材",
       "group": "場 務 器 材",
@@ -5943,7 +5943,7 @@
     },
     {
       "id": "617",
-      "name": "HDMI光纖 - 4K UHD 2.0 / 2.1 高畫質影視線 (200米)",
+      "name": "HDMI光纖 - 4K UHD 2.1 高畫質影視線 (200米)",
       "categoryId": "66",
       "category": "線 材",
       "group": "場 務 器 材",
@@ -6365,8 +6365,8 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-08-20T04:02:44.559Z",
-    "previousProductCount": 419,
-    "productCountChange": 1
+    "previousGeneratedAt": "2026-08-21T04:05:56.291Z",
+    "previousProductCount": 420,
+    "productCountChange": 0
   }
 }

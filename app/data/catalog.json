@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-08-25T04:04:01.812Z",
+  "generatedAt": "2026-08-27T14:17:35.220Z",
   "categoryCount": 67,
-  "productCount": 420,
+  "productCount": 421,
   "categories": [
     {
       "id": "56",
@@ -231,19 +231,19 @@
     {
       "id": "26",
       "group": "燈 光",
-      "name": "Canon 機頂閃燈",
+      "name": "Canon 機頂閃光燈",
       "sourceUrl": "https://www.ogphoto.com.tw/price.php?id=26"
     },
     {
       "id": "15",
       "group": "燈 光",
-      "name": "Nikon 機頂閃燈",
+      "name": "Nikon 機頂閃光燈",
       "sourceUrl": "https://www.ogphoto.com.tw/price.php?id=15"
     },
     {
       "id": "36",
       "group": "燈 光",
-      "name": "SONY 機頂閃燈",
+      "name": "SONY 機頂閃光燈",
       "sourceUrl": "https://www.ogphoto.com.tw/price.php?id=36"
     },
     {
@@ -3403,9 +3403,9 @@
     },
     {
       "id": "163",
-      "name": "Canon Speedlite 600EX-RT",
+      "name": "Canon Speedlite 600EX-RT 機頂閃光燈",
       "categoryId": "26",
-      "category": "Canon 機頂閃燈",
+      "category": "Canon 機頂閃光燈",
       "group": "燈 光",
       "dailyRate": "350",
       "deposit": "3000",
@@ -3417,9 +3417,9 @@
     },
     {
       "id": "20",
-      "name": "Canon Speedlite 580EX II",
+      "name": "Canon Speedlite 580EX II 機頂閃光燈",
       "categoryId": "26",
-      "category": "Canon 機頂閃燈",
+      "category": "Canon 機頂閃光燈",
       "group": "燈 光",
       "dailyRate": "300",
       "deposit": "2000",
@@ -3431,9 +3431,9 @@
     },
     {
       "id": "389",
-      "name": "Godox 神牛 TT685 TTL閃光燈 (For Canon)",
+      "name": "Godox 神牛 TT685 TTL 機頂閃光燈",
       "categoryId": "26",
-      "category": "Canon 機頂閃燈",
+      "category": "Canon 機頂閃光燈",
       "group": "燈 光",
       "dailyRate": "200",
       "deposit": "1000",
@@ -3445,9 +3445,9 @@
     },
     {
       "id": "391",
-      "name": "Godox 神牛 TT685 TTL閃光燈 (For Canon)",
+      "name": "Godox 神牛 TT685 TTL 機頂閃光燈",
       "categoryId": "26",
-      "category": "Canon 機頂閃燈",
+      "category": "Canon 機頂閃光燈",
       "group": "燈 光",
       "dailyRate": "200",
       "deposit": "1000",
@@ -3461,7 +3461,7 @@
       "id": "91",
       "name": "Nikon SB5000",
       "categoryId": "15",
-      "category": "Nikon 機頂閃燈",
+      "category": "Nikon 機頂閃光燈",
       "group": "燈 光",
       "dailyRate": "350",
       "deposit": "4000",
@@ -3473,9 +3473,9 @@
     },
     {
       "id": "443",
-      "name": "SONY HVL-F60RM2 閃光燈",
+      "name": "SONY HVL- F60RM2 機頂閃光燈",
       "categoryId": "36",
-      "category": "SONY 機頂閃燈",
+      "category": "SONY 機頂閃光燈",
       "group": "燈 光",
       "dailyRate": "300",
       "deposit": "3000",
@@ -3486,8 +3486,36 @@
       "accessories": "電池 * 2組\n\n充電器*1\n\n專用套*1"
     },
     {
+      "id": "723",
+      "name": "Godox V1 Pro S TTL 圓頭機頂閃光燈",
+      "categoryId": "36",
+      "category": "SONY 機頂閃光燈",
+      "group": "燈 光",
+      "dailyRate": "280",
+      "deposit": "2000",
+      "promissoryNote": "11000",
+      "imageUrl": "https://ogphoto.gglisten.com/files/zimg%E7%A5%9E%E7%89%9Bv1-1787815233.jpg",
+      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=723",
+      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n------------------------------------\n\n■ 功率（1/1檔位）: 76Ws\n\n■ 閃光覆蓋範圍: 28~105mm\n\n■ 燈頭旋轉角度: 旋轉/傾斜(水平0~330&deg;), 垂直-7~120&deg;(反射閃光)\n\n■ 閃光持續時間: 1/300秒~1/20000秒\n\n■ LED造型燈功率/色溫: 2W/3300K&plusmn;200K\n\n■ 鋰電池: 7.2V/2980mAh\n\n■ 回電時間: 約1.3秒，閃光燈準備就緒，回電指示燈亮起\n\n■ 閃光次數 (1/1檔全光輸出): 約500次\n\n■ 重量: 580g(含電池)",
+      "accessories": "分體式副閃光燈 * 1 、USB-C充電線 * 1 、磁吸圓頂柔光罩 * 1 、電池 * 1 、專用套 * 1"
+    },
+    {
+      "id": "326",
+      "name": "Dazzne 閃燈觸發器 (1發射器＋3接收）- For Canon TTL",
+      "categoryId": "28",
+      "category": "觸發器 / 接收器",
+      "group": "燈 光",
+      "dailyRate": "350",
+      "deposit": "0",
+      "promissoryNote": "10000",
+      "imageUrl": "https://ogphoto.gglisten.com/files/zimgdazzne-kody-%E8%A7%B8%E7%99%BC%E5%99%A8-1787754968.jpg",
+      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=326",
+      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\n● 距離：400米以上\n\n● 接收器3個固定頻道和一個自動頻道\n\n● 快門：支持相機控制相機單次拍攝\n\n● 接口：3.5mm(SYNC)、USB2.0、PC(SYNC)\n\n● 按比例閃光和混合輸出閃光",
+      "accessories": "電池 * 3組"
+    },
+    {
       "id": "216",
-      "name": "Phottix Strato II 離閃觸發器 1發射，2接收(Canon TTL)",
+      "name": "Phottix Strato II 閃燈觸發器 (1發射，2接收) - For Canon TTL",
       "categoryId": "28",
       "category": "觸發器 / 接收器",
       "group": "燈 光",
@@ -3496,13 +3524,12 @@
       "promissoryNote": "3000",
       "imageUrl": "https://www.ogphoto.com.tw/files/zimgphottix-strato-ii-%E9%9B%A2%E9%96%83%E8%A7%B8%E7%99%BC%E5%99%A8-1578997070.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=216",
-      "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
-      "accessories": "電池 * 2組\n\n充電器*1",
-      "detailUnavailable": true
+      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------",
+      "accessories": "電池 * 2組\n\n充電器*1"
     },
     {
       "id": "244",
-      "name": "Phottix Strato II 離閃觸發器 1發射，2接收(Nikon TTL)",
+      "name": "Phottix Strato II 閃燈觸發器 (1發射，2接收) - For Nikon TTL",
       "categoryId": "28",
       "category": "觸發器 / 接收器",
       "group": "燈 光",
@@ -3511,21 +3538,6 @@
       "promissoryNote": "3000",
       "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7-2020-05-03-%E4%B8%8B%E5%8D%888.01.35-1588507397.png",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=244",
-      "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
-      "accessories": "電池 * 3組",
-      "detailUnavailable": true
-    },
-    {
-      "id": "326",
-      "name": "PIXEL King PRO 一發射，一接收 (Canon TTL)",
-      "categoryId": "28",
-      "category": "觸發器 / 接收器",
-      "group": "燈 光",
-      "dailyRate": "200",
-      "deposit": "0",
-      "promissoryNote": "5000",
-      "imageUrl": "https://www.ogphoto.com.tw/files/zimgpixel-1620728634.jpg",
-      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=326",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "電池 * 3組",
       "detailUnavailable": true
@@ -3883,7 +3895,7 @@
       "imageUrl": "https://www.ogphoto.com.tw/files/zimg6090-1617265744.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=309",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------",
-      "accessories": "柔光布*1\n\n蜂巢網 * 1"
+      "accessories": "柔光布*1"
     },
     {
       "id": "310",
@@ -3897,7 +3909,7 @@
       "imageUrl": "https://www.ogphoto.com.tw/files/zimg6090-1617265868.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=310",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。",
-      "accessories": "柔光布*1\n\n蜂巢網 * 1"
+      "accessories": "柔光布*1"
     },
     {
       "id": "613",
@@ -6365,8 +6377,8 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-08-24T04:09:18.972Z",
+    "previousGeneratedAt": "2026-08-25T04:04:01.812Z",
     "previousProductCount": 420,
-    "productCountChange": 0
+    "productCountChange": 1
   }
 }

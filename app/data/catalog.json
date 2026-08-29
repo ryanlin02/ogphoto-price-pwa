@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-08-28T15:27:22.798Z",
+  "generatedAt": "2026-08-29T10:10:36.975Z",
   "categoryCount": 67,
   "productCount": 421,
   "categories": [
@@ -5555,8 +5555,9 @@
       "promissoryNote": "18000",
       "imageUrl": "https://ogphoto.gglisten.com/files/zimg%E5%B0%8F%E9%AB%98%E5%8F%B0-1732358599.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=331",
-      "description": "長 * 寬 * 高\n\n120 * 120 * 100cm\n\n承重 : 300kg\n\n租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。",
-      "accessories": "支架 * 1 、 側邊檔板 * 2 、 鋁板 * 4 、 專用箱 * 2"
+      "description": "本次更新無法讀取公開詳情，請開啟官方頁面查看。",
+      "accessories": "",
+      "detailError": "fetch failed"
     },
     {
       "id": "448",
@@ -6377,7 +6378,7 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-08-27T14:17:35.220Z",
+    "previousGeneratedAt": "2026-08-28T15:27:22.798Z",
     "previousProductCount": 421,
     "productCountChange": 0
   }

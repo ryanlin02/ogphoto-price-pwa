@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-08-29T10:10:36.975Z",
+  "generatedAt": "2026-08-30T09:18:56.747Z",
   "categoryCount": 67,
-  "productCount": 421,
+  "productCount": 422,
   "categories": [
     {
       "id": "56",
@@ -1145,6 +1145,20 @@
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=572",
       "description": "&bull; 標準曼富圖底板，提供 1/4\" 和 3/8\" 相機螺絲。\n&bull; 具有可擴展的側桿，最高可達 130 毫米。 適用於任何高度在 68mm ~ 130mm 範圍內的相機。\n&bull; 頂部木質把手，含冷靴座。\n&bull; 夾座:兼容曼富圖 577/ 501/ 504/ 701 三腳架",
       "accessories": "快拆頂手把 * 1 、 冷靴座 * 2 、 頂部熱靴螺絲 * 1 、 快拆板(含1/4螺絲) * 1 、 3/8 螺絲轉接頭 * 1"
+    },
+    {
+      "id": "724",
+      "name": "Pixel T3 電子定時快門線",
+      "categoryId": "82",
+      "category": "通用型 - 單眼機身配件",
+      "group": "機 身",
+      "dailyRate": "80",
+      "deposit": "0",
+      "promissoryNote": "1500",
+      "imageUrl": "https://ogphoto.gglisten.com/files/zimgt3-1787998245.jpg",
+      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=724",
+      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n---------------------------------\n\nFor Canon: C1、C3\n\nNikon: N1、N3\n\nSONY: S2",
+      "accessories": "C1 轉 3.5mm 拍攝線 *1 、 C3 轉 3.5mm 拍攝線 *1 、 N1 轉 3.5mm 拍攝線 *1 、 N3 轉 3.5mm 拍攝線 *1 、 S2 轉 3.5mm 拍攝線 *1"
     },
     {
       "id": "644",
@@ -5555,9 +5569,8 @@
       "promissoryNote": "18000",
       "imageUrl": "https://ogphoto.gglisten.com/files/zimg%E5%B0%8F%E9%AB%98%E5%8F%B0-1732358599.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=331",
-      "description": "本次更新無法讀取公開詳情，請開啟官方頁面查看。",
-      "accessories": "",
-      "detailError": "fetch failed"
+      "description": "長 * 寬 * 高\n\n120 * 120 * 100cm\n\n承重 : 300kg\n\n租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。",
+      "accessories": "支架 * 1 、 側邊檔板 * 2 、 鋁板 * 4 、 專用箱 * 2"
     },
     {
       "id": "448",
@@ -6378,8 +6391,8 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-08-28T15:27:22.798Z",
+    "previousGeneratedAt": "2026-08-29T10:10:36.975Z",
     "previousProductCount": 421,
-    "productCountChange": 0
+    "productCountChange": 1
   }
 }

@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-08-31T09:50:16.485Z",
+  "generatedAt": "2026-09-01T08:43:48.536Z",
   "categoryCount": 67,
-  "productCount": 422,
+  "productCount": 423,
   "categories": [
     {
       "id": "56",
@@ -3514,6 +3514,20 @@
       "accessories": "分體式副閃光燈 * 1 、USB-C充電線 * 1 、磁吸圓頂柔光罩 * 1 、電池 * 1 、專用套 * 1"
     },
     {
+      "id": "725",
+      "name": "Godox VB30 鋰電池 【不單租】",
+      "categoryId": "36",
+      "category": "SONY 機頂閃光燈",
+      "group": "燈 光",
+      "dailyRate": "80",
+      "deposit": "0",
+      "promissoryNote": "1500",
+      "imageUrl": "https://ogphoto.gglisten.com/files/zimgvb30-1788237592.jpg",
+      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=725",
+      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n------------------------------------\n\n適用於:",
+      "accessories": ""
+    },
+    {
       "id": "326",
       "name": "Dazzne 閃燈觸發器 (1發射器＋3接收）- For Canon TTL",
       "categoryId": "28",
@@ -6391,8 +6405,8 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-08-30T09:18:56.747Z",
+    "previousGeneratedAt": "2026-08-31T09:50:16.485Z",
     "previousProductCount": 422,
-    "productCountChange": 0
+    "productCountChange": 1
   }
 }

@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-09-06T07:58:22.531Z",
+  "generatedAt": "2026-09-07T08:24:38.513Z",
   "categoryCount": 67,
-  "productCount": 423,
+  "productCount": 421,
   "categories": [
     {
       "id": "56",
@@ -2581,34 +2581,6 @@
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=619",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\n因insta360鏡頭是魚眼凸鏡，保護較不容易，\n所以本店insta360出租時均會使用鏡頭保護鏡，\n在使用保護鏡時難免會有畫質上的影響，\n確認租借等同於同意該確認書說明之情況。\n\n*保護鏡為消耗品，如使用後有刮傷須由客人自行負擔*\n\n■5.7K 全景、Steady Cam平面、InstaPano極致廣角\n\n、MultiView畫中畫等多種拍攝模式。\n\n■FlowState 防震科技。\n\n■隱形自拍桿功能。\n\n■IPX8防水等級(本店器材裸機狀態下不可下水。\n\n■360度4麥克風指向收音、全景聲模式。\n\n■連接AirPods 語音控制。\n\n■最高 60-80 分鐘續航。",
       "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\n保護鏡 * 2\n\nSD轉卡*1\n\nMicro SD 128G 記憶卡 * 1\n子彈時間手把 * 1\n\n隱形自拍桿 (含轉接頭) * 1\n\n保護殼 * 1\n\n螺絲 * 1\n\n攜行包*1\n收納盒*1"
-    },
-    {
-      "id": "428",
-      "name": "Insta 360 X3 - 360度攝影機",
-      "categoryId": "62",
-      "category": "Insta 360",
-      "group": "運 動 相 機",
-      "dailyRate": "500",
-      "deposit": "3000",
-      "promissoryNote": "18000",
-      "imageUrl": "https://ogphoto.gglisten.com/files/zimg360-x3-1732365783.jpg",
-      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=428",
-      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\n因insta360鏡頭是魚眼凸鏡，保護較不容易，\n\n所以本店insta360出租時均會使用鏡頭保護鏡，\n\n在使用保護鏡時難免會有畫質上的影響，\n\n確認租借等同於同意該確認書說明之情況。\n\n*保護鏡為消耗品，如使用後有刮傷須由客人自行負擔*\n\n■全新1/2英吋感光元件\n\n■全新2.29英吋觸控螢幕\n\n■7200萬像素全景照片",
-      "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\n保護鏡 * 2\n\nSD轉卡*1\n\nMicro SD 128G 記憶卡 * 1\n子彈時間手把 * 1\n\n隱形自拍桿 (含轉接頭) * 1\n\n保護殼 * 1\n\n螺絲 * 1\n\n攜行包*1\n專用箱*1"
-    },
-    {
-      "id": "621",
-      "name": "Insta360 X3專用 - 金屬兔籠",
-      "categoryId": "62",
-      "category": "Insta 360",
-      "group": "運 動 相 機",
-      "dailyRate": "80",
-      "deposit": "0",
-      "promissoryNote": "1300",
-      "imageUrl": "https://ogphoto.gglisten.com/files/zimg%E5%85%94%E9%BE%8D-1734934593.jpg",
-      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=621",
-      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價",
-      "accessories": ""
     },
     {
       "id": "526",
@@ -6405,8 +6377,8 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-09-05T07:44:30.310Z",
+    "previousGeneratedAt": "2026-09-06T07:58:22.531Z",
     "previousProductCount": 423,
-    "productCountChange": 0
+    "productCountChange": -2
   }
 }

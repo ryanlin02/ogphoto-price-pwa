@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-09-07T08:24:38.513Z",
+  "generatedAt": "2026-09-08T08:10:32.345Z",
   "categoryCount": 67,
   "productCount": 421,
   "categories": [
@@ -5609,10 +5609,11 @@
       "dailyRate": "850",
       "deposit": "2000",
       "promissoryNote": "18000",
-      "imageUrl": "https://www.ogphoto.com.tw/files/zimghe-1672902324.jpg",
+      "imageUrl": "https://ogphoto.gglisten.com/files/zimghe-1672902324.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=440",
-      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價\n\n--------------------\n\n■無線視頻發射器/接收器套裝\n\n■最多可混合 4 個接收器、平板電腦和手機\n\n■1080p60 HDMI 傳輸高達 1200'\n\n■350M 傳輸距離\n\n■300M>60ms 延遲\n\n■用於計算機流媒體的 USB/UVC 輸出\n\n■支持 Zebra 和 LUT 的 iOS/Android 應用程序\n\n■2.4 和 5 GHz 雙頻段頻率\n\n■1.3\" OLED 顯示屏\n\n■DC/USB 電源，L 系列電池支持\n\n■自動頻道選擇，組配對\n\n■無風扇設計，鋁製結構",
-      "accessories": "電池 * 1\n\n充電器*1\n\n天線 * 8\n\n熱靴轉接頭 * 1\n\nHDMI線 * 1\n變壓器 * 1\n\n專用箱 * 1"
+      "description": "本次更新無法讀取公開詳情，請開啟官方頁面查看。",
+      "accessories": "",
+      "detailError": "fetch failed"
     },
     {
       "id": "441",
@@ -6377,8 +6378,8 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-09-06T07:58:22.531Z",
-    "previousProductCount": 423,
-    "productCountChange": -2
+    "previousGeneratedAt": "2026-09-07T08:24:38.513Z",
+    "previousProductCount": 421,
+    "productCountChange": 0
   }
 }

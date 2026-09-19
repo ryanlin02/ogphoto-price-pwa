@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-09-18T08:21:23.664Z",
+  "generatedAt": "2026-09-19T08:07:26.980Z",
   "categoryCount": 67,
   "productCount": 415,
   "categories": [
@@ -6292,8 +6292,8 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-09-17T08:44:06.557Z",
-    "previousProductCount": 421,
-    "productCountChange": -6
+    "previousGeneratedAt": "2026-09-18T08:21:23.664Z",
+    "previousProductCount": 415,
+    "productCountChange": 0
   }
 }

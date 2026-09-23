@@ -2,21 +2,15 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-09-22T08:37:39.609Z",
-  "categoryCount": 67,
-  "productCount": 417,
+  "generatedAt": "2026-09-23T08:39:28.917Z",
+  "categoryCount": 66,
+  "productCount": 419,
   "categories": [
     {
       "id": "56",
       "group": "商 務 設 備",
       "name": "筆 記 型 電 腦",
       "sourceUrl": "https://www.ogphoto.com.tw/price.php?id=56"
-    },
-    {
-      "id": "81",
-      "group": "商 務 設 備",
-      "name": "IPad 平板",
-      "sourceUrl": "https://www.ogphoto.com.tw/price.php?id=81"
     },
     {
       "id": "64",
@@ -145,16 +139,16 @@
       "sourceUrl": "https://www.ogphoto.com.tw/price.php?id=33"
     },
     {
-      "id": "87",
-      "group": "鏡 頭",
-      "name": "移 軸 鏡",
-      "sourceUrl": "https://www.ogphoto.com.tw/price.php?id=87"
-    },
-    {
       "id": "88",
       "group": "鏡 頭",
       "name": "電 影 鏡",
       "sourceUrl": "https://www.ogphoto.com.tw/price.php?id=88"
+    },
+    {
+      "id": "87",
+      "group": "鏡 頭",
+      "name": "移 軸 鏡",
+      "sourceUrl": "https://www.ogphoto.com.tw/price.php?id=87"
     },
     {
       "id": "29",
@@ -810,7 +804,7 @@
       "categoryId": "83",
       "category": "Canon 機身專屬配件",
       "group": "機 身",
-      "dailyRate": "150",
+      "dailyRate": "180",
       "deposit": "0",
       "promissoryNote": "3500",
       "imageUrl": "https://ogphoto.gglisten.com/files/zimge6nh-1739333674.jpg",
@@ -825,7 +819,7 @@
       "categoryId": "83",
       "category": "Canon 機身專屬配件",
       "group": "機 身",
-      "dailyRate": "150",
+      "dailyRate": "180",
       "deposit": "0",
       "promissoryNote": "3500",
       "imageUrl": "https://ogphoto.gglisten.com/files/zimge6nh-1739334131.jpg",
@@ -1695,7 +1689,7 @@
     },
     {
       "id": "532",
-      "name": "Nikon Z 24-70mm f2.8 S",
+      "name": "Nikon Z 24-70mm f2.8 S -【需提前來電預約】",
       "categoryId": "38",
       "category": "Nikon Z 鏡頭",
       "group": "鏡 頭",
@@ -1877,7 +1871,7 @@
     },
     {
       "id": "479",
-      "name": "SONY FE 16-35mm F4 ZA OSS - (需提前來電預約)",
+      "name": "SONY FE 16-35mm F4 ZA OSS -【需提前來電預約】",
       "categoryId": "33",
       "category": "SONY E-mount 變焦鏡頭",
       "group": "鏡 頭",
@@ -1976,7 +1970,7 @@
     },
     {
       "id": "636",
-      "name": "SONY FE 70-200mm F2.8 GM OSS ll 【二代】- (需提前來電預約)",
+      "name": "SONY FE 70-200mm F2.8 GM OSS ll 二代 -【需提前來電預約】",
       "categoryId": "33",
       "category": "SONY E-mount 變焦鏡頭",
       "group": "鏡 頭",
@@ -2043,34 +2037,6 @@
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=439",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\n■ 防塵防滴設計\n\n■ 快速精準的自動對焦\n\n■ 三向可自訂對焦鎖定按鈕\n\n■ 奈米 AR鍍膜可杜絕耀光與鬼影\n\n■ 約2115 g",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1\n腳架環底座 * 1"
-    },
-    {
-      "id": "712",
-      "name": "LAOWA FF II TS 17mm F4 雙向移軸鏡頭 (Sony FE)",
-      "categoryId": "87",
-      "category": "移 軸 鏡",
-      "group": "鏡 頭",
-      "dailyRate": "800",
-      "deposit": "5000",
-      "promissoryNote": "45000",
-      "imageUrl": "https://ogphoto.gglisten.com/files/zimglaowa-ff-ii-ts-17mm-f4-1784452775.jpg",
-      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=712",
-      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n------------------------------------\n\n■具備精準的 &plusmn; 10&deg; 傾角（Tilt）\n\n與 &plusmn; 12mm 平移（Shift）功能",
-      "accessories": "鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
-    },
-    {
-      "id": "680",
-      "name": "LAOWA FF S 15mm F4.5 W-Dreamer 平移鏡頭 (Sony FE)",
-      "categoryId": "87",
-      "category": "移 軸 鏡",
-      "group": "鏡 頭",
-      "dailyRate": "600",
-      "deposit": "5000",
-      "promissoryNote": "40000",
-      "imageUrl": "https://ogphoto.gglisten.com/files/zimg%E8%80%81%E8%9B%99%E7%A7%BB%E8%BB%B8-1765728079.jpg",
-      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=680",
-      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\n■ 15mm全畫幅移軸鏡頭\n\n■ &plusmn;11mm移軸量\n\n■ 覆蓋&phi;65mm像場\n\n■ 高畫質，優化鍍膜\n\n■ 全金屬鏡身\n\n■ 十針耀眼星芒",
-      "accessories": "鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
     },
     {
       "id": "708",
@@ -2184,6 +2150,34 @@
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "",
       "detailUnavailable": true
+    },
+    {
+      "id": "712",
+      "name": "LAOWA FF II TS 17mm F4 雙向移軸鏡頭 (Sony FE)",
+      "categoryId": "87",
+      "category": "移 軸 鏡",
+      "group": "鏡 頭",
+      "dailyRate": "800",
+      "deposit": "5000",
+      "promissoryNote": "45000",
+      "imageUrl": "https://ogphoto.gglisten.com/files/zimglaowa-ff-ii-ts-17mm-f4-1784452775.jpg",
+      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=712",
+      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n------------------------------------\n\n■具備精準的 &plusmn; 10&deg; 傾角（Tilt）\n\n與 &plusmn; 12mm 平移（Shift）功能",
+      "accessories": "鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
+    },
+    {
+      "id": "680",
+      "name": "LAOWA FF S 15mm F4.5 W-Dreamer 平移鏡頭 (Sony FE)",
+      "categoryId": "87",
+      "category": "移 軸 鏡",
+      "group": "鏡 頭",
+      "dailyRate": "600",
+      "deposit": "5000",
+      "promissoryNote": "40000",
+      "imageUrl": "https://ogphoto.gglisten.com/files/zimg%E8%80%81%E8%9B%99%E7%A7%BB%E8%BB%B8-1765728079.jpg",
+      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=680",
+      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\n■ 15mm全畫幅移軸鏡頭\n\n■ &plusmn;11mm移軸量\n\n■ 覆蓋&phi;65mm像場\n\n■ 高畫質，優化鍍膜\n\n■ 全金屬鏡身\n\n■ 十針耀眼星芒",
+      "accessories": "鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
     },
     {
       "id": "556",
@@ -2669,7 +2663,7 @@
     },
     {
       "id": "558",
-      "name": "DJI Action 6 專用原廠防水殼 -【限搭機加租】",
+      "name": "DJI Action 6 原廠防水殼 -【限搭機加租】",
       "categoryId": "35",
       "category": "運 動 相 機 配 件",
       "group": "口 袋 型 錄 影 機",
@@ -2687,7 +2681,7 @@
       "categoryId": "35",
       "category": "運 動 相 機 配 件",
       "group": "口 袋 型 錄 影 機",
-      "dailyRate": "80",
+      "dailyRate": "60",
       "deposit": "0",
       "promissoryNote": "1200",
       "imageUrl": "https://ogphoto.gglisten.com/files/zimg%E6%8A%8A%E6%89%8B-1790063805.jpg",
@@ -2715,7 +2709,7 @@
       "categoryId": "35",
       "category": "運 動 相 機 配 件",
       "group": "口 袋 型 錄 影 機",
-      "dailyRate": "50",
+      "dailyRate": "80",
       "deposit": "0",
       "promissoryNote": "1200",
       "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E6%9C%AA%E5%91%BD%E5%90%8D-1664176980.jpg",
@@ -2729,11 +2723,39 @@
       "categoryId": "35",
       "category": "運 動 相 機 配 件",
       "group": "口 袋 型 錄 影 機",
-      "dailyRate": "50",
+      "dailyRate": "80",
       "deposit": "0",
       "promissoryNote": "1200",
       "imageUrl": "https://ogphoto.gglisten.com/files/zimggopro%E9%9B%BB%E6%B1%A0-1689910555.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=465",
+      "description": "* 無開放單獨租借，須搭機加購 *\n\n租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。",
+      "accessories": ""
+    },
+    {
+      "id": "729",
+      "name": "DJI Action 6 原廠電池 (A) -【限搭機加租】",
+      "categoryId": "35",
+      "category": "運 動 相 機 配 件",
+      "group": "口 袋 型 錄 影 機",
+      "dailyRate": "65",
+      "deposit": "0",
+      "promissoryNote": "1000",
+      "imageUrl": "https://ogphoto.gglisten.com/files/zimg%E9%9B%BB%E6%B1%A0-1790100520.jpg",
+      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=729",
+      "description": "* 無開放單獨租借，須搭機加購 *\n\n租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。",
+      "accessories": ""
+    },
+    {
+      "id": "730",
+      "name": "DJI Action 6 原廠電池 (B) -【限搭機加租】",
+      "categoryId": "35",
+      "category": "運 動 相 機 配 件",
+      "group": "口 袋 型 錄 影 機",
+      "dailyRate": "65",
+      "deposit": "0",
+      "promissoryNote": "1000",
+      "imageUrl": "https://ogphoto.gglisten.com/files/zimg%E9%9B%BB%E6%B1%A0-1790101354.jpg",
+      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=730",
       "description": "* 無開放單獨租借，須搭機加購 *\n\n租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。",
       "accessories": ""
     },
@@ -6320,8 +6342,8 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-09-21T09:02:26.852Z",
-    "previousProductCount": 415,
+    "previousGeneratedAt": "2026-09-22T08:37:39.609Z",
+    "previousProductCount": 417,
     "productCountChange": 2
   }
 }

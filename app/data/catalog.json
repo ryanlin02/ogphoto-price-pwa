@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-09-23T08:39:28.917Z",
+  "generatedAt": "2026-09-25T08:54:06.201Z",
   "categoryCount": 66,
-  "productCount": 419,
+  "productCount": 418,
   "categories": [
     {
       "id": "56",
@@ -5778,21 +5778,6 @@
       "accessories": "電池 * 2\n\n收納袋 * 1"
     },
     {
-      "id": "641",
-      "name": "HOLLYLAND SOLIDCOM C1 全雙工無線耳機【1對3】-B",
-      "categoryId": "80",
-      "category": "無 線 對 講 耳 機 系 統",
-      "group": "通 訊 設 備",
-      "dailyRate": "1000",
-      "deposit": "3000",
-      "promissoryNote": "43000",
-      "imageUrl": null,
-      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=641",
-      "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
-      "accessories": "電池 * 8\n\n充電器(含電源線) * 1\n\n收納袋 * 4\n\n收納包 * 1",
-      "detailUnavailable": true
-    },
-    {
       "id": "682",
       "name": "Saramonic WiTalk9 1.9G 全雙工無線耳機 【1對6】",
       "categoryId": "80",
@@ -6342,8 +6327,8 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-09-22T08:37:39.609Z",
-    "previousProductCount": 417,
-    "productCountChange": 2
+    "previousGeneratedAt": "2026-09-23T08:39:28.917Z",
+    "previousProductCount": 419,
+    "productCountChange": -1
   }
 }

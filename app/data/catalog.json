@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-09-26T08:40:11.515Z",
+  "generatedAt": "2026-09-27T09:20:44.468Z",
   "categoryCount": 66,
-  "productCount": 418,
+  "productCount": 417,
   "categories": [
     {
       "id": "56",
@@ -854,7 +854,7 @@
       "imageUrl": "https://www.ogphoto.com.tw/files/zimgz6-1588499207.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=197",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\n■ 2450萬像素全片幅CMOS\n\n■ 273點相位檢測對焦\n\n■ 14FPS高速連拍\n\n■ 可擴展至-3EV曝光補償\n\n■ 雙 EXPEED 6 影像處理引擎",
-      "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\n機身蓋*1\n\nFTZ 轉接環\n\n讀卡機\n相機包 * 1\n\nXQD 64G * 1"
+      "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\n機身蓋*1\n\nFTZ 轉接環\n\n讀卡機\n相機包 * 1\n\nXQD 32G * 1"
     },
     {
       "id": "655",
@@ -3392,20 +3392,6 @@
       "imageUrl": "https://www.ogphoto.com.tw/files/zimg876984-1657449905.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=389",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------",
-      "accessories": "電池 * 2組\n\n充電器*1\n\n專用套*1"
-    },
-    {
-      "id": "391",
-      "name": "Godox 神牛 TT685 TTL 機頂閃光燈",
-      "categoryId": "26",
-      "category": "Canon 機頂閃光燈",
-      "group": "燈 光",
-      "dailyRate": "200",
-      "deposit": "1000",
-      "promissoryNote": "3500",
-      "imageUrl": "https://www.ogphoto.com.tw/files/zimg600-1657451900.jpg",
-      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=391",
-      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------",
       "accessories": "電池 * 2組\n\n充電器*1\n\n專用套*1"
     },
     {
@@ -6327,8 +6313,8 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-09-25T08:54:06.201Z",
+    "previousGeneratedAt": "2026-09-26T08:40:11.515Z",
     "previousProductCount": 418,
-    "productCountChange": 0
+    "productCountChange": -1
   }
 }

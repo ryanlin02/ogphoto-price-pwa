@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-10-06T10:23:47.854Z",
+  "generatedAt": "2026-10-07T10:20:42.547Z",
   "categoryCount": 66,
   "productCount": 417,
   "categories": [
@@ -3487,11 +3487,11 @@
       "dailyRate": "270",
       "deposit": "0",
       "promissoryNote": "3000",
-      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7-2020-05-03-%E4%B8%8B%E5%8D%888.01.35-1588507397.png",
+      "imageUrl": "https://ogphoto.gglisten.com/files/zimg%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7-2020-05-03-%E4%B8%8B%E5%8D%888.01.35-1588507397.png",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=244",
-      "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
-      "accessories": "電池 * 3組",
-      "detailUnavailable": true
+      "description": "本次更新無法讀取公開詳情，請開啟官方頁面查看。",
+      "accessories": "",
+      "detailError": "fetch failed"
     },
     {
       "id": "638",
@@ -6313,7 +6313,7 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-10-05T10:32:29.540Z",
+    "previousGeneratedAt": "2026-10-06T10:23:47.854Z",
     "previousProductCount": 417,
     "productCountChange": 0
   }

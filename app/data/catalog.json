@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-10-07T10:20:42.547Z",
+  "generatedAt": "2026-10-08T10:40:05.971Z",
   "categoryCount": 66,
-  "productCount": 417,
+  "productCount": 416,
   "categories": [
     {
       "id": "56",
@@ -3487,11 +3487,11 @@
       "dailyRate": "270",
       "deposit": "0",
       "promissoryNote": "3000",
-      "imageUrl": "https://ogphoto.gglisten.com/files/zimg%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7-2020-05-03-%E4%B8%8B%E5%8D%888.01.35-1588507397.png",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7-2020-05-03-%E4%B8%8B%E5%8D%888.01.35-1588507397.png",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=244",
-      "description": "本次更新無法讀取公開詳情，請開啟官方頁面查看。",
-      "accessories": "",
-      "detailError": "fetch failed"
+      "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
+      "accessories": "電池 * 3組",
+      "detailUnavailable": true
     },
     {
       "id": "638",
@@ -4790,20 +4790,6 @@
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=261",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\n■不含電池及儲存媒體:320g / 11.28oz\n\n■尺寸 (寬x高x深):151 x 91.5 x 31mm\n\n■相容電池: NP-F系列及其配件\n\n■輸入電壓 (電池):6.2V to 16.8V\n\n■電持續航力(based on 7.4V):\n\n5200mAh &ndash; 高達2小時(監視及4K錄製)\n\n7800mAh &ndash; 高達3小時(監視及4K錄製)\n\n■觸控式螢幕\n\n■解析度:1920 x 1200\n\n■像素密度 : 427\n\n■AtomHDR: Yes\n\n■色彩深度:10-bit (8+2 FRC)\n\n■亮度:1000nit (+/- 10%)\n\n■長寬比例:16:9 native\n\n■色域: REC709 HDTV\n\n■影像輸入、循環輸出:\n\n■HDMI x HDMI (2.0)\n\n■監控和記錄 4K 60p\n\n■訊號源:無壓縮真10 bit或8 bit 422 (視相機而定)\n\n■支援循環輸出格式:\n\n■HDMI至HDMI\n\n720p 50/60, 1080i 50/60,\n\n1080p 24/25/30/50/60/120*, 2160p 24/25/30/50/60",
       "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\n六角板手 * 1\n\n變壓器 * 1\n\n110V轉接座 * 1\n熱靴座支架 * 1\n\nHDMI線 * 1\n\n收納包 * 1"
-    },
-    {
-      "id": "284",
-      "name": "ATOMOS Shogun Inferno 7吋 4K監視/擷取器(不含SSD)",
-      "categoryId": "41",
-      "category": "監 控 螢 幕",
-      "group": "週 邊 器 材",
-      "dailyRate": "900",
-      "deposit": "3000",
-      "promissoryNote": "50000",
-      "imageUrl": "https://www.ogphoto.com.tw/files/zimgi010001_1499326252-(1)-1615619739.jpg",
-      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=284",
-      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\n■7吋高亮度螢幕\n\n■AtomHDR\n\n■4K ＆ RAW 檔錄製\n\n■ProRes/Avid DNxHR\n\n■Quad SDI\n\n■支援3D LUT\n\n重量\n不含電池及儲存媒體 709g / 25oz\n\n觸控式螢幕\n尺寸 7.1吋\n解析度 1920 x 1200\n像素密度 325\nAtomHDR Yes\n色彩深度 10-bit (8+2 FRC)\n亮度 1500nit (+/- 10%)\n長寬比例 16:9 native\n色域 REC709 HDTV\nLUT支援 3D LUT(.cube文件格式)\n技術 SuperAtom IPS 面板(電容觸控式)、可搭配其他校準工具校正Rec.709\n\n影像輸入\nHDMI 1 x HDMI (2.0)\nSDI Quad link 4 x 3G SDI 或最高可達 12G single link SDI\n訊號源 無壓縮真10 bit或8 bit 422 (視相機而定)\n\n影像輸出\nHDMI 1 x HDMI (2.0)\nSDI 1x 4K-SDI 12G/6G 或 HD-SDI 3G/1.5G\n訊號源 無壓縮真10 bit或8 bit 422 (視回放檔案而定)\n\n支援循環\n輸出格式\nHDMI至HDMI 720p 50/60, 1080i 50/60,\n1080p 24/25/30/50/60/120*, 2160p 24/25/30\nSDI至SDI 720p 50/60, 1080i 50/60\n1080pSF 24/25/30\n1080p 24/25/30/50/60/120*, 2160p 24/25/30\n\n影像訊號轉換\nHDMI至SDI 720p 50/60, 1080i 50/60\n1080p 24/25/30/50/60/100/120/200*/240*\n2160p 24/25/30/50/60\nSDI至HDMI 720p 50/60, 1080i 50/60,\n1080pSF 24/25/30\n1080p 24/25/30/50/60/100/120/200*/240*\n2160p 24/25/30/50/60",
-      "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\n變壓器 * 1\n\n熱靴座支架 * 1\n\nSDI線 * 1\nHDMI線 * 1\n\n專用箱 * 1"
     },
     {
       "id": "308",
@@ -6313,8 +6299,8 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-10-06T10:23:47.854Z",
+    "previousGeneratedAt": "2026-10-07T10:20:42.547Z",
     "previousProductCount": 417,
-    "productCountChange": 0
+    "productCountChange": -1
   }
 }

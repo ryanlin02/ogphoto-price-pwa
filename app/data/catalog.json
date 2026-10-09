@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-10-08T10:40:05.971Z",
+  "generatedAt": "2026-10-09T10:39:29.113Z",
   "categoryCount": 66,
-  "productCount": 416,
+  "productCount": 415,
   "categories": [
     {
       "id": "56",
@@ -698,20 +698,6 @@
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=168",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\n全新2,620萬像素全片幅尺寸CMOS 影像感應器\n\n配備雙像素CMOS自動對焦（DAF）技術\n\n標準ISO範圍100-40000.\n\n採用最新DIGIC 7數位影像處理器\n\n連續拍攝速度最高約每秒6.5張",
       "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\nSD128G 記憶卡 * 1\n\n機身蓋*1\n\n相機包 * 1"
-    },
-    {
-      "id": "158",
-      "name": "Canon 5D4 全幅機身 (A)",
-      "categoryId": "2",
-      "category": "Canon 單 眼 機 身",
-      "group": "機 身",
-      "dailyRate": "800",
-      "deposit": "5000",
-      "promissoryNote": "75000",
-      "imageUrl": "https://ogphoto.gglisten.com/files/zimg1119e6ad922c600c73739d-1697522155.jpg",
-      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=158",
-      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-------------------------------------\n\n■3040萬像素\n\n■每秒7張高速連拍\n\n■61點自動對焦系統\n\n■內置GPS、Wi-Fi&middot;NFC連接\n\n■可拍攝24/30fps 4K高畫質視頻\n\n■4k擷取畫面功能\n\n■3.2吋觸控螢幕",
-      "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\nCF 32G 記憶卡 * 1\n\n機身蓋*1\n\n相機包 * 1"
     },
     {
       "id": "444",
@@ -6299,8 +6285,8 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-10-07T10:20:42.547Z",
-    "previousProductCount": 417,
+    "previousGeneratedAt": "2026-10-08T10:40:05.971Z",
+    "previousProductCount": 416,
     "productCountChange": -1
   }
 }

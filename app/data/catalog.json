@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-10-10T09:55:32.969Z",
+  "generatedAt": "2026-10-11T10:05:10.301Z",
   "categoryCount": 66,
-  "productCount": 415,
+  "productCount": 416,
   "categories": [
     {
       "id": "56",
@@ -5876,8 +5876,22 @@
       "accessories": ""
     },
     {
+      "id": "731",
+      "name": "POLYWELL Type-C 240W 40Gbps 快充傳輸線(2米)",
+      "categoryId": "66",
+      "category": "線 材",
+      "group": "場 務 器 材",
+      "dailyRate": "30",
+      "deposit": "0",
+      "promissoryNote": "400",
+      "imageUrl": "https://ogphoto.gglisten.com/files/zimgtype-c%E7%B7%9A-1791707349.jpg",
+      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=731",
+      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n------------------------------------\n\n適用機種：適用於i15及以上機種、安卓手機、\n\n平板、筆電、Switch、行動電源充電",
+      "accessories": ""
+    },
+    {
       "id": "407",
-      "name": "Tether Tools CUC15 - ORG USB-C 轉 USB-C 拍攝線",
+      "name": "Tether Tools CUC15 - ORG Type-C 拍攝線(4.6米)",
       "categoryId": "66",
       "category": "線 材",
       "group": "場 務 器 材",
@@ -6285,8 +6299,8 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-10-09T10:39:29.113Z",
+    "previousGeneratedAt": "2026-10-10T09:55:32.969Z",
     "previousProductCount": 415,
-    "productCountChange": 0
+    "productCountChange": 1
   }
 }

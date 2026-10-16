@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-10-15T08:22:43.451Z",
+  "generatedAt": "2026-10-16T08:15:20.676Z",
   "categoryCount": 66,
   "productCount": 416,
   "categories": [
@@ -2549,18 +2549,18 @@
       "accessories": "電池 * 2\n\n充電盒 * 1\n\nSD轉卡*1\n\nMicro SD 128G 記憶卡 * 1\n\n1.5m 自拍桿 * 1\n保護殼 * 1\n\n1/4 轉接座 * 1\n\n快拆底座 * 2\n\n螺絲 * 1\n\n充電線 *1\n攜行包*1"
     },
     {
-      "id": "619",
-      "name": "Insta 360 X2 - 360度攝影機",
+      "id": "732",
+      "name": "Insta360 X6 8K全景攝影機",
       "categoryId": "62",
       "category": "Insta 360",
       "group": "口 袋 型 錄 影 機",
-      "dailyRate": "400",
-      "deposit": "2000",
-      "promissoryNote": "13000",
-      "imageUrl": "https://ogphoto.gglisten.com/files/zimg360-x2-1732364188.jpg",
-      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=619",
-      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\n因insta360鏡頭是魚眼凸鏡，保護較不容易，\n所以本店insta360出租時均會使用鏡頭保護鏡，\n在使用保護鏡時難免會有畫質上的影響，\n確認租借等同於同意該確認書說明之情況。\n\n*保護鏡為消耗品，如使用後有刮傷須由客人自行負擔*\n\n■5.7K 全景、Steady Cam平面、InstaPano極致廣角\n\n、MultiView畫中畫等多種拍攝模式。\n\n■FlowState 防震科技。\n\n■隱形自拍桿功能。\n\n■IPX8防水等級(本店器材裸機狀態下不可下水。\n\n■360度4麥克風指向收音、全景聲模式。\n\n■連接AirPods 語音控制。\n\n■最高 60-80 分鐘續航。",
-      "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\n保護鏡 * 2\n\nSD轉卡*1\n\nMicro SD 128G 記憶卡 * 1\n子彈時間手把 * 1\n\n隱形自拍桿 (含轉接頭) * 1\n\n保護殼 * 1\n\n螺絲 * 1\n\n攜行包*1\n收納盒*1"
+      "dailyRate": "580",
+      "deposit": "5000",
+      "promissoryNote": "28000",
+      "imageUrl": "https://ogphoto.gglisten.com/files/zimgx6-1792128152.jpg",
+      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=732",
+      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n--------------------------------------\n\n因insta360鏡頭是魚眼凸鏡，保護較不容易，\n所以本店insta360出租時均會使用鏡頭保護鏡，\n在使用保護鏡時難免會有畫質上的影響，\n確認租借等同於同意該確認書說明之情況。\n\n*保護鏡為消耗品，如使用後有刮傷須由客人自行負擔*\n\n*本店360 X6 全景攝影機嚴禁下水*\n\n■最高可拍 8K50fps 超清全景影片 / 內存 47GB\n\n■大容量 2600mAh 峰能電池，\n\n最長續航 140 分鐘(8K30fps，全景錄影)\n\n■10-bit Log 加全景原生杜比視界 / 可拆卸式鏡片2.0\n\n■自研全景 AI 多模態模型\n\n■5K60fps & 170&deg; 極廣角平面影片\n\n■360&deg; 全向防風麥克風",
+      "accessories": "電池 * 2\n\n充電盒 * 1\n\nSD轉卡*1\n\nMicro SD 128G 記憶卡 * 1\n\n子彈時間手把 * 1\n隱形自拍桿 (含轉接頭) * 1\n\n螺絲 * 1\n\n攜行包*1"
     },
     {
       "id": "526",
@@ -6299,7 +6299,7 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-10-14T08:48:08.243Z",
+    "previousGeneratedAt": "2026-10-15T08:22:43.451Z",
     "previousProductCount": 416,
     "productCountChange": 0
   }

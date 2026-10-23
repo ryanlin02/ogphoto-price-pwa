@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-10-22T08:42:30.049Z",
+  "generatedAt": "2026-10-23T08:38:38.425Z",
   "categoryCount": 66,
   "productCount": 416,
   "categories": [
@@ -4758,11 +4758,10 @@
       "dailyRate": "450",
       "deposit": "2000",
       "promissoryNote": "13000",
-      "imageUrl": "https://ogphoto.gglisten.com/files/zimgatomos-1668748205.jpg",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimgatomos-1668748205.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=436",
-      "description": "本次更新無法讀取公開詳情，請開啟官方頁面查看。",
-      "accessories": "",
-      "detailError": "fetch failed"
+      "description": "尺寸(cm) 15.1寬 x 9.15高 x 3.15深 公分\n\n重量 226g (不含電池及儲存媒體)\n\n操作電源 4-7w\n\n相容電池 NP-F系列及配套配件。AtomX 或其他\n\n輸入電壓 (電池) 6.2V to 16.8V\n\n電持續航力 based on 7.4V 待機\n\n2600mAh - 達3小時\n\n5200mAh - 達6小時\n\n7800mAh - 達12小時\n\n監視\n\n2600mAh - 達1.5小時\n\n5200mAh - 達3小時\n\n7800mAh - 達6小時\n\n直流電源輸入孔 via Battery Eliminator\n\n觸控式螢幕尺寸 5.2吋\n\n觸控螢幕解析度 1920 x 1200\n\n觸控螢幕像素密度 427\n\n觸控螢幕長寬比例 16:9 native\n\n觸控螢幕色域 REC709 HDTV\n\n觸控螢幕LUT支援 3D LUT (.cube 文件格式)\n\n觸控螢幕Anamorphic變形還原擠壓 2x，1.5x，1.33x\n\n觸控螢幕技術 IPS 面板 (電容觸控式)、可搭配其他校準工具校正Rec.709\n\n亮度 1000nit\n\n螢幕翻轉 水平翻轉 (自拍模式)，垂直翻轉\n\n影像輸入 SDI 1x HD-SDI 1.3G / 1.5G\n\n影像輸入 HDMI 1 x HDMI (1.4)\n\n影像輸入訊號源 無壓縮真10 bit或8 bit 422 (視相機而定)\n\n支援的輸入格式\n\n2K DCI 2048 x 1080:23.98p, 24p, 25p, 29.97p, 50p, 59.97p /\n\nUHD 3840 x 2160: 23.98p, 24p, 25p, 29.97p /\n\nHD 1920 x 1080: 23.98p, 24p, 25p, 29.97p, 50p, 59.94p /\n\nHD 1280 x 720: 50p, 59.94p\n\n音效輸入/輸出 (48kHz PCM 音 SDI: 8ch 24-bit 48kHz / HDMI: 2ch 24-bit 48kHz\n\n耳機音頻輸出 3.5mm\n\nSD 插槽 SD插槽允許將LUT加載到設備，並在更新AtomOS韌體時使用",
+      "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\n六角板手 * 1\n\n熱靴座支架 * 1\n\nHDMI線 * 1\n收納包 * 1"
     },
     {
       "id": "261",
@@ -6300,7 +6299,7 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-10-21T08:39:22.437Z",
+    "previousGeneratedAt": "2026-10-22T08:42:30.049Z",
     "previousProductCount": 416,
     "productCountChange": 0
   }

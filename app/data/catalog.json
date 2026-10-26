@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-10-25T08:30:18.623Z",
+  "generatedAt": "2026-10-26T09:01:02.875Z",
   "categoryCount": 66,
   "productCount": 416,
   "categories": [
@@ -51,7 +51,7 @@
     {
       "id": "10",
       "group": "機 身",
-      "name": "Nikon FX 單眼機身",
+      "name": "Nikon 單 眼 機 身",
       "sourceUrl": "https://www.ogphoto.com.tw/price.php?id=10"
     },
     {
@@ -818,7 +818,7 @@
       "id": "172",
       "name": "Nikon D850 全幅機身",
       "categoryId": "10",
-      "category": "Nikon FX 單眼機身",
+      "category": "Nikon 單 眼 機 身",
       "group": "機 身",
       "dailyRate": "850",
       "deposit": "6000",
@@ -832,7 +832,7 @@
       "id": "197",
       "name": "Nikon Z6 全幅機身",
       "categoryId": "10",
-      "category": "Nikon FX 單眼機身",
+      "category": "Nikon 單 眼 機 身",
       "group": "機 身",
       "dailyRate": "700",
       "deposit": "5000",
@@ -6299,7 +6299,7 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-10-24T08:12:45.263Z",
+    "previousGeneratedAt": "2026-10-25T08:30:18.623Z",
     "previousProductCount": 416,
     "productCountChange": 0
   }

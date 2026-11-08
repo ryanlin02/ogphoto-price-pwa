@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-11-07T10:17:28.497Z",
+  "generatedAt": "2026-11-08T10:28:24.526Z",
   "categoryCount": 66,
-  "productCount": 416,
+  "productCount": 417,
   "categories": [
     {
       "id": "56",
@@ -1531,6 +1531,20 @@
       "imageUrl": "https://www.ogphoto.com.tw/files/zimgrf-24-105-1588477770.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=196",
       "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n----------------------------------",
+      "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
+    },
+    {
+      "id": "733",
+      "name": "Canon RF 24-240mm F4-6.3 IS USM",
+      "categoryId": "30",
+      "category": "Canon RF 變焦鏡頭",
+      "group": "鏡 頭",
+      "dailyRate": "400",
+      "deposit": "3000",
+      "promissoryNote": "28000",
+      "imageUrl": "https://ogphoto.gglisten.com/files/zimgrf24-240-1794123062.jpg",
+      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=733",
+      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n----------------------------------\n\n主要規格與特色\n\n焦距範圍：24mm 廣角至 240mm 遠攝",
       "accessories": "保護鏡*1\n\n遮光罩*1\n\n鏡頭袋*1\n\n鏡頭前蓋*1\n\n鏡頭後蓋*1"
     },
     {
@@ -6299,8 +6313,8 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-11-06T10:58:22.676Z",
+    "previousGeneratedAt": "2026-11-07T10:17:28.497Z",
     "previousProductCount": 416,
-    "productCountChange": 0
+    "productCountChange": 1
   }
 }

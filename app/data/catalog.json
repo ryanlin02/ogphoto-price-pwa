@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-11-08T10:28:24.526Z",
+  "generatedAt": "2026-11-09T11:38:58.384Z",
   "categoryCount": 66,
-  "productCount": 417,
+  "productCount": 418,
   "categories": [
     {
       "id": "56",
@@ -714,6 +714,20 @@
       "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\nSD128G 記憶卡 * 1\n\n機身蓋*1\n\nEF-RF 轉接環\n相機包 * 1"
     },
     {
+      "id": "735",
+      "name": "Canon EOS R8 Mark II 全幅機身",
+      "categoryId": "2",
+      "category": "Canon 單 眼 機 身",
+      "group": "機 身",
+      "dailyRate": "900",
+      "deposit": "5000",
+      "promissoryNote": "51000",
+      "imageUrl": "https://ogphoto.gglisten.com/files/zimgr8-ii-1794163272.jpg",
+      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=735",
+      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n----------------------------------\n\n重點規格與特色\n\n感光元件與處理器：約 2,420 萬像素 35mm 全片幅 CMOS 與 DIGIC X 影像處理器。",
+      "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\nSD128G 記憶卡 * 1\n\n機身蓋*1\n\n相機包 * 1"
+    },
+    {
       "id": "614",
       "name": "Canon EOS R6 Mark II 全幅機身",
       "categoryId": "2",
@@ -756,35 +770,6 @@
       "accessories": "電池 * 2\n\n充電器(含電源線) * 1\n\nSD128G 記憶卡 * 1\n\n機身蓋*1\n\nEF-RF 轉接環\n相機包 * 1"
     },
     {
-      "id": "404",
-      "name": "Canon 全解碼假電池 E17 (USB)",
-      "categoryId": "2",
-      "category": "Canon 單 眼 機 身",
-      "group": "機 身",
-      "dailyRate": "100",
-      "deposit": "0",
-      "promissoryNote": "1000",
-      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E6%9C%AA%E5%91%BD%E5%90%8D-1659712078.jpg",
-      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=404",
-      "description": "適用 M3、M5、M6",
-      "accessories": "電池連接線*1"
-    },
-    {
-      "id": "371",
-      "name": "Canon 全解碼假電池 E6N / E6NH",
-      "categoryId": "2",
-      "category": "Canon 單 眼 機 身",
-      "group": "機 身",
-      "dailyRate": "100",
-      "deposit": "0",
-      "promissoryNote": "1000",
-      "imageUrl": "https://www.ogphoto.com.tw/files/zimge6n-1649773865.jpg",
-      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=371",
-      "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
-      "accessories": "",
-      "detailUnavailable": true
-    },
-    {
       "id": "626",
       "name": "Canon LP-E6NH 原廠電池(2130mAh 16Wh) (A)",
       "categoryId": "83",
@@ -810,6 +795,35 @@
       "promissoryNote": "3500",
       "imageUrl": "https://ogphoto.gglisten.com/files/zimge6nh-1739334131.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=627",
+      "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
+      "accessories": "",
+      "detailUnavailable": true
+    },
+    {
+      "id": "404",
+      "name": "Canon 全解碼假電池 E17 (USB)",
+      "categoryId": "83",
+      "category": "Canon 機身專屬配件",
+      "group": "機 身",
+      "dailyRate": "100",
+      "deposit": "0",
+      "promissoryNote": "1000",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E6%9C%AA%E5%91%BD%E5%90%8D-1659712078.jpg",
+      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=404",
+      "description": "適用 M3、M5、M6",
+      "accessories": "電池連接線*1"
+    },
+    {
+      "id": "371",
+      "name": "Canon 全解碼假電池 E6N / E6NH",
+      "categoryId": "83",
+      "category": "Canon 機身專屬配件",
+      "group": "機 身",
+      "dailyRate": "100",
+      "deposit": "0",
+      "promissoryNote": "1000",
+      "imageUrl": "https://www.ogphoto.com.tw/files/zimge6n-1649773865.jpg",
+      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=371",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "",
       "detailUnavailable": true
@@ -6313,8 +6327,8 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-11-07T10:17:28.497Z",
-    "previousProductCount": 416,
+    "previousGeneratedAt": "2026-11-08T10:28:24.526Z",
+    "previousProductCount": 417,
     "productCountChange": 1
   }
 }

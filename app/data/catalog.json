@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-11-23T12:51:21.036Z",
+  "generatedAt": "2026-11-24T13:49:03.091Z",
   "categoryCount": 66,
-  "productCount": 417,
+  "productCount": 418,
   "categories": [
     {
       "id": "56",
@@ -771,7 +771,7 @@
     },
     {
       "id": "626",
-      "name": "Canon LP-E6NH 原廠電池(2130mAh 16Wh) (A)",
+      "name": "Canon LP-E6NH 原廠電池(2130mAh) -【不單租】(A)",
       "categoryId": "83",
       "category": "Canon 機身專屬配件",
       "group": "機 身",
@@ -786,7 +786,7 @@
     },
     {
       "id": "627",
-      "name": "Canon LP-E6NH 原廠電池(2130mAh 16Wh) (B)",
+      "name": "Canon LP-E6NH 原廠電池(2130mAh) -【不單租】(B)",
       "categoryId": "83",
       "category": "Canon 機身專屬配件",
       "group": "機 身",
@@ -795,6 +795,21 @@
       "promissoryNote": "3500",
       "imageUrl": "https://ogphoto.gglisten.com/files/zimge6nh-1739334131.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=627",
+      "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
+      "accessories": "",
+      "detailUnavailable": true
+    },
+    {
+      "id": "736",
+      "name": "Canon LP-E17 原廠電池(1040 mAh) -【不單租】",
+      "categoryId": "83",
+      "category": "Canon 機身專屬配件",
+      "group": "機 身",
+      "dailyRate": "120",
+      "deposit": "0",
+      "promissoryNote": "2400",
+      "imageUrl": "https://ogphoto.gglisten.com/files/zimglp-e17-1795521426.jpg",
+      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=736",
       "description": "官方詳情頁未提供可讀文字內容，請開啟官方頁面確認。",
       "accessories": "",
       "detailUnavailable": true
@@ -6313,8 +6328,8 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-11-22T11:30:52.590Z",
+    "previousGeneratedAt": "2026-11-23T12:51:21.036Z",
     "previousProductCount": 417,
-    "productCountChange": 0
+    "productCountChange": 1
   }
 }

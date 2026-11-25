@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "sourceName": "橙攝攝影器材行公開價目表",
   "sourceUrl": "https://www.ogphoto.com.tw/price.php?act=init",
-  "generatedAt": "2026-11-24T13:49:03.091Z",
+  "generatedAt": "2026-11-25T13:01:46.382Z",
   "categoryCount": 66,
   "productCount": 418,
   "categories": [
@@ -406,30 +406,30 @@
   "products": [
     {
       "id": "378",
-      "name": "Acer 5750G i5-2450M 四核心 15.6吋 獨顯筆電",
+      "name": "Acer 5750G i5-2450M 15.6吋 Win7 獨顯筆電",
       "categoryId": "56",
       "category": "筆 記 型 電 腦",
       "group": "商 務 設 備",
-      "dailyRate": "450",
+      "dailyRate": "300",
       "deposit": "2000",
       "promissoryNote": "10000",
       "imageUrl": "https://ogphoto.gglisten.com/files/zimg5750-1716788430.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=378",
-      "description": "租期1~2天：租金＄450/日\n\n租期3~10天：租金＄250/日\n\n租期11~20天：租金＄200/日\n\n租期20日以上為包月計算＄4000/月\n\n*租期11天以上用戶如不方便押證件，可押金提高至$5000代替\n\n--------------------------------------\n\n■CPU：Intel Core i5-2450M 2.50GHz 四核心\n\n■RAM：6G\n\n■螢幕15.6吋\n\n■硬碟：SSD 240GB\n\n■顯示卡：NVIDIA GeForce GT 630M 2GB 獨顯\n\n■作業系統 : Windows 7 64位元",
+      "description": "租期1~2天：租金＄300/日\n\n租期3~10天：租金＄180/日\n\n租期11~20天：租金＄170/日\n\n租期20日以上為包月計算＄3000/月\n\n*租期11天以上用戶如不方便押證件，可押金提高至$4000代替\n\n*此筆電 Win7 系統已不支援電腦版 Line 使用，僅適合簡易文書\n\n--------------------------------------\n\n■CPU：Intel Core i5-2450M 2.50GHz 四核心\n\n■RAM：6G\n\n■螢幕15.6吋\n\n■硬碟：SSD 240GB\n\n■顯示卡：NVIDIA GeForce GT 630M 2GB 獨顯\n\n■作業系統 : Windows 7 64位元",
       "accessories": "電池 * 1\n\n電源控制盒*1\n\n電源線*1\n\n滑鼠 * 1 、 筆電包 * 1"
     },
     {
       "id": "598",
-      "name": "ASUS P2530U i7-6500U 四核心 15.6吋 獨顯筆電",
+      "name": "ASUS P2530U i7-6500U 15.6吋 Win10 獨顯筆電",
       "categoryId": "56",
       "category": "筆 記 型 電 腦",
       "group": "商 務 設 備",
-      "dailyRate": "600",
+      "dailyRate": "550",
       "deposit": "3000",
       "promissoryNote": "19000",
       "imageUrl": "https://ogphoto.gglisten.com/files/zimgi7-1716790175.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=598",
-      "description": "租期1~2天：租金＄600/日\n\n租期3~10天：租金＄350/日\n\n租期11~20天：租金＄290/日\n\n租期20日以上為包月計算＄5800/月\n\n*租期11天以上用戶如不方便押證件，可押金提高至$90000代替\n\n---------------------------------------------\n\n■CPU：Intel Core i7-6500U 3.10GHz(最高) 四核心\n\n■RAM: 8G DDR4\n\n■螢幕 15.6吋\n\n■硬碟：SSD 240GB\n\n■顯示卡：NVIDIA GeForce GT 920M 2GB 獨顯\n\n■作業系統 : Windows 10 PRO",
+      "description": "租期1~2天：租金＄550/日\n\n租期3~10天：租金＄340/日\n\n租期11~20天：租金＄290/日\n\n租期20日以上為包月計算＄5800/月\n\n*租期11天以上用戶如不方便押證件，可押金提高至$90000代替\n\n---------------------------------------------\n\n■CPU：Intel Core i7-6500U 3.10GHz(最高) 四核心\n\n■RAM: 8G DDR4\n\n■螢幕 15.6吋\n\n■硬碟：SSD 240GB\n\n■顯示卡：NVIDIA GeForce GT 920M 2GB 獨顯\n\n■作業系統 : Windows 10 PRO",
       "accessories": "電池 * 1\n\n電源控制盒*1\n\n電源線*1\n\n滑鼠 * 1 、 筆電包 * 1"
     },
     {
@@ -518,32 +518,32 @@
       "accessories": "布幕底扣 * 1\n\n支架 * 1"
     },
     {
-      "id": "637",
-      "name": "EPSON EF-22N 1080P 智慧雷射投影機【1000 ANSI】",
-      "categoryId": "55",
-      "category": "投 影 機 / 布 幕",
-      "group": "商 務 設 備",
-      "dailyRate": "1000",
-      "deposit": "4000",
-      "promissoryNote": "30000",
-      "imageUrl": "https://ogphoto.gglisten.com/files/zimg22n-1741954636.jpg",
-      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=637",
-      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-----------------------------------\n\n■1000 ANSI lm/ 1000lm彩色亮度\n\n■3LCD 成像原理，完美呈現\n\n■高對比度: 5,000,000:1\n\n■AIO，內建Google TVTM，搭載正版Netflix、Youtube等多媒體\n\n■支援Chromecast無線投影\n\n■360度角架，隨處可投\n\n■可投出30-150吋影像",
-      "accessories": "電源線 * 1\n\n遙控器 * 1\n\nHDMI線 * 1\n\n收納包 * 1"
-    },
-    {
       "id": "355",
-      "name": "EPSON 商務液晶投影機 EB-S11【160 ANSI】",
+      "name": "EPSON EB-S11 商務液晶投影機 【2600 ANSI】",
       "categoryId": "55",
       "category": "投 影 機 / 布 幕",
       "group": "商 務 設 備",
-      "dailyRate": "650",
+      "dailyRate": "600",
       "deposit": "3000",
       "promissoryNote": "11000",
       "imageUrl": "https://www.ogphoto.com.tw/files/zimg%E6%8A%95%E5%BD%B1%E6%A9%9F-1634702408.jpg",
       "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=355",
       "description": "‧亮：色彩亮度:2600lm\n\n‧對比度: 3000:1\n\n‧快速開機 / 0秒關機\n\n‧5000小時長效燈泡\n\n*\n\n環境規格-消耗電力\n\n約283W / 234W (Normal / Eco)",
       "accessories": "電源線 * 1\n\nAV影像線 * 1\n\nVGA影像線*1\n\nHDMI 轉 VGA 轉接線 * 1 (含電源線)\n\n遙控器 * 1\n收納包 * 1"
+    },
+    {
+      "id": "637",
+      "name": "EPSON EF-22N 1080P 智慧雷射投影機【1000 ANSI】",
+      "categoryId": "55",
+      "category": "投 影 機 / 布 幕",
+      "group": "商 務 設 備",
+      "dailyRate": "950",
+      "deposit": "4000",
+      "promissoryNote": "30000",
+      "imageUrl": "https://ogphoto.gglisten.com/files/zimg22n-1741954636.jpg",
+      "sourceUrl": "https://www.ogphoto.com.tw/rent/11_rent_product.php?mid=637",
+      "description": "租期3~5天：租用總金額9折\n\n租期6~9天：租用總金額8.5折\n\n租期10~19天：租用總金額8折\n\n租期20天以上：個案報價。\n\n-----------------------------------\n\n■1000 ANSI lm/ 1000lm彩色亮度\n\n■3LCD 成像原理，完美呈現\n\n■高對比度: 5,000,000:1\n\n■AIO，內建Google TVTM，搭載正版Netflix、Youtube等多媒體\n\n■支援Chromecast無線投影\n\n■360度角架，隨處可投\n\n■可投出30-150吋影像",
+      "accessories": "電源線 * 1\n\n遙控器 * 1\n\nHDMI線 * 1\n\n收納包 * 1"
     },
     {
       "id": "639",
@@ -6328,8 +6328,8 @@
     }
   ],
   "changesFromPrevious": {
-    "previousGeneratedAt": "2026-11-23T12:51:21.036Z",
-    "previousProductCount": 417,
-    "productCountChange": 1
+    "previousGeneratedAt": "2026-11-24T13:49:03.091Z",
+    "previousProductCount": 418,
+    "productCountChange": 0
   }
 }
